@@ -1,585 +1,646 @@
-[
-  {
-    "name": "📺豆瓣",
-    "api": "https://movie.douban.com/j/search_subjects?page_limit=30",
-    "type": 2,
-    "searchable": false,
-    "categories": [
-      { "name": "电视剧", "url": "&type=tv&tag=热门&page_start={{page-1}}" },
-      { "name": "电影", "url": "&type=movie&tag=热门&page_start={{page-1}}" },
-      { "name": "国产剧", "url": "&type=tv&tag=国产剧&page_start={{page-1}}" },
-      { "name": "美剧", "url": "&type=tv&tag=美剧&page_start={{page-1}}" },
-      { "name": "韩剧", "url": "&type=tv&tag=韩剧&page_start={{page-1}}" },
-      { "name": "纪录片", "url": "&type=tv&tag=纪录片&page_start={{page-1}}" },
-      { "name": "豆瓣高分", "url": "&type=movie&tag=豆瓣高分&page_start={{page-1}}" },
-      { "name": "华语", "url": "&type=movie&tag=华语&page_start={{page-1}}" },
-      { "name": "欧美", "url": "&type=movie&tag=欧美&page_start={{page-1}}" },
-      { "name": "韩国", "url": "&type=movie&tag=韩国&page_start={{page-1}}" }
-    ],
-    "list": {
-      "list": "$.subjects",
-      "name": "$.title",
-      "tips": "$.episodes_info",
-      "rate": "$.rate",
-      "doubanId": "$.id",
-      "doubanUrl": "$.url",
-      "coverUrl": "$.cover",
-      "detailUrl": "$.url"
-    },
-    "detail": {
-      "meta": "#info@html"
+{
+  "葬送的芙莉蓮 S2": {
+    "vod_id": "347",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/01/01/rUxjaW.png?v1",
+    "dogpan": {
+      "EP29 那我們走吧": "",
+      "EP30 南方勇者": "",
+      "EP31 喜歡的地方": ""
     }
   },
-  {
-    "name": "📺骚火",
-    "api": "https://saohuo.tv",
-    "type": 2,
-    "searchable": false,
-    "header": {
-        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "Accept-Language":"zh-CN,zh;q=0.9",
-        "Referer":"https://saohuo.tv"
-    },
-    "removeReferer": true,
-    "categories": [
-      { "name": "电影", "url": "/list/1-{{page}}.html" },
-      { "name": "电视剧", "url": "/list/2-{{page}}.html" },
-      { "name": "大陆剧", "url": "/list/20-{{page}}.html" },
-      { "name": "TVB", "url": "/list/21-{{page}}.html" },
-      { "name": "韩剧", "url": "/list/22-{{page}}.html" },
-      { "name": "美剧", "url": "/list/23-{{page}}.html" },
-      { "name": "日剧", "url": "/list/24-{{page}}.html" },
-      { "name": "英剧", "url": "/list/25-{{page}}.html" },
-      { "name": "台剧", "url": "/list/26-{{page}}.html" },
-      { "name": "其它剧", "url": "/list/27-{{page}}.html" },
-      { "name": "喜剧", "url": "/list/6-{{page}}.html" },
-      { "name": "爱情", "url": "/list/7-{{page}}.html" },
-      { "name": "恐怖", "url": "/list/8-{{page}}.html" },
-      { "name": "动作", "url": "/list/9-{{page}}.html" },
-      { "name": "科幻", "url": "/list/10-{{page}}.html" },
-      { "name": "战争", "url": "/list/11-{{page}}.html" },
-      { "name": "犯罪", "url": "/list/12-{{page}}.html" },
-      { "name": "动画", "url": "/list/13-{{page}}.html" },
-      { "name": "奇幻", "url": "/list/14-{{page}}.html" },
-      { "name": "剧情", "url": "/list/15-{{page}}.html" },
-      { "name": "冒险", "url": "/list/16-{{page}}.html" },
-      { "name": "悬疑", "url": "/list/17-{{page}}.html" },
-      { "name": "惊悚", "url": "/list/18-{{page}}.html" },
-      { "name": "其它", "url": "/list/19-{{page}}.html" }
-    ],
-    "search": {
-      "url": "/s----------.html?wd={{key}}",
-      "list": ".v_list .v_img",
-      "name": "a.0@title",
-      "tips": ".v_note@.text",
-      "coverUrl": "img.0@data-original",
-      "detailUrl": "a.0@href"
-    },
-    "detail": {
-      "meta": ".v_info_box > p@text"
-    },
-    "play": {
-      "list": "li.current a",
-      "reverse": true,
-      "name": "text",
-      "url": "href"
-    }
+  "殭屍100～在成為殭屍前要做的100件事～": {
+    "vod_id": "2",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/01/19/s5QMAE.png?v1",
+    "dogpan": {}
   },
-  {
-    "name": "📺厂长",
-    "api": "https://www.cz0101.com",
-    "type": 2,
-    "header": {
-      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"
-    },
-    "removeReferer": true,
-    "categories": [
-      { "name": "电影", "url": "/zuixindianying/page/{{page}}" ,"url2":"/zuixindianying"},
-      { "name": "国产剧", "url": "/gcj/page/{{page}}" ,"url2":"/gcj"},
-      { "name": "美剧", "url": "/meijutt/page/{{page}}" ,"url2":"/meijutt"},
-      { "name": "韩剧", "url": "/hanjutv/page/{{page}}" ,"url2":"/hanjutv"},
-      { "name": "番剧", "url": "/fanju/page/{{page}}" ,"url2":"/fanju"},
-      { "name": "动漫", "url": "/dongmanjuchangban/page/{{page}}","url2":"/dongmanjuchangban" }
-    ],
-    "list": {
-      "list": ".bt_img.mi_ne_kd li",
-      "name": "h3.0@text",
-      "tips": ".jidi.0@text",
-      "coverUrl": "img.0@data-original",
-      "detailUrl": "a.0@href"
-    },
-    "detail": {
-      "meta": ".moviedteail_list@html"
-    },
-    "play": {
-      "list": ".paly_list_btn a",
-      "name": "text",
-      "url": "href"
-    }
+  "一拳超人 S3": {
+    "vod_id": "308",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/01/04/hCTAg4.png?v1",
+    "dogpan": {}
   },
-  {
-    "name": "📺金牌",
-    "api": "https://www.hellorlgzf7sn.com",
-    "type": 2,
-    "searchable": true,
-    "categories": [
-      { "name": "电视剧", "url": "/vod/show/id/2/page/{{page}}" },
-      { "name": "电影", "url": "/vod/show/id/1/page/{{page}}" },
-      { "name": "动漫", "url": "/vod/show/id/4/page/{{page}}" },
-      { "name": "国产剧", "url": "/vod/show/id/2/type/14/page/{{page}}" },
-      { "name": "欧美剧", "url": "/vod/show/id/2/type/15/page/{{page}}" },
-      { "name": "港台剧", "url": "/vod/show/id/2/type/16/page/{{page}}" },
-      { "name": "日韩剧", "url": "/vod/show/id/2/type/62/page/{{page}}" },
-      { "name": "其它剧", "url": "/vod/show/id/2/type/68/page/{{page}}" },
-      { "name": "喜剧", "url": "/vod/show/id/1/type/22/page/{{page}}" },
-      { "name": "动作", "url": "/vod/show/id/1/type/23/page/{{page}}" },
-      { "name": "科幻", "url": "/vod/show/id/1/type/30/page/{{page}}" },
-      { "name": "爱情", "url": "/vod/show/id/1/type/26/page/{{page}}" },
-      { "name": "悬疑", "url": "/vod/show/id/1/type/27/page/{{page}}" },
-      { "name": "恐怖", "url": "/vod/show/id/1/type/36/page/{{page}}" },
-      { "name": "惊悚", "url": "/vod/show/id/1/type/34/page/{{page}}" },
-      { "name": "动画", "url": "/vod/show/id/1/type/33/page/{{page}}" },
-      { "name": "灾难", "url": "/vod/show/id/1/type/81/page/{{page}}" },
-      { "name": "剧情", "url": "/vod/show/id/1/type/37/page/{{page}}" }
-    ],
-    "search": {
-      "url": "/vod/search/{{key}}",
-      "list": "body@js:function getSearchList(html) { var a = substring(html, '\\\"result\\\":', 11, ']}', 1); a = substring(a, '\\\"list\\\":', 7); return a; } getSearchList(__result);",
-      "name": "$.vodName",
-      "tips": "$.vodRemarks",
-      "coverUrl": "$.vodPic",
-      "detailUrl": "/detail/{{$.vodId}}",
-      "rate": "$.vodDoubanScore"
-    },
-    "detail": {
-      "meta": ".director,.item-top@html"
-    },
-    "list": {
-      "list": "body@js:substring(__result,'\\\"list\\\":',7,']}',1);",
-      "name": "$.vodName",
-      "tips": "$.vodRemarks",
-      "coverUrl": "$.vodPic",
-      "detailUrl": "/detail/{{$.vodId}}",
-      "rate": "$.vodDoubanScore"
-    },
-    "toc": {
-      "list": "body@js:function getPlayList(html) { var vodId = substring(html,'\\\"vodId\\\":',8,','); var script = substring(html,'episodeList',13,']',1); script = script.replaceAll('null',vodId); return script; }; getPlayList(__result)",
-      "name": "name",
-      "url": "/vod/play/{{$.playUrl}}/1/{{$.nid}}"
-    }
+  "魔神創造傳": {
+    "vod_id": "33",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/11/19/k1M85A.png?v1",
+    "dogpan": {}
   },
-  {
-    "name": "📺奇优",
-    "type": 2,
-    "api": "http://www.qiyoudy4.com",
-    "header": {
-      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"
-    },
-    "removeReferer": true,
-    "injectJs": {
-      "start": "Object.defineProperty(window.navigator, 'platform', {value: 'iPhone', writable: false});"
-    },
-    "categories": [
-      { "url": "/list/1_{{page}}.html", "name": "电影" },
-      { "url": "/list/2_{{page}}.html", "name": "电视剧" },
-      { "url": "/list/3_{{page}}.html", "name": "动漫" },
-      { "url": "/list/4_{{page}}.html", "name": "综艺" }
-    ],
-    "detail": {
-      "intro": ".detail-content@text",
-      "author": ".data5 a.0@text",
-      "category": ".data2.0@text"
-    },
-    "search": {
-      "list": ".stui-vodlist__thumb",
-      "name": "title",
-      "detailUrl": "href",
-      "coverUrl": "data-original",
-      "tips": ".pic-text@text",
-      "method": "POST",
-      "post": "searchword={{key}}",
-      "url": "/search.php"
-    },
-    "play": {
-      "list": ".stui-content__playlist.0@a",
-      "name": "text",
-      "url": "href"
-    },
-    "searchable": true,
-    "discoverable": true
+  "科學×冒險 絕境求生手冊": {
+    "vod_id": "24",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/07/13/18vuS3.png?v1",
+    "dogpan": {}
   },
-  { "name": "📺优质", "api": "https://api.yzzy-api.com/inc/apijson.php" },
-  { "name": "📺如意", "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8", "discoverable": false },
-  { "name": "📺红牛", "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/" },
-  { "name": "📺豪华", "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/" },
-  { "name": "📺暴风", "api": "https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8/" },
-  { "name": "📺飘零", "api": "https://p2100.net/api.php/provide/vod/from/ikm3u8/" },
-  { "name": "📺清风", "api": "http://sspa8.top:8100/php/清风.php" },
-  { "name": "📺卧龙", "api": "https://collect.wolongzyw.com/api.php/provide/vod/" },
-  { "name": "📺影探", "api": "https://catbox.n13.club/18/影探影视.php" },
-  { "name": "📺速播", "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/" },
-  { "name": "📺独播", "api": "http://bob2.hkt.net.cn/miraplay/dbo.php" },
-  { "name": "📺360", "api": "https://360zyzz.com/api.php/provide/vod/" },
-  { "name": "📺淘片", "api": "https://www.taopianzy.com/cjapi/mc/vod/json.html" },
-  { "name": "📺电影天堂", "api": "http://dyttzy2.tv/api.php/provide/vod/" },
-  { "name": "📺无水", "api": "https://api.wsyzy.net/api.php/provide/vod/" },
-  { "name": "📺蛋蛋", "api": "https://ddmf.net/api.php/provide/vod/" },
-  { "name": "📺猫眼",  "api": "https://api.maoyanapi.top/api.php/provide/vod/" },
-  { "name": "📺极速", "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/" },
-  { "name": "📺豆瓣", "api": "https://caiji.dbzy5.com/api.php/provide/vod/" },
-  { "name": "📺TVBOX", "api": "https://dy.7772888.xyz/api.php/tvbox" },
-  { "name": "📺新浪", "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8" },
-  { "name": "📺百度", "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/" },
-  { "name": "📺金鹰", "api": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/" },
-  { "name": "📺光速", "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/" },
-  { "name": "📺索尼", "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/" },
-  { "name": "📺CK", "api": "https://ckzy.me/api.php/provide/vod/" },
-  { "name": "📺天涯",  "api": "https://tyyszyapi.com/api.php/provide/vod/" },
-  { "name": "📺人人",  "api": "http://jiduo666.dpdns.org/rrsp.php" },
-  { "name": "📺荐片",  "api": "http://zhangqun1818.serv00.net/jianpian1.php" },
-  { "name": "📺奇艺", "api": "https://iqiyizyapi.com/api.php/provide/vod/" },
-  { "name": "📺魔都", "api": "https://www.mdzyapi.com/api.php/provide/vod/" },
-  { "name": "📺茅台", "api": "https://caiji.maotaizy.cc/api.php/provide/vod/" },
-  { "name": "📺量子", "api": "https://cj.lziapi.com/api.php/provide/vod/" },
-  { "name": "📺最大", "api": "https://api.zuidapi.com/api.php/provide/vod/" },
-  { "name": "📺优酷", "api": "https://api.ukuapi88.com/api.php/provide/vod/" },
-  { "name": "📺旺旺", "api": "https://ww.tyyszy5.com/api.php/provide/vod/" },
-  { "name": "📺无尽", "api": "https://api.wujinapi.me/api.php/provide/vod/" },
-  { "name": "📺漫道", "api": "https://www.mandao.cc/api.php/provide/vod/" },
-  { "name": "📺闪电",  "api": "https://xsd.sdzyapi.com/api.php/provide/vod/" },
-  { "name": "📺非凡", "api": "https://cj.ffzyapi.com/api.php/provide/vod/" },
-  { "name": "📺牛牛", "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/", "searchable": false },
-  { "name": "📺鸭鸭", "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/", "searchable": false },
-  { "name": "📺樱花", "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/from/yhm3u8/", "searchable": false },
-  { "name": "📺快车", "api": "https://caiji.kuaichezy.org/api.php/provide/vod/from/kcm3u8/", "searchable": false },
-  { "name": "📺虎牙", "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/", "searchable": false },
-  {
-    "name": "📙猫眼看书",
-    "type": 10,
-    "api": "http://api.lemiyigou.com",
-    "key": "api.lemiyigou.com",
-    "header": {
-      "client-device": "2d37f6b5b6b2605373092c3dc65a3b39",
-      "client-brand": "Redmi",
-      "client-version": "2.3.0",
-      "client-name": "app.maoyankanshu.novel",
-      "client-source": "android",
-      "Authorization": "bearereyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9hcGkuanhndHp4Yy5jb21cL2F1dGhcL3RoaXJkIiwiaWF0IjoxNjgzODkxNjUyLCJleHAiOjE3NzcyMDM2NTIsIm5iZiI6MTY4Mzg5MTY1MiwianRpIjoiR2JxWmI4bGZkbTVLYzBIViIsInN1YiI6Njg3ODYyLCJwcnYiOiJhMWNiMDM3MTgwMjk2YzZhMTkzOGVmMzBiNDM3OTQ2NzJkZDAxNmM1In0.mMxaC2SVyZKyjC6rdUqFVv5d9w_X36o0AdKD7szvE_Q",
-      "Referer": "http://api.lemiyigou.com"
-    },
-    "categories": [
-      { "url": "/module/rank?type=1&channel=1&page={{page}}", "name": "必读榜" },
-      { "url": "/module/rank?type=5&channel=1&page={{page}}", "name": "潜力榜" },
-      { "url": "/module/rank?type=2&channel=1&page={{page}}", "name": "完本榜" },
-      { "url": "/module/rank?type=3&channel=1&page={{page}}", "name": "更新榜" },
-      { "url": "/module/rank?type=4&channel=1&page={{page}}", "name": "搜索榜" },
-      { "url": "/module/rank?type=6&channel=1&page={{page}}", "name": "评论榜" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=lejRej", "name": "玄幻" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=nel5aK", "name": "武侠" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=mbk5ez", "name": "都市" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=vbmOeY", "name": "仙侠" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=penRe7", "name": "军事" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=xbojag", "name": "历史" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=mep2bM", "name": "游戏" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=zbq2dp", "name": "科幻" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=YerEdO", "name": "轻小说" }
-    ],
-    "detail": {
-      "tocUrl": "/novel/{{$..novelId}}/chapters?readNum=1",
-      "intro": "$..summary",
-      "category": "{{$.data.categoryNames[*].className}},{{$.data.tagNames[*].tagName}}",
-      "coverUrl": "$..cover",
-      "tips": "$..lastChapter.chapterName"
-    },
-    "content": {
-      "content": "$.content##一秒记住.*供精彩阅读。|7017k"
-    },
-    "list": {
-      "list": "$.data[*]",
-      "name": "$.novelName",
-      "author": "$.authorName",
-      "detailUrl": "/novel/{{$.novelId}}?isSearch=1",
-      "intro": "$.summary",
-      "coverUrl": "$.cover"
-    },
-    "search": {
-      "list": "$.data[*]",
-      "name": "$.novelName",
-      "author": "$.authorName",
-      "detailUrl": "/novel/{{$.novelId}}?isSearch=1",
-      "intro": "$.summary",
-      "last": "",
-      "coverUrl": "$.cover",
-      "url": "search?page=1&keyword={{key}}"
-    },
-    "toc": {
-      "list": "$.data.list[*]",
-      "name": "$.chapterName",
-      "url": "$.path@js:decodeAES(result,'f041c49714d39908','0123456789abcdef')"
-    },
-    "searchable": true,
-    "discoverable": true
+  "蠟筆小新": {
+    "vod_id": "17",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/12/27/HeBzVo.png?v1",
+    "dogpan": {}
   },
-  {
-    "name": "📙免费读",
-    "type": 10,
-    "api": "https://www.mianfeidu.com",
-    "categories": [
-      { "url": "/all/id/43.html?page={{page}}", "name": "📙小说" },
-      { "url": "/all/id/47.html?page={{page}}", "name": "历史演义" },
-      { "url": "/all/id/48.html?page={{page}}", "name": "神魔幻想" },
-      { "url": "/all/id/49.html?page={{page}}", "name": "侠义公案" },
-      { "url": "/all/id/50.html?page={{page}}", "name": "才子佳人" },
-      { "url": "/all/id/51.html?page={{page}}", "name": "世情小说" },
-      { "url": "/all/id/52.html?page={{page}}", "name": "文言笔记" },
-      { "url": "/all/id/92.html?page={{page}}", "name": "英雄传奇" },
-      { "url": "/all/id/94.html?page={{page}}", "name": "讽刺小说" },
-      { "url": "/all/id/66.html?page={{page}}", "name": "📙典籍" },
-      { "url": "/all/id/68.html?page={{page}}", "name": "儒家经典" },
-      { "url": "/all/id/69.html?page={{page}}", "name": "道家经典" },
-      { "url": "/all/id/70.html?page={{page}}", "name": "佛教经典" },
-      { "url": "/all/id/107.html?page={{page}}", "name": "易学典籍" },
-      { "url": "/all/id/65.html?page={{page}}", "name": "📙史传" },
-      { "url": "/all/id/71.html?page={{page}}", "name": "二十四史" },
-      { "url": "/all/id/72.html?page={{page}}", "name": "野史笔记" },
-      { "url": "/all/id/108.html?page={{page}}", "name": "传记方志" },
-      { "url": "/all/id/113.html?page={{page}}", "name": "编年纪传" },
-      { "url": "/all/id/67.html?page={{page}}", "name": "📙百家" },
-      { "url": "/all/id/87.html?page={{page}}", "name": "文化艺术" },
-      { "url": "/all/id/88.html?page={{page}}", "name": "医学方技" },
-      { "url": "/all/id/89.html?page={{page}}", "name": "天文算经" },
-      { "url": "/all/id/91.html?page={{page}}", "name": "诸子百家" },
-      { "url": "/all/id/96.html?page={{page}}", "name": "阴阳术数" },
-      { "url": "/all/id/97.html?page={{page}}", "name": "农工百技" },
-      { "url": "/all/id/64.html?page={{page}}", "name": "📙诗文" },
-      { "url": "/all/id/81.html?page={{page}}", "name": "诗词歌赋" },
-      { "url": "/all/id/82.html?page={{page}}", "name": "词文别集" },
-      { "url": "/all/id/101.html?page={{page}}", "name": "诗话词话" },
-      { "url": "/all/id/111.html?page={{page}}", "name": "文论文平" }
-    ],
-    "detail": {
-      "intro": ".brief_text.0@text",
-      "category": "head meta[property='og:novel:category']@content",
-      "tips": "head meta[property='og:novel:status']@content"
-    },
-    "content": {
-      "content": ".read-content p!0@text"
-    },
-    "list": {
-      "list": ".listboxw dl",
-      "name": "a.1@text",
-      "author": "a.2@text",
-      "detailUrl": "a.0@href",
-      "coverUrl": "https://www.mianfeidu.com{{img.0@data-original}}"
-    },
-    "search": {
-      "list": ".secd-rank-list",
-      "name": "a.1@text",
-      "author": "a.2@text",
-      "detailUrl": "a.0@href",
-      "coverUrl": "https://www.mianfeidu.com{{img.0@data-original}}",
-      "url": "/search.html?keyword={{key}}"
-    },
-    "toc": {
-      "list": ".cate-list a",
-      "name": ".chapter_name@text",
-      "url": "href"
-    },
-    "searchable": true,
-    "discoverable": true
+  "SPY×FAMILY 間諜家家酒 S3": {
+    "vod_id": "283",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/01/04/mjo3wX.png?v1",
+    "dogpan": {}
   },
-  {
-    "name": "📙顶点小说",
-    "type": 10,
-    "api": "http://m.23uswx.org",
-    "categories": [
-      { "url": "/xclass/0/{{page}}.html", "name": "全部" },
-      { "url": "/xclass/1/{{page}}.html", "name": "玄幻" },
-      { "url": "/xclass/2/{{page}}.html", "name": "修真" },
-      { "url": "/xclass/3/{{page}}.html", "name": "都市" },
-      { "url": "/xclass/4/{{page}}.html", "name": "穿越" },
-      { "url": "/xclass/5/{{page}}.html", "name": "网游" },
-      { "url": "/xclass/6/{{page}}.html", "name": "科幻" }
-    ],
-    "detail": {
-      "intro": ".review.0@text",
-      "tips": "head meta[property='og:novel:latest_chapter_name']@content",
-      "category": "head meta[property='og:novel:category']@content",
-      "tocUrl": ".recommend h2:last-child a.0@href"
-    },
-    "content": {
-      "content": "#chaptercontent@html##最新网址：m\\.23uswx\\.org|『加入书签，方便阅读』",
-      "nextUrl": "下一页@href"
-    },
-    "search": {
-      "list": ".hot_sale",
-      "name": ".title.0@text",
-      "author": ".author.0@text##作者：",
-      "detailUrl": "a.0@href",
-      "coverUrl": "img.0@data-original",
-      "url": "/s.php",
-      "method": "POST",
-      "post": "keyword={{key}}&t=1"
-    },
-    "toc": {
-      "list": "#chapterlist a!0",
-      "name": "text",
-      "url": "href"
-    },
-    "searchable": true,
-    "discoverable": true
+  "怪獸8號": {
+    "vod_id": "278",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://i.ibb.co/Z6Q8QqW6/V0DFb2.png?v1",
+    "dogpan": {}
   },
-  {
-    "name": "🎨看漫画",
-    "type": 12,
-    "api": "https://m.kanman.com",
-    "categories": [
-      { "name": "人气", "url": "/api/getsortlist/?comic_sort=&orderby=click&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "更新", "url": "/api/getsortlist/?comic_sort=&orderby=date&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "评分", "url": "/api/getsortlist/?comic_sort=&orderby=score&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "收藏", "url": "/api/getsortlist/?comic_sort=&orderby=shoucang&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "推理", "url": "/api/getsortlist/?comic_sort=tuili&orderby=&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "冒险", "url": "/api/getsortlist/?comic_sort=maoxian&orderby=&search_type=&search_key=&page={{page}}&size=48" }
-    ],
-    "detail": {
-      "category": "[property=\"og:novel:category\"]@content",
-      "tocUrl": "/api/getchapterlist?product_id=1&productname=kmh&platformname=wap&comic_id={{$.comic_id}}"
-    },
-    "content": {
-      "content": "$.data.current_chapter.chapter_img_list"
-    },
-    "list": {
-      "list": "$.data.data",
-      "author": "$.comic_author",
-      "detailUrl": "/{{$.comic_id}}/",
-      "tips": "$.latest_cartoon_topic_name",
-      "coverUrl": "https://image.yqmh.com/mh/{{$.comic_id}}.jpg-300x400.webp",
-      "name": "$.comic_name",
-      "params": "{\"comic_id\":{{$.comic_id}}}"
-    },
-    "search": {
-      "author": "$.cartoon_author_list_name",
-      "list": "$.data",
-      "detailUrl": "/{{$.comic_id}}/",
-      "coverUrl": "https://image.yqmh.com/mh/{{$.comic_id}}.jpg-300x400.webp",
-      "intro": "$.cartoon_desc",
-      "category": "$.comic_type##[a-zA-Z]|\\|",
-      "name": "$.comic_name",
-      "params": "{\"comic_id\":{{$.comic_id}}}",
-      "url": "/api/serachcomic/?product_id=1&productname=kmh&platformname=wap&serachKey={{key}}&topNumber=10"
-    },
-    "toc": {
-      "list": "$.data",
-      "name": "$.chapter_name",
-      "reverse": true,
-      "url": "/api/getchapterinfov2?product_id=1&productname=kmh&platformname=wap&comic_id={{$.comic_id}}&chapter_newid={{$.chapter_newid}}&isWebp=1&quality=low"
-    }
+  "SPY×FAMILY 間諜家家酒 S2": {
+    "vod_id": "282",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2023/12/06/9eCaw2.png?v1",
+    "dogpan": {}
   },
-  {
-    "name": "🎨动漫之家",
-    "type": 12,
-    "api": "https://www.idmzj.com/api/v1",
-    "key": "www.idmzj.com",
-    "categories": [
-      { "name": "更新", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=0" },
-      { "name": "人气", "url": "/comic1/filter?sortType=1&page={{page}}&size=20&audience=0&theme=0" },
-      { "name": "少年", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=3262&theme=0" },
-      { "name": "少女", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=3263&theme=0" },
-      { "name": "青年", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=3264&theme=0" },
-      { "name": "冒险", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=1" },
-      { "name": "搞笑", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=2" },
-      { "name": "格斗", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=3" },
-      { "name": "科幻", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=4" },
-      { "name": "爱情", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=5" },
-      { "name": "侦探", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=6" },
-      { "name": "竞技", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=7" },
-      { "name": "魔法", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=8" },
-      { "name": "校园", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=9" },
-      { "name": "百合", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=11" },
-      { "name": "耽美", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=13" },
-      { "name": "历史", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=14" },
-      { "name": "战争", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=15" },
-      { "name": "宅系", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=16" },
-      { "name": "治愈", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=17" },
-      { "name": "仙侠", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=18" },
-      { "name": "武侠", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=19" },
-      { "name": "职场", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=20" },
-      { "name": "神鬼", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=21" },
-      { "name": "奇幻", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=22" },
-      { "name": "生活", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=23" },
-      { "name": "其它", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=24" }
-    ],
-    "detail": {
-      "intro": "$.data.comicInfo.description",
-      "category": "{{$.data.comicInfo.status}}/{{$.data.comicInfo.types}}"
-    },
-    "content": {
-      "content": "$.page"
-    },
-    "list": {
-      "list": "$.data.comicList[*]",
-      "name": "$.name",
-      "author": "$.authors",
-      "detailUrl": "/comic1/comic/detail?app_name=dmzj&comic_py={{$.comic_py}}",
-      "coverUrl": "$.cover",
-      "tips": "$.last_update_chapter_name",
-      "params": "{\"comic_id\":{{$.id}}}"
-    },
-    "search": {
-      "list": "$",
-      "name": "$.title",
-      "author": "$.authors",
-      "detailUrl": "/comic1/comic/detail?app_name=dmzj&comic_py={{$.comic_py}}",
-      "coverUrl": "$.cover",
-      "url": "https://www.idmzj.com/npi/search/fuzzyWithLevel/0/{{key}}.json?type=0&con={{key}}",
-      "tips": "$.last_name",
-      "params": "{\"comic_id\":{{$.id}}}"
-    },
-    "toc": {
-      "list": "$.data.comicInfo.chapterList[0].data",
-      "name": "$.chapter_title",
-      "reverse": true,
-      "url": "http://api.dmzj.com/dynamic/comicread/{{$.comic_id}}/{{$.chapter_id}}.json"
-    },
-    "searchable": true,
-    "discoverable": true
+  "我推的孩子": {
+    "vod_id": "200",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2023/10/02/C9gFo1.png?v1",
+    "dogpan": {}
   },
-  {
-    "name": "🎧人人听",
-    "type": 11,
-    "api": "https://api.yituwenhua.com",
-    "header": {
-      "Referer": "https://renrenting.leytolyy.wwww",
-      "User-Agent": "renrenting.leytolyy/1.2 (Mozilla/5.0 (Linux; Android 9; MIX 2S Build/PKQ1.180729.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36)"
-    },
-    "categories": [
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=百家讲坛", "name": "百家讲坛" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=有声书", "name": "有声书" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=历史", "name": "历史" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=评书", "name": "评书" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=小说", "name": "小说" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=音乐", "name": "音乐" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=个人成长", "name": "个人成长" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=健康养生", "name": "健康养生" }
-    ],
-    "detail": {},
-    "search": {
-      "list": "$.data",
-      "name": "$.novelName",
-      "detailUrl": "/api/json/v1/albums_browse_search?album_id={{$.novelId}}",
-      "coverUrl": "$.coverImageUrl",
-      "tips": "$.latestChapter",
-      "author": "$.author",
-      "category": "$.categoryName",
-      "intro": "$.description",
-      "url": "/api/json/v1/MultiSearch?fromLy=title&apiLy=xmly&pageNum=1&pageSize=30&keyword={{key}}"
-    },
-    "toc": {
-      "list": "$.data",
-      "name": "$.chapterName",
-      "playUrl": "$.playUrl"
-    },
-    "searchable": true,
-    "discoverable": true
+  "超級小白": {
+    "vod_id": "284",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/02/17/JfpzxE.png?v1",
+    "dogpan": {}
+  },
+  "遊戲王5Ds": {
+    "vod_id": "201",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/12/19/OXSl3J.png?v1",
+    "dogpan": {}
+  },
+  "角落小夥伴 奇幻的玩具工廠": {
+    "vod_id": "317",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/07/23/9hxqfL.png?v1",
+    "dogpan": {}
+  },
+  "葬送的芙莉蓮 S1": {
+    "vod_id": "233",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/01/01/rUxjaW.png?v1",
+    "dogpan": {}
+  },
+  "派對咖孔明": {
+    "vod_id": "135",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2023/10/01/3Kt8yT.png?v1",
+    "dogpan": {}
+  },
+  "柚木家的四兄弟": {
+    "vod_id": "76",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/12/15/uIx20k.png?v1",
+    "dogpan": {}
+  },
+  "闇影詩章": {
+    "vod_id": "217",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/11/11/zw27nq.png?v1",
+    "dogpan": {}
+  },
+  "跳跳小雞": {
+    "vod_id": "241",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2023/04/21/AsxiDM.jpg?v1",
+    "dogpan": {}
+  },
+  "鬼滅之刃 遊郭篇": {
+    "vod_id": "100",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/01/16/L8Q7ib.png?v1",
+    "dogpan": {}
+  },
+  "新乞嗤大魔王": {
+    "vod_id": "343",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/01/19/IskBzX.png?v1",
+    "dogpan": {}
+  },
+  "角落小夥伴 藍色月夜的魔法之子": {
+    "vod_id": "295",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/12/07/TSLxFc.png?v1",
+    "dogpan": {}
+  },
+  " 小書痴的下剋上：為了成為圖書管理員不擇手段！ S3": {
+    "vod_id": "316",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/08/16/IO9D0M.png?v1",
+    "dogpan": {}
+  },
+  "小書痴的下剋上：為了成為圖書管理員不擇手段！ S2": {
+    "vod_id": "315",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/08/16/ao8MXQ.png?v1",
+    "dogpan": {}
+  },
+  "SPY×FAMILY 間諜家家酒 S1": {
+    "vod_id": "182",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/06/06/OgNiaW.png?v1",
+    "dogpan": {}
+  },
+  "小書痴的下剋上：為了成為圖書管理員不擇手段！ S1": {
+    "vod_id": "314",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/06/22/HQkEsK.png?v1",
+    "dogpan": {}
+  },
+  "小書痴的下剋上：為了成為圖書管理員不擇手段！ 外傳": {
+    "vod_id": "313",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/06/19/XCmuEc.png?v1",
+    "dogpan": {}
+  },
+  "食戟之靈": {
+    "vod_id": "210",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/12/18/GPMxtp.jpg?v1",
+    "dogpan": {}
+  },
+  "咒術迴戰": {
+    "vod_id": "293",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/03/07/rgsHh0.png?v1",
+    "dogpan": {}
+  },
+  "小豆動物大冒險": {
+    "vod_id": "176",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/03/06/CfpVSA.png?v1",
+    "dogpan": {}
+  },
+  "鬼滅之刃 無限列車篇": {
+    "vod_id": "99",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/11/01/SRlBoP.png?v1",
+    "dogpan": {}
+  },
+  "關於我轉生變成史萊姆這檔事": {
+    "vod_id": "213",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/01/29/wJPGce.png?v1",
+    "dogpan": {}
+  },
+  "工作細胞": {
+    "vod_id": "209",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/10/19/8IbiEz.png?v1",
+    "dogpan": {}
+  },
+  "鬼滅之刃 竈門炭治郎 立志篇": {
+    "vod_id": "98",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/11/13/PbfD1t.jpg?v1",
+    "dogpan": {}
+  },
+  "角落小夥伴 魔法繪本裏的新朋友": {
+    "vod_id": "294",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/12/13/IElVop.png?v1",
+    "dogpan": {}
+  },
+  "隊長小翼": {
+    "vod_id": "299",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/06/07/fWmSd7.png?v1",
+    "dogpan": {}
+  },
+  "進擊的巨人3 #2": {
+    "vod_id": "179",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2019/07/22/dQJIyh.png?v1",
+    "dogpan": {}
+  },
+  "東京喰種:re": {
+    "vod_id": "216",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2019/11/23/0czSlx.png?v1",
+    "dogpan": {}
+  },
+  "Dr. STONE S2": {
+    "vod_id": "103",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/03/06/LAXfyh.png?v1",
+    "dogpan": {}
+  },
+  "暗殺教室 S2": {
+    "vod_id": "81",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2018/10/14/hvxArB.png?v1",
+    "dogpan": {}
+  },
+  "暗殺教室 S1": {
+    "vod_id": "72",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2018/10/14/hvxArB.png?v1",
+    "dogpan": {}
+  },
+  "他媽哥池 (ViuTV)": {
+    "vod_id": "218",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2023/08/14/EaOK1z.png?v1",
+    "dogpan": {}
+  },
+  "Dr. STONE S1": {
+    "vod_id": "102",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/10/26/9k2NEm.png?v1",
+    "dogpan": {}
+  },
+  "企鵝找麻煩Max": {
+    "vod_id": "44",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/12/03/TkHeoZ.png?v1",
+    "dogpan": {}
+  },
+  "刀劍神域 S3": {
+    "vod_id": "37",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/02/04/uU6cqt.jpg?v1",
+    "dogpan": {}
+  },
+  "一拳超人 S2": {
+    "vod_id": "31",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/10/18/roHgwv.png?v1",
+    "dogpan": {}
+  },
+  "湊B同學仔": {
+    "vod_id": "22",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/02/01/Hy5OSM.jpg?v1",
+    "dogpan": {}
+  },
+  "進擊的巨人 S3 #1": {
+    "vod_id": "178",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2019/07/22/WJSDMZ.png?v1",
+    "dogpan": {}
+  },
+  "黑執事 豪華客船篇": {
+    "vod_id": "289",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/04/29/WZcTCM.png?v1",
+    "dogpan": {}
+  },
+  "網球Ace S2": {
+    "vod_id": "276",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2018/05/05/aPX3ZJ.jpg?v1",
+    "dogpan": {}
+  },
+  "地底小靈精": {
+    "vod_id": "309",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/05/17/cX9gKt.png?v1",
+    "dogpan": {}
+  },
+  "網球Ace": {
+    "vod_id": "275",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2018/05/05/aPX3ZJ.jpg?v1",
+    "dogpan": {}
+  },
+  "冰上溜星": {
+    "vod_id": "167",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2018/04/04/nHGo96.jpg?v1",
+    "dogpan": {}
+  },
+  "Line Town": {
+    "vod_id": "346",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/04/23/p1OdCE.png?v1",
+    "dogpan": {}
+  },
+  "刀劍神域 序列爭戰": {
+    "vod_id": "191",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2018/07/31/RX8CPc.jpg?v1",
+    "dogpan": {}
+  },
+  "境界之輪迴": {
+    "vod_id": "159",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/05/mXGSrO.png?v1",
+    "dogpan": {}
+  },
+  "車神超激戰": {
+    "vod_id": "153",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/07/26/5XzJFR.png?v1",
+    "dogpan": {}
+  },
+  "一拳超人 S1": {
+    "vod_id": "194",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/06/29/gdNy7S.png?v1",
+    "dogpan": {}
+  },
+  "青之祓魔師": {
+    "vod_id": "143",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/01/01/8SMhBF.png?v1",
+    "dogpan": {}
+  },
+  "宇宙兄弟": {
+    "vod_id": "298",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/10/20/5IqgwZ.png?v1",
+    "dogpan": {}
+  },
+  "銀魂": {
+    "vod_id": "8",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/01/30/JK3lya.jpg?v1",
+    "dogpan": {}
+  },
+  "火影小洛克": {
+    "vod_id": "259",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/01/06/Y63C92.png?v1",
+    "dogpan": {}
+  },
+  "東京喰種√A": {
+    "vod_id": "243",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/05/07/xB9itV.png?v1",
+    "dogpan": {}
+  },
+  "東京喰種": {
+    "vod_id": "242",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/05/07/MctiBG.png?v1",
+    "dogpan": {}
+  },
+  "路人超能100": {
+    "vod_id": "198",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/11/aKivbY.png?v1",
+    "dogpan": {}
+  },
+  "龍珠超": {
+    "vod_id": "104",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/05/30/oqMYCi.png?v1",
+    "dogpan": {}
+  },
+  "Re:從零開始的異世界生活": {
+    "vod_id": "101",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2018/05/05/FJfAEI.jpg?v1",
+    "dogpan": {}
+  },
+  "約定的夢幻島 S2": {
+    "vod_id": "94",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/05/24/48Djku.png?v1",
+    "dogpan": {}
+  },
+  "多啦A夢 水田版": {
+    "vod_id": "62",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/09/30/nPI4Vy.jpg?v1",
+    "dogpan": {}
+  },
+  "刀劍神域 外傳 GGO": {
+    "vod_id": "41",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2023/08/26/AFhevt.png?v1",
+    "dogpan": {}
+  },
+  "約定的夢幻島 S1": {
+    "vod_id": "32",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/05/17/u1NQCJ.jpg?v1",
+    "dogpan": {}
+  },
+  "鑽石王牌": {
+    "vod_id": "234",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/19/oY5Jdr.jpg?v1",
+    "dogpan": {}
+  },
+  "JoJo的奇妙冒險": {
+    "vod_id": "144",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/07/18/yTQUqh.png?v1",
+    "dogpan": {}
+  },
+  "我的英雄學院 S2": {
+    "vod_id": "92",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2018/12/09/xDXWeU.png?v1",
+    "dogpan": {}
+  },
+  "黑執事 幽鬼城殺人事件篇": {
+    "vod_id": "291",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/10/13/Tri01d.png?v1",
+    "dogpan": {}
+  },
+  "我的英雄學院 S1": {
+    "vod_id": "83",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2018/12/09/xDXWeU.png?v1",
+    "dogpan": {}
+  },
+  "進擊的巨人 S1 S2": {
+    "vod_id": "177",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2019/07/22/WJSDMZ.png?v1",
+    "dogpan": {}
+  },
+  "翠星上的加爾岡緹亞": {
+    "vod_id": "280",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://i.ibb.co/rRGGVJSD/image.png?v1",
+    "dogpan": {}
+  },
+  "東之伊甸": {
+    "vod_id": "320",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/04/01/U5jDIY.png?v1",
+    "dogpan": {}
+  },
+  "銀之匙": {
+    "vod_id": "268",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/03/12/M1TUwo.png?v1",
+    "dogpan": {}
+  },
+  "龍牙守護者": {
+    "vod_id": "258",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/02/06/xQp8RN.png?v1",
+    "dogpan": {}
+  },
+  "武士法林明哥": {
+    "vod_id": "34",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/02/02/YEONzn.png?v1",
+    "dogpan": {}
+  },
+  "FAIRY TAIL 魔導少年": {
+    "vod_id": "12",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/03/25/0ylENn.png?v1",
+    "dogpan": {}
+  },
+  "龍珠改": {
+    "vod_id": "272",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/03/12/50pvoQ.png?v1",
+    "dogpan": {}
+  },
+  "全職獵人 緋色的幻影": {
+    "vod_id": "170",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/05/vbx63d.png?v1",
+    "dogpan": {}
+  },
+  "全職獵人 最終任務": {
+    "vod_id": "169",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/05/1CLYMi.png?v1",
+    "dogpan": {}
+  },
+  "灼眼的夏娜": {
+    "vod_id": "166",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/02/04/rRcVaE.png?v1",
+    "dogpan": {}
+  },
+  "BLEACH 漂靈": {
+    "vod_id": "150",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/10/17/WznRxH.png?v1",
+    "dogpan": {}
+  },
+  "東京地震8.0": {
+    "vod_id": "123",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/03/23/0yi9vG.png?v1",
+    "dogpan": {}
+  },
+  "打工吧！魔王大人": {
+    "vod_id": "70",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/11/12/ACF5zd.png?v1",
+    "dogpan": {}
+  },
+  "白兔糖": {
+    "vod_id": "215",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/01/22/qa9bPQ.png?v1",
+    "dogpan": {}
+  },
+  "全職獵人 2011": {
+    "vod_id": "119",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/06/25/gsB4jP.png?v1",
+    "dogpan": {}
+  },
+  "黑執事 馬戲謎團篇": {
+    "vod_id": "290",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/04/29/dEmqRp.png?v1",
+    "dogpan": {}
+  },
+  "犬夜叉 完結編": {
+    "vod_id": "152",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/12/16/Kfwz97.png?v1",
+    "dogpan": {}
+  },
+  "加速世界": {
+    "vod_id": "85",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/06/15/4qYmR0.png?v1",
+    "dogpan": {}
+  },
+  "刀劍神域 S1": {
+    "vod_id": "40",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/04/09/smSGDb.png?v1",
+    "dogpan": {}
+  },
+  "怪醫黑傑克": {
+    "vod_id": "190",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/10/06/ULN9YS.jpg?v1",
+    "dogpan": {}
+  },
+  "全力兔": {
+    "vod_id": "203",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/11/IyEGiU.png?v1",
+    "dogpan": {}
+  },
+  "龍珠 劇場版": {
+    "vod_id": "140",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/03/13/eoQkIZ.png?v1",
+    "dogpan": {}
+  },
+  "爆笑管家": {
+    "vod_id": "124",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/09/06/Du1FUY.png?v1",
+    "dogpan": {}
+  },
+  "大頭公主愛作戰": {
+    "vod_id": "118",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/05/wlOIgP.png?v1",
+    "dogpan": {}
+  },
+  "植木的法則": {
+    "vod_id": "77",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/02/26/TdfBh0.png?v1",
+    "dogpan": {}
+  },
+  "刀劍神域 S2": {
+    "vod_id": "39",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/04/09/8d39a1.png?v1",
+    "dogpan": {}
+  },
+  "動物橫町": {
+    "vod_id": "339",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2023/02/13/bEAkr7.png?v1",
+    "dogpan": {}
+  },
+  "幸運四葉草": {
+    "vod_id": "9",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/02/01/AWvbyO.png?v1",
+    "dogpan": {}
+  },
+  "死亡筆記": {
+    "vod_id": "193",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2020/08/14/yeNWPt.png?v1",
+    "dogpan": {}
+  },
+  "PSYCHO-PASS 心靈判官 S2": {
+    "vod_id": "184",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2019/07/22/m1AvU5.png?v1",
+    "dogpan": {}
+  },
+  "怪醫黑傑克21": {
+    "vod_id": "189",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/02/19/KYESWs.png?v1",
+    "dogpan": {}
+  },
+  "鋼之鍊金術師FA": {
+    "vod_id": "120",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/03/20/nToliE.png?v1",
+    "dogpan": {}
+  },
+  "我們這一家": {
+    "vod_id": "267",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/11/02/qJGrm8.jpg?v1",
+    "dogpan": {}
+  },
+  "俏皮劍俠小紅帽": {
+    "vod_id": "168",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/05/ghOCrK.png?v1",
+    "dogpan": {}
+  },
+  "結界師": {
+    "vod_id": "131",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/05/28/jXGqAF.png?v1",
+    "dogpan": {}
+  },
+  "KERORO軍曹 大電影 合集": {
+    "vod_id": "71",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/03/12/rRWhqB.png?v1",
+    "dogpan": {}
+  },
+  "Keroro軍曹": {
+    "vod_id": "57",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2021/12/26/C8zywu.png?v1",
+    "dogpan": {}
+  },
+  "古靈偵探團": {
+    "vod_id": "174",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/09/02/q1smcI.png?v1",
+    "dogpan": {}
+  },
+  "犬夜叉 劇場版": {
+    "vod_id": "155",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/12/16/ePZifO.png?v1",
+    "dogpan": {}
+  },
+  "哈姆太郎": {
+    "vod_id": "235",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/12/16/ueaOdv.png?v1",
+    "dogpan": {}
+  },
+  "犬夜叉": {
+    "vod_id": "151",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/12/16/AeNpXn.png?v1",
+    "dogpan": {}
+  },
+  "超級小黑咪": {
+    "vod_id": "132",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2025/02/05/PQVoM8.png?v1",
+    "dogpan": {}
+  },
+  "鋼之鍊金術師 S1": {
+    "vod_id": "121",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/06/16/SPgdpZ.png?v1",
+    "dogpan": {}
+  },
+  "單車新人王": {
+    "vod_id": "36",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/02/04/ry3oi9.png?v1",
+    "dogpan": {}
+  },
+  "棋靈王": {
+    "vod_id": "113",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/04/02/97h2AT.png?v1",
+    "dogpan": {}
+  },
+  "日式麵包王": {
+    "vod_id": "105",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/05/PrU0BC.png?v1",
+    "dogpan": {}
+  },
+  "踢出我天地": {
+    "vod_id": "80",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/05/28/BLeWgT.png?v1",
+    "dogpan": {}
+  },
+  "龍王傳說": {
+    "vod_id": "229",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/07/04/lAgUfy.png?v1",
+    "dogpan": {}
+  },
+  "全職獵人 1999": {
+    "vod_id": "175",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/06/25/gsB4jP.png?v1",
+    "dogpan": {}
+  },
+  "男兒當入樽": {
+    "vod_id": "212",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/03/14/bmWfiX.png?v1",
+    "dogpan": {}
+  },
+  "不思議遊戲": {
+    "vod_id": "348",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/04/23/10FwSn.png?v1",
+    "dogpan": {}
+  },
+  "咕嚕咕嚕魔法陣": {
+    "vod_id": "261",
+    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/09/04/J7a8xf.png?v1",
+    "dogpan": {}
   }
-]
+}
