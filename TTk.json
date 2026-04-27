@@ -16,5 +16,35 @@
     "dogpan": {
       "取精急轉彎": "https://dogpan.com/f/pYq5hA/Spermageddon.2024.mkv"
     }
+  },
+  "超級瑪利歐兄弟大電影": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Super_Mario_Movie_Poster.jpg",
+    "dogpan": {
+      "超級瑪利歐兄弟大電影": "https://dogpan.com/f/kRl0I5/%E8%B6%85%E7%B4%9A%E7%91%AA%E5%88%A9%E6%AD%90%E5%85%84%E5%BC%9F%E5%A4%A7%E9%9B%BB%E5%BD%B1.mp4"
+    }
+  },
+  "A.I.創世者": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/AI.jpg",
+    "dogpan": {
+      "A.I.創世者": "https://dogpan.com/f/lYmWTX/A.I.%E5%89%B5%E4%B8%96%E8%80%85%20The%20Creator%202023.mkv"
+    }
+  },
+  "奪寶奇兵5": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Indiana5.jpg",
+    "dogpan": {
+      "奪寶奇兵5": "https://dogpan.com/f/mZnzIW/%E5%A5%AA%E5%AF%B6%E5%A5%87%E5%85%B55.mp4"
+    }
+  },
+  "祭屋出租": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/house01.jpg",
+    "dogpan": {
+      "祭屋出租": "https://dogpan.com/f/n5o0um/%E7%A5%AD%E5%B1%8B%E5%87%BA%E7%A7%9F.2023.HD1080P.AAC.H264.CHS.BT%E4%B8%96%E7%95%8C%E7%BD%91.%5Bwww.btsj6.com%5D.mp4"
+    }
+  },
+  "蒼鷺與少年": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/bird.jpg",
+    "dogpan": {
+      "蒼鷺與少年": "https://dogpan.com/f/o20rhv/%E8%92%BC%E9%B7%BA%E8%88%87%E5%B0%91%E5%B9%B4.mp4"
+    }
   }
 }
