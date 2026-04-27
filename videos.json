@@ -1,14 +1,26 @@
 {
-  "葬送的芙莉蓮 S1": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Zootopia_hk.jpg",
+  "怪獸8號": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/No8.jpg",
+    "vod_remarks": "更新到第12集",
     "dogpan": {
-      "優獸大都會1": "https://dogpan.com/f/0RmBCm/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv"
+      "EP01 變成怪獸的男人": "https://dogpan.com/f/BB2Vh8/%E6%80%AA%E7%8D%B88%E8%99%9F%2001.mkv",
+      "EP02 打倒怪獸的怪獸": "https://dogpan.com/f/Dk2Gi3/%E6%80%AA%E7%8D%B88%E8%99%9F%2002.mkv",
+      "EP03 復仇戰": "https://dogpan.com/f/ER2ATp/%E6%80%AA%E7%8D%B88%E8%99%9F%2003.mkv",
+      "EP04 怪獸規模9.8": "https://dogpan.com/f/G62GCA/%E6%80%AA%E7%8D%B88%E8%99%9F%2004.mkv",
+      "EP05 入隊！": "https://dogpan.com/f/J62VFK/%E6%80%AA%E7%8D%B88%E8%99%9F%2005.mkv",
+      "EP06 破曉時分相模原討伐作戰": "https://dogpan.com/f/Kr2KH4/%E6%80%AA%E7%8D%B88%E8%99%9F%2006.mkv",
+      "EP07 怪獸9號": "https://dogpan.com/f/v2z3uA/%E6%80%AA%E7%8D%B88%E8%99%9F%2007.mkv",
+      "EP08 歡迎加入防衛隊": "https://dogpan.com/f/yPDLHL/%E6%80%AA%E7%8D%B88%E8%99%9F%2008.mkv",
+      "EP09 立川基地遇襲": "https://dogpan.com/f/zpELI4/%E6%80%AA%E7%8D%B88%E8%99%9F%2009.mkv",
+      "EP10 暴露": "https://dogpan.com/f/xkBXTx/%E6%80%AA%E7%8D%B88%E8%99%9F%2010.mkv",
+      "EP11 遭到逮捕的怪獸8號": "https://dogpan.com/f/wpABCy/%E6%80%AA%E7%8D%B88%E8%99%9F%2011.mkv",
+      "EP12 日比野卡夫卡": "https://dogpan.com/f/AD2vHE/%E6%80%AA%E7%8D%B88%E8%99%9F%2012.mkv"
     }
   },
-  "葬送的芙莉蓮 S2": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Zootopia_2_Poster.jpg",
+  "葬送的芙莉蓮 S1": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/FrierenS1.jpg",
     "dogpan": {
-      "優獸大都會2": "https://dogpan.com/f/9ryyh2/%E7%98%8B%E7%8B%82%E5%8B%95%E7%89%A9%E5%9F%8E2.mp4"
+      "EP01 冒險結束": "https://dogpan.com/f/0RmBCm/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv"
     }
   }
 }
