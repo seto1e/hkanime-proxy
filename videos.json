@@ -1,40 +1,14 @@
 {
   "葬送的芙莉蓮 S1": {
-    "vod_id": "233",
-    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/01/01/rUxjaW.png?v1",
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Zootopia_hk.jpg",
     "dogpan": {
-      "EP01 那我們走吧": "https://dogpan.com/f/0RmBCm/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv",
-      "EP30 南方勇者": "",
-      "EP31 喜歡的地方": "" 
-  },
-  "葬送的芙莉蓮 S2": {
-    "vod_id": "347",
-    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2024/01/01/rUxjaW.png?v1",
-    "dogpan": {
-      "EP29 那我們走吧": "",
-      "EP30 南方勇者": "",
-      "EP31 喜歡的地方": ""
+      "優獸大都會1": "https://dogpan.com/f/0RmBCm/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv"
     }
   },
-  "SPY×FAMILY 間諜家家酒 S1": {
-    "vod_id": "182",
-    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2022/06/06/OgNiaW.png?v1",
-    "dogpan": {}
-  },
-  "SPY×FAMILY 間諜家家酒 S2": {
-    "vod_id": "282",
-    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2023/12/06/9eCaw2.png?v1",
-    "dogpan": {}
-  },
-  "SPY×FAMILY 間諜家家酒 S3": {
-    "vod_id": "283",
-    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/01/04/mjo3wX.png?v1",
-    "dogpan": {}
-  },
-  "殭屍100～在成為殭屍前要做的100件事～": {
-    "vod_id": "2",
-    "vod_pic": "https://ptoho-cache.hkanime.com/img/https://upload.cc/i1/2026/01/19/s5QMAE.png?v1",
-    "dogpan": {}
+  "葬送的芙莉蓮 S2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Zootopia_2_Poster.jpg",
+    "dogpan": {
+      "優獸大都會2": "https://dogpan.com/f/9ryyh2/%E7%98%8B%E7%8B%82%E5%8B%95%E7%89%A9%E5%9F%8E2.mp4"
+    }
   }
-}
 }
