@@ -17,26 +17,9 @@
       "EP12 日比野卡夫卡": "https://dogpan.com/f/AD2vHE/%E6%80%AA%E7%8D%B88%E8%99%9F%2012.mkv"
     }
   },
-  "葬送的芙莉蓮 S1": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/FrierenS1.jpg",
-    "dogpan": {
-      "EP01 冒險結束": "https://dogpan.com/f/0RmBCm/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv"
-    }
-  },
-  "元素大都會": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/elemental.jpg",
-    "dogpan": {
-      "元素大都會": "https://dogpan.com/f/L9R6IQ/%E5%85%83%E7%B4%A0%E5%A4%A7%E9%83%BD%E6%9C%83.mkv"
-    }
-  },
-  "鴨仔也移民": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/duck.jpg",
-    "dogpan": {
-      "鴨仔也移民": "https://dogpan.com/f/NkRxIj/%E9%A3%9B%E9%B4%A8%E5%90%91%E5%89%8D%E6%B2%96%20Migration%20%282023%29%20%E9%B4%A8%E4%BB%94%E4%B9%9F%E7%A7%BB%E6%B0%91.mkv"
-    }
-  },
   "SPY×FAMILY": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/spy.jpg",
+    "vod_remarks": "更新到第37集",
     "dogpan": {
       "Ep01  行動代號〈梟〉": "https://dogpan.com/f/1wDQhq/01.mp4",
       "Ep02 找好扮演妻子的人吧": "https://dogpan.com/f/31GVs2/02.mp4",
@@ -52,7 +35,48 @@
       "Ep12 企鵝園": "https://dogpan.com/f/kRP0c5/12.mp4",
       "Ep13〈APPLE〉計劃": "https://dogpan.com/f/lYPWHX/13.mkv",
       "Ep14 解除定時炸彈吧": "https://dogpan.com/f/mZPzuW/14.mkv",
-      "Ep15 新的家人": "https://dogpan.com/f/n5P0Sm/15.mkv"
+      "Ep15 新的家人": "https://dogpan.com/f/n5P0Sm/15.mkv",
+      "Ep16 約兒's 廚房 / 情報商的戀愛大作戰": "https://dogpan.com/f/pYP5UA/16.mkv",
+      "Ep17 執行獅啾作戰吧 /〈鋼鐵淑女〉/ 蛋包飯♡": "https://dogpan.com/f/qx9BIX/17.mkv",
+      "Ep18 家庭教師舅舅 /〈東雲〉": "https://dogpan.com/f/rk61h2/18.mkv",
+      "Ep19 對戴斯蒙德的復仇計畫 / 母親，化為一陣風": "https://dogpan.com/f/v2k3cA/19.mkv",
+      "Ep20 調查綜合醫院吧 / 解讀難懂的暗號吧": "https://dogpan.com/f/wplBHy/20.mkv",
+      "Ep21 〈夜帷〉/ 第一次的嫉妒": "https://dogpan.com/f/xkmXtx/21.mkv",
+      "Ep22 地下網球賽 坎貝爾頓": "https://dogpan.com/f/yPnLfL/22.mkv",
+      "Ep23 堅定不移的軌道": "https://dogpan.com/f/zpoLT4/23.mkv",
+      "Ep24 母親的角色與妻子的角色 / 和朋友去購物": "https://dogpan.com/f/ADxvUE/24.mkv",
+      "Ep25 接敵作戰": "https://dogpan.com/f/BByVs8/25.mkv",
+      "Ep26 跟蹤父親與母親吧": "https://dogpan.com/f/DkAGI3/26.mkv",
+      "Ep27 彭德的生存戰略 / 達米安的野外學習": "https://dogpan.com/f/o2PDcv/27.mkv",
+      "Ep28 任務與家人 / 華麗的彭德曼 / 童心 / 鬧鐘": "https://dogpan.com/f/pYPGSA/28.mkv",
+      "Ep29 智慧甜品 / 情報商的戀愛大作戰Ⅱ": "https://dogpan.com/f/qx9PFX/29.mkv",
+      "Ep30  越境作戰": "https://dogpan.com/f/rk6yc2/30.mkv",
+      "Ep31 戰慄的豪華郵輪": "https://dogpan.com/f/v2rqsA/31.mkv",
+      "Ep32 為了誰的任務": "https://dogpan.com/f/wpvpCy/32.mkv",
+      "Ep33 船上的交響曲 / 姊姊的藥草茶": "https://dogpan.com/f/xkwGix/33.mkv",
+      "Ep34 維繋未來的手": "https://dogpan.com/f/yPxrUL/34.mkv",
+      "Ep35 享受度假勝地吧 / 炫耀休假": "https://dogpan.com/f/zpyvI4/35.mkv",
+      "Ep36 伯林特戀曲 /〈夜帷〉的日常": "https://dogpan.com/f/ADg6SE/36.mkv",
+      "Ep37 家族的一員": "https://dogpan.com/f/BBjPu8/37.mkv"
+    }
+  },
+  "葬送的芙莉蓮 S1": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/FrierenS1.jpg",
+    "vod_remarks": "更新到第1集",
+    "dogpan": {
+      "EP01 冒險結束": "https://dogpan.com/f/0RmBCm/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv"
+    }
+  },
+  "元素大都會": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/elemental.jpg",
+    "dogpan": {
+      "元素大都會": "https://dogpan.com/f/L9R6IQ/%E5%85%83%E7%B4%A0%E5%A4%A7%E9%83%BD%E6%9C%83.mkv"
+    }
+  },
+  "鴨仔也移民": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/duck.jpg",
+    "dogpan": {
+      "鴨仔也移民": "https://dogpan.com/f/NkRxIj/%E9%A3%9B%E9%B4%A8%E5%90%91%E5%89%8D%E6%B2%96%20Migration%20%282023%29%20%E9%B4%A8%E4%BB%94%E4%B9%9F%E7%A7%BB%E6%B0%91.mkv"
     }
   }
 }
