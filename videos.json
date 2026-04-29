@@ -83,7 +83,12 @@
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Dream.jpg",
     "vod_remarks": "英語／中字",
     "dogpan": {
-      "愉快動物餅大電影": "https://dogpan.com/f/Dkl8F3/Dream.Animals.the.Movie.2025.1080p.WEBRip.mkv",
+      "愉快動物餅大電影": "https://dogpan.com/f/Dkl8F3/Dream.Animals.the.Movie.2025.1080p.WEBRip.mkv"
+    }
+  },
+  "怪獸8号粵語": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Zootopia_hk.jpg",
+    "dogpan": {
       "搜尋": "jstv://search?keyword=怪獸8号粵語"
     }
   }
