@@ -78,5 +78,12 @@
     "dogpan": {
       "鴨仔也移民": "https://dogpan.com/f/NkRxIj/%E9%A3%9B%E9%B4%A8%E5%90%91%E5%89%8D%E6%B2%96%20Migration%20%282023%29%20%E9%B4%A8%E4%BB%94%E4%B9%9F%E7%A7%BB%E6%B0%91.mkv"
     }
+  },
+  "愉快動物餅大電影": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Dream.jpg",
+    "vod_remarks": "英語／中字",
+    "dogpan": {
+      "愉快動物餅大電影": "https://dogpan.com/f/Dkl8F3/Dream.Animals.the.Movie.2025.1080p.WEBRip.mkv"
+    }
   }
 }
