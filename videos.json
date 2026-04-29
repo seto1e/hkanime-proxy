@@ -87,6 +87,8 @@
     }
   },
   "怪獸8号粵語": {
+    "key": "push_agent",
+    "name": "怪獸8号粵語",
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Zootopia_hk.jpg",
     "dogpan": {
       "搜尋": "jstv://search?keyword=怪獸8号粵語"
