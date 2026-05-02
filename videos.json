@@ -1,25 +1,7 @@
 {
-  "怪獸8號": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/No8.jpg",
-    "vod_remarks": "更新到第12集",
-    "dogpan": {
-      "EP01 變成怪獸的男人": "https://dogpan.com/f/BB2Vh8/%E6%80%AA%E7%8D%B88%E8%99%9F%2001.mkv",
-      "EP02 打倒怪獸的怪獸": "https://dogpan.com/f/Dk2Gi3/%E6%80%AA%E7%8D%B88%E8%99%9F%2002.mkv",
-      "EP03 復仇戰": "https://dogpan.com/f/ER2ATp/%E6%80%AA%E7%8D%B88%E8%99%9F%2003.mkv",
-      "EP04 怪獸規模9.8": "https://dogpan.com/f/G62GCA/%E6%80%AA%E7%8D%B88%E8%99%9F%2004.mkv",
-      "EP05 入隊！": "https://dogpan.com/f/J62VFK/%E6%80%AA%E7%8D%B88%E8%99%9F%2005.mkv",
-      "EP06 破曉時分相模原討伐作戰": "https://dogpan.com/f/Kr2KH4/%E6%80%AA%E7%8D%B88%E8%99%9F%2006.mkv",
-      "EP07 怪獸9號": "https://dogpan.com/f/v2z3uA/%E6%80%AA%E7%8D%B88%E8%99%9F%2007.mkv",
-      "EP08 歡迎加入防衛隊": "https://dogpan.com/f/yPDLHL/%E6%80%AA%E7%8D%B88%E8%99%9F%2008.mkv",
-      "EP09 立川基地遇襲": "https://dogpan.com/f/zpELI4/%E6%80%AA%E7%8D%B88%E8%99%9F%2009.mkv",
-      "EP10 暴露": "https://dogpan.com/f/xkBXTx/%E6%80%AA%E7%8D%B88%E8%99%9F%2010.mkv",
-      "EP11 遭到逮捕的怪獸8號": "https://dogpan.com/f/wpABCy/%E6%80%AA%E7%8D%B88%E8%99%9F%2011.mkv",
-      "EP12 日比野卡夫卡": "https://dogpan.com/f/AD2vHE/%E6%80%AA%E7%8D%B88%E8%99%9F%2012.mkv"
-    }
-  },
   "SPY×FAMILY": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/spy.jpg",
-    "vod_remarks": "更新到第37集",
+    "vod_remarks": "更新到第50集",
     "dogpan": {
       "Ep01  行動代號〈梟〉": "https://dogpan.com/f/1wDQhq/01.mp4",
       "Ep02 找好扮演妻子的人吧": "https://dogpan.com/f/31GVs2/02.mp4",
@@ -57,14 +39,56 @@
       "Ep34 維繋未來的手": "https://dogpan.com/f/yPxrUL/34.mkv",
       "Ep35 享受度假勝地吧 / 炫耀休假": "https://dogpan.com/f/zpyvI4/35.mkv",
       "Ep36 伯林特戀曲 /〈夜帷〉的日常": "https://dogpan.com/f/ADg6SE/36.mkv",
-      "Ep37 家族的一員": "https://dogpan.com/f/BBjPu8/37.mkv"
+      "Ep37 家族的一員": "https://dogpan.com/f/BBjPu8/37.mkv",
+      "Ep38 伯林特大騷動/情報商與\"夜帷\"": "https://dogpan.com/f/R6Dnu5/Spy%20x%20Family%20Season%203%20-%2001%20.mkv",
+      "Ep39 迴避<雷電>吧/■■■■的記憶Ⅰ": "https://dogpan.com/f/VOKycg/Spy%20x%20Family%20Season%203%20-%2002%20.mkv",
+      "Ep40 ■■■■的記憶Ⅱ": "https://dogpan.com/f/W6XlFD/Spy%20x%20Family%20Season%203%20-%2003%20.mkv",
+      "Ep41 緋聞的內幕/通往皇帝的學徒的道路": "https://dogpan.com/f/XD2RfO/Spy%20x%20Family%20Season%203%20-%2004%20.mkv",
+      "Ep42 媽媽朋友大作戰": "https://dogpan.com/f/YENNcA/Spy%20x%20Family%20Season%203%20-%2005.mkv",
+      "Ep43  白色嫉妒/伊甸學園巴士劫持事件": "https://dogpan.com/f/Z6NnSQ/Spy%20x%20Family%20Season%203%20-%2006%20.mkv",
+      "Ep44 赤紅馬戲團": "https://dogpan.com/f/1wPvhq/Spy%20x%20Family%20Season%203%20-%2007.mkv",
+      "Ep45 制伏巴士劫匪吧": "https://dogpan.com/f/2kQlT8/Spy%20x%20Family%20Season%203%20-%2008%20.mkv",
+      "Ep46 安妮亞的時代來了": "https://dogpan.com/f/31PqS2/Spy%20x%20Family%20Season%203%20-%2009%20.mkv",
+      "Ep47 奧斯汀的煩惱/普通的聚餐/登陸月球表面": "https://dogpan.com/f/4xPjHl/Spy%20x%20Family%20Season%203%20-%2010%20.mkv",
+      "Ep48 等級3緊急狀況": "https://dogpan.com/f/5yXpc6/Spy%20x%20Family%20Season%203%20-%2011%20.mkv",
+      "Ep49 下水道的死鬥": "https://dogpan.com/f/684JCy/Spy%20x%20Family%20Season%203%20-%2012%20.mkv",
+      "Ep50 無法生存下來的世界": "https://dogpan.com/f/732ZUZ/Spy%20x%20Family%20Season%203%20-%2013%20END%20.mkv"
     }
   },
-  "葬送的芙莉蓮 S1": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/FrierenS1.jpg",
-    "vod_remarks": "更新到第1集",
+  "怪獸8號": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/No8.jpg",
+    "vod_remarks": "更新到第12集",
     "dogpan": {
-      "EP01 冒險結束": "https://dogpan.com/f/0RmBCm/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv"
+      "EP01 變成怪獸的男人": "https://dogpan.com/f/BB2Vh8/%E6%80%AA%E7%8D%B88%E8%99%9F%2001.mkv",
+      "EP02 打倒怪獸的怪獸": "https://dogpan.com/f/Dk2Gi3/%E6%80%AA%E7%8D%B88%E8%99%9F%2002.mkv",
+      "EP03 復仇戰": "https://dogpan.com/f/ER2ATp/%E6%80%AA%E7%8D%B88%E8%99%9F%2003.mkv",
+      "EP04 怪獸規模9.8": "https://dogpan.com/f/G62GCA/%E6%80%AA%E7%8D%B88%E8%99%9F%2004.mkv",
+      "EP05 入隊！": "https://dogpan.com/f/J62VFK/%E6%80%AA%E7%8D%B88%E8%99%9F%2005.mkv",
+      "EP06 破曉時分相模原討伐作戰": "https://dogpan.com/f/Kr2KH4/%E6%80%AA%E7%8D%B88%E8%99%9F%2006.mkv",
+      "EP07 怪獸9號": "https://dogpan.com/f/v2z3uA/%E6%80%AA%E7%8D%B88%E8%99%9F%2007.mkv",
+      "EP08 歡迎加入防衛隊": "https://dogpan.com/f/yPDLHL/%E6%80%AA%E7%8D%B88%E8%99%9F%2008.mkv",
+      "EP09 立川基地遇襲": "https://dogpan.com/f/zpELI4/%E6%80%AA%E7%8D%B88%E8%99%9F%2009.mkv",
+      "EP10 暴露": "https://dogpan.com/f/xkBXTx/%E6%80%AA%E7%8D%B88%E8%99%9F%2010.mkv",
+      "EP11 遭到逮捕的怪獸8號": "https://dogpan.com/f/wpABCy/%E6%80%AA%E7%8D%B88%E8%99%9F%2011.mkv",
+      "EP12 日比野卡夫卡": "https://dogpan.com/f/AD2vHE/%E6%80%AA%E7%8D%B88%E8%99%9F%2012.mkv"
+    }
+  },
+  "屁屁偵探 咖哩香料事件": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Pp01.jpg",
+    "dogpan": {
+      "咖哩香料事件": "https://dogpan.com/f/ERmPcp/%E5%B1%81%E5%B1%81%E5%81%B5%E6%8E%A2%20%E5%92%96%E5%93%A9%E9%A6%99%E6%96%99%E4%BA%8B%E4%BB%B6.mkv"
+    }
+  },
+  "屁屁偵探 瓢蟲遺跡之謎": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/PP02.jpg",
+    "dogpan": {
+      "瓢蟲遺跡之謎": "https://dogpan.com/f/G6oYHA/%E5%B1%81%E5%B1%81%E5%81%B5%E6%8E%A2%20%E7%93%A2%E8%9F%B2%E9%81%BA%E8%B7%A1%E4%B9%8B%E8%AC%8E.mkv"
+    }
+  },
+  "屁屁偵探 梳乎厘島的秘密": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/PP03.jpg",
+    "dogpan": {
+      "梳乎厘島的秘密": "https://dogpan.com/f/J6rEIK/%E5%B1%81%E5%B1%81%E5%81%B5%E6%8E%A2%20%E6%A2%B3%E4%B9%8E%E5%8E%98%E5%B3%B6%E7%9A%84%E7%A7%98%E5%AF%86.mkv"
     }
   },
   "元素大都會": {
@@ -86,22 +110,11 @@
       "愉快動物餅大電影": "https://dogpan.com/f/Dkl8F3/Dream.Animals.the.Movie.2025.1080p.WEBRip.mkv"
     }
   },
-  "屁屁偵探 咖哩香料事件": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Pp01.jpg",
+  "葬送的芙莉蓮 S1": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/FrierenS1.jpg",
+    "vod_remarks": "更新到第1集",
     "dogpan": {
-      "咖哩香料事件": "https://dogpan.com/f/ERmPcp/%E5%B1%81%E5%B1%81%E5%81%B5%E6%8E%A2%20%E5%92%96%E5%93%A9%E9%A6%99%E6%96%99%E4%BA%8B%E4%BB%B6.mkv"
-    }
-  },
-  "屁屁偵探 瓢蟲遺跡之謎": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/PP02.jpg",
-    "dogpan": {
-      "瓢蟲遺跡之謎": "https://dogpan.com/f/G6oYHA/%E5%B1%81%E5%B1%81%E5%81%B5%E6%8E%A2%20%E7%93%A2%E8%9F%B2%E9%81%BA%E8%B7%A1%E4%B9%8B%E8%AC%8E.mkv"
-    }
-  },
-  "屁屁偵探 梳乎厘島的秘密": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/PP03.jpg",
-    "dogpan": {
-      "梳乎厘島的秘密": "https://dogpan.com/f/J6rEIK/%E5%B1%81%E5%B1%81%E5%81%B5%E6%8E%A2%20%E6%A2%B3%E4%B9%8E%E5%8E%98%E5%B3%B6%E7%9A%84%E7%A7%98%E5%AF%86.mkv"
+      "EP01 冒險結束": "https://dogpan.com/f/0RmBCm/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv"
     }
   }
 }
