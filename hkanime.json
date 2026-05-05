@@ -1,4 +1,26 @@
 {
+  "挑戰": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/HKTV01.jpg",
+    "dogpan": {
+      "EP01": "https://dogpan.com/f/OYD9Tv/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC01%E9%9B%86.mp4",
+      "EP02": "https://dogpan.com/f/PNEKc3/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC02%E9%9B%86.mp4",
+      "EP03": "https://dogpan.com/f/QWGXCo/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC03%E9%9B%86.mp4",
+      "EP04": "https://dogpan.com/f/R6JnF5/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC04%E9%9B%86.mp4",
+      "EP05": "https://dogpan.com/f/VOjyhg/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC05%E9%9B%86.mp4",
+      "EP06": "https://dogpan.com/f/W60lID/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC06%E9%9B%86.mp4",
+      "EP07": "https://dogpan.com/f/XDlRiO/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC07%E9%9B%86.mp4",
+      "EP08": "https://dogpan.com/f/YEmNiA/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC08%E9%9B%86.mp4",
+      "EP09": "https://dogpan.com/f/Z6nnfQ/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC09%E9%9B%86.mp4",
+      "EP10": "https://dogpan.com/f/1wNvsq/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC.10%E9%9B%86.mp4",
+      "EP11": "https://dogpan.com/f/2kNlc8/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC.11%E9%9B%86.mp4",
+      "EP12": "https://dogpan.com/f/31Xqu2/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC.12%E9%9B%86.mp4",
+      "EP13": "https://dogpan.com/f/4x3jSl/%E3%80%8A%E6%8C%91%E6%88%B0%E3%80%8B%E7%AC%AC.13%E9%9B%86.mp4",
+      "EP14": "https://dogpan.com/f/5y4ph6/%E6%8C%91%E6%88%B0%20Ch14.rmvb",
+      "EP15": "https://dogpan.com/f/5y4ph6/%E6%8C%91%E6%88%B0%20Ch14.rmvb",
+      "EP16": "https://dogpan.com/f/730ZuZ/%E6%8C%91%E6%88%B0%20Ch16.rmvb",
+      "EP17": "https://dogpan.com/f/82NVfY/%E6%8C%91%E6%88%B0%20Ch17.rmvb"
+    }
+  },
   "金盆𠺘口": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/wong 2025.jpg",
     "vod_remarks": "2018",
