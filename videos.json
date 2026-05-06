@@ -55,8 +55,16 @@
       "Ep50 無法生存下來的世界": "https://dogpan.com/f/732ZUZ/Spy%20x%20Family%20Season%203%20-%2013%20END%20.mkv"
     }
   },
+  "SPY × FAMILY CODE: White 劇場版": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/spy code.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "SPY × FAMILY CODE: White 劇場版": "https://dogpan.com/f/QW8ECo/%E5%8A%87%E5%A0%B4%E7%89%88%20SPY%C3%97FAMILY%E9%96%93%E8%AB%9C%E5%AE%B6%E5%AE%B6%E9%85%92%20CODE%20White.mkv"
+    }
+  },
   "尖帽子的魔法工房 (2026)": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sharp.jpg",
+    "vod_remarks": "日語／中字",
     "dogpan": {
       "Ep01 开端的魔法": "",
       "Ep02 草原的学堂": "",
