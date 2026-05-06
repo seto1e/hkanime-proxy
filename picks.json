@@ -1,7 +1,156 @@
 {
-  "尖帽子的魔法工房": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sharp.jpg",
-    "vod_remarks": "🥇",
-    "dogpan": {}
+  "風之谷": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat01.jpg",
+    "vod_remarks": "粵語(1984)",
+    "dogpan": {
+      "風之谷": "https://dogpan.com/f/9rNKh2/1984%20-%20%E9%A2%A8%E4%B9%8B%E8%B0%B7.mkv"
+    }
+  },
+  "天空之城": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat02.jpg",
+    "vod_remarks": "粵語(1986)",
+    "dogpan": {
+      "天空之城": "https://dogpan.com/f/0R76fm/1986%20-%20%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.mkv"
+    }
+  },
+  "再見螢火蟲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat03.jpg",
+    "vod_remarks": "粵語(1988)",
+    "dogpan": {
+      "再見螢火蟲": "https://dogpan.com/f/gJEzFG/1988%20-%20%E5%86%8D%E8%A6%8B%E8%9E%A2%E7%81%AB%E8%9F%B2.mkv"
+    }
+  },
+  "龍貓": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat04.jpg",
+    "vod_remarks": "粵語(1988)",
+    "dogpan": {
+      "龍貓": "https://dogpan.com/f/jRKpiR/1988%20-%20%E9%BE%8D%E8%B2%93.mkv"
+    }
+  },
+  "魔女宅急便": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat05.jpg",
+    "vod_remarks": "粵語(1989)",
+    "dogpan": {
+      "魔女宅急便": "https://dogpan.com/f/kRLps5/1989%20-%20%E9%AD%94%E5%A5%B3%E5%AE%85%E6%80%A5%E4%BE%BF.mkv"
+    }
+  },
+  "歲月的童話": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat06.jpg",
+    "vod_remarks": "粵語(1990)",
+    "dogpan": {
+      "歲月的童話": "https://dogpan.com/f/v2pqcA/1990%20-%20%E6%AD%B2%E6%9C%88%E7%9A%84%E7%AB%A5%E8%A9%B1.mkv"
+    }
+  },
+  "魯邦三世": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Cat07.png",
+    "vod_remarks": "粵語(1991)",
+    "dogpan": {
+      "魯邦三世": "https://dogpan.com/f/wpqpSy/1991%20-%20%E9%AD%AF%E9%82%A6%E4%B8%89%E4%B8%96.mkv"
+    }
+  },
+  "飛天紅豬俠": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat08.jpg",
+    "vod_remarks": "粵語(1992)",
+    "dogpan": {
+      "飛天紅豬俠": "https://dogpan.com/f/xkrGCx/1992%20-%20%E9%A3%9B%E5%A4%A9%E7%B4%85%E8%B1%AC%E4%BF%A0.mkv"
+    }
+  },
+  "海潮之聲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat09.jpg",
+    "vod_remarks": "粵語(1993)",
+    "dogpan": {
+      "海潮之聲": "https://dogpan.com/f/yPvrCL/1993%20-%20%E6%B5%B7%E6%BD%AE%E4%B9%8B%E8%81%B2.mkv"
+    }
+  },
+  "百變貍貓": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat10.jpg",
+    "vod_remarks": "粵語(1994)",
+    "dogpan": {
+      "百變貍貓": "https://dogpan.com/f/zpwvc4/1994%20-%20%E7%99%BE%E8%AE%8A%E8%B2%8D%E8%B2%93.mkv"
+    }
+  },
+  "夢幻街少女": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat11.jpg",
+    "vod_remarks": "粵語(1995)",
+    "dogpan": {
+      "夢幻街少女": "https://dogpan.com/f/ADY6tE/1995%20-%20%E5%A4%A2%E5%B9%BB%E8%A1%97%E5%B0%91%E5%A5%B3.mkv"
+    }
+  },
+  "幽靈公主": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat12.jpg",
+    "vod_remarks": "粵語(1997)",
+    "dogpan": {
+      "幽靈公主": "https://dogpan.com/f/BBYPc8/1997%20-%20%E5%B9%BD%E9%9D%88%E5%85%AC%E4%B8%BB.mkv"
+    }
+  },
+  "我的鄰居山田君": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat13.jpg",
+    "vod_remarks": "粵語(1999)",
+    "dogpan": {
+      "我的鄰居山田君": "https://dogpan.com/f/DkV8i3/1999%20-%20%E6%88%91%E7%9A%84%E9%84%B0%E5%B1%85%E5%B1%B1%E7%94%B0%E5%90%9B.mkv"
+    }
+  },
+  "千與千尋": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat14.jpg",
+    "vod_remarks": "粵語(2001)",
+    "dogpan": {
+      "千與千尋": "https://dogpan.com/f/o2gOcv/2001%20-%20%E5%8D%83%E8%88%87%E5%8D%83%E5%B0%8B.mkv"
+    }
+  },
+  "貓之報恩": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat15.jpg",
+    "vod_remarks": "粵語(2002)",
+    "dogpan": {
+      "貓之報恩": "https://dogpan.com/f/lYgBuX/2002%20-%20%E8%B2%93%E4%B9%8B%E5%A0%B1%E6%81%A9.mkv"
+    }
+  },
+  "哈爾移動城堡": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat16.jpg",
+    "vod_remarks": "粵語(2004)",
+    "dogpan": {
+      "哈爾移動城堡": "https://dogpan.com/f/mZj1hW/2004%20-%20%E5%93%88%E7%88%BE%E7%A7%BB%E5%8B%95%E5%9F%8E%E5%A0%A1.mkv"
+    }
+  },
+  "地海戰記": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat17.jpg",
+    "vod_remarks": "粵語(2006)",
+    "dogpan": {
+      "地海戰記": "https://dogpan.com/f/n5kLtm/2006%20-%20%E5%9C%B0%E6%B5%B7%E6%88%B0%E8%A8%98.mkv"
+    }
+  },
+  "穿越時空的少女": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat18.jpg",
+    "vod_remarks": "粵語(2006)",
+    "dogpan": {
+      "穿越時空的少女": "https://dogpan.com/f/o2lDIv/2006%20-%20%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA%E7%9A%84%E5%B0%91%E5%A5%B3.mkv"
+    }
+  },
+  "崖上的波兒": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat19.jpg",
+    "vod_remarks": "粵語(2008)",
+    "dogpan": {
+      "崖上的波兒": "https://dogpan.com/f/pYmGIA/2008%20-%20%E5%B4%96%E4%B8%8A%E7%9A%84%E6%B3%A2%E5%85%92.mkv"
+    }
+  },
+  "風起了": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat20.jpg",
+    "vod_remarks": "粵語(2014)",
+    "dogpan": {
+      "風起了": "https://dogpan.com/f/qxnPTX/2014%20-%20%E9%A2%A8%E8%B5%B7%E4%BA%86The%20Wind%20Rises.mkv"
+    }
+  },
+  "回憶中的瑪妮": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/cat21.jpg",
+    "vod_remarks": "粵語(2015)",
+    "dogpan": {
+      "回憶中的瑪妮": "https://dogpan.com/f/rkoys2/2015%20-%20%E5%9B%9E%E6%86%B6%E4%B8%AD%E7%9A%84%E7%91%AA%E5%A6%AE%20When%20Marnie%20Was%20There.mkv"
+    }
+  },
+  "蒼鷺與少年": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/bird.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "蒼鷺與少年": "https://dogpan.com/f/o20rhv/%E8%92%BC%E9%B7%BA%E8%88%87%E5%B0%91%E5%B9%B4.mp4"
+    }
   }
 }
