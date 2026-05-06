@@ -1,4 +1,41 @@
 {
+  "求婚大作戰 (プロポーズ大作戦)": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Love 01.jpg",
+    "vod_remarks": "1-11集+特別篇(粵語)",
+    "dogpan": {
+      "Ep01 去甲子園就能結婚嗎!?": "https://dogpan.com/f/9rPKh2/Operation%20Love%2001.rmvb",
+      "Ep02 買到咖啡牛奶就能結婚嗎!?": "https://dogpan.com/f/pYjRFA/Operation%20Love%2002.rmvb",
+      "Ep03 拿走座位表就能結婚嗎？": "https://dogpan.com/f/qxkAhX/Operation%20Love%2003.rmvb",
+      "Ep04 給她第二顆鈕釦就能結婚嗎？": "https://dogpan.com/f/rklMC2/Operation%20Love%2004.rmvb",
+      "Ep05 說明天再做的人是笨蛋嗎？": "https://dogpan.com/f/v2pDsA/Operation%20Love%2005.rmvb",
+      "Ep06 19歲的最後一天要與什麼告別？": "https://dogpan.com/f/wpq2Hy/Operation%20Love%2006.rmvb",
+      "Ep07 戀愛與煙火何時才會綻放？": "https://dogpan.com/f/xkrLIx/Operation%20Love%2007.rmvb",
+      "Ep08 除夕流的淚水是真心的嗎？": "https://dogpan.com/f/yPvktL/Operation%20Love%2008.rmvb",
+      "Ep09 最後的一刻要下什麼賭注呢？": "https://dogpan.com/f/zpw4T4/Operation%20Love%2009.rmvb",
+      "Ep10 最後的哈雷路亞機會": "https://dogpan.com/f/ADYriE/Operation%20Love%2010.rmvb",
+      "Ep11 淚水的告白能喚回奇蹟嗎？": "https://dogpan.com/f/BBYpT8/Operation%20Love%2011.rmvb",
+      "特別篇 能重返14年之戀永恆誓言的瞬間嗎？": "https://dogpan.com/f/DkV7f3/Operation%20Love%20SP.rmvb"
+    }
+  },
+  "A.I.創世者": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/AI.jpg",
+    "dogpan": {
+      "A.I.創世者": "https://dogpan.com/f/lYmWTX/A.I.%E5%89%B5%E4%B8%96%E8%80%85%20The%20Creator%202023.mkv"
+    }
+  },
+  "奪寶奇兵5": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Indiana5.jpg",
+    "dogpan": {
+      "奪寶奇兵5": "https://dogpan.com/f/mZnzIW/%E5%A5%AA%E5%AF%B6%E5%A5%87%E5%85%B55.mp4"
+    }
+  },
+  "祭屋出租": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/house01.jpg",
+    "dogpan": {
+      "祭屋出租": "https://dogpan.com/f/n5o0um/%E7%A5%AD%E5%B1%8B%E5%87%BA%E7%A7%9F.2023.HD1080P.AAC.H264.CHS.BT%E4%B8%96%E7%95%8C%E7%BD%91.%5Bwww.btsj6.com%5D.mp4"
+    }
+  }
+}
   "求婚大作戰 (2007)": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Love 01.jpg",
     "vod_remarks": "1-11集+特別篇(粵語)",
