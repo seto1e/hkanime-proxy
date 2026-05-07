@@ -1,4 +1,11 @@
 {
+  "靈魂奇遇記": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/soul.jpg",
+    "vod_remarks": "粵語 ",
+    "dogpan": {
+      "靈魂奇遇記": "https://cloud.7so.top/f/p8P0CA/%E9%9D%88%E9%AD%82%E5%A5%87%E9%81%87%E8%A8%98.mkv"
+    }
+  },
   "玩轉腦朋友 1": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/InsideOut.jpg",
     "vod_remarks": "1 粵語 +SP 英語",
