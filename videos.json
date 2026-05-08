@@ -3,7 +3,7 @@
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/spy.jpg",
     "vod_remarks": "更新到第50集(粵語)",
     "dogpan": {
-      "Ep01  行動代號〈梟〉": "https://dogpan.com/f/1wDQhq/01.mp4",
+      "Ep01 行動代號〈梟〉": "https://dogpan.com/f/1wDQhq/01.mp4",
       "Ep02 找好扮演妻子的人吧": "https://dogpan.com/f/31GVs2/02.mp4",
       "Ep03 做好考前準備吧": "https://dogpan.com/f/4xJKil/03.mp4",
       "Ep04 名校面試": "https://dogpan.com/f/5ygwH6/04.mp4",
@@ -111,6 +111,39 @@
       "Ep12 站起来！": "https://cloud.7so.top/f/zvzRF4/%5BFHD%E6%97%A5%E6%9C%AC%E5%8B%95%E7%95%AB%5D%20%E6%88%91%E7%8D%A8%E8%87%AA%E5%8D%87%E7%B4%9A%20%28%E7%B2%B5%E8%AA%9E%E7%89%88%29%20S01E12%20%E8%B5%B7%E4%BE%86.mkv"
     }
   },
+  "國王排名": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/king.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/oVgRcv/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2001.MP4",
+      "Ep02": "https://cloud.7so.top/f/xnr2ux/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2002.MP4",
+      "Ep03": "https://cloud.7so.top/f/yovXIL/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2003.MP4",
+      "Ep04": "https://cloud.7so.top/f/zvwnu4/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2004.MP4",
+      "Ep05": "https://cloud.7so.top/f/ANYQiE/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2005.MP4",
+      "Ep06": "https://cloud.7so.top/f/BNY1s8/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2006.MP4",
+      "Ep07": "https://cloud.7so.top/f/D1VJT3/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2007.MP4",
+      "Ep08": "https://cloud.7so.top/f/E8VGup/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2008.MP4",
+      "Ep09": "https://cloud.7so.top/f/GvVzSA/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2009.MP4",
+      "Ep10": "https://cloud.7so.top/f/Jy9WsK/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2010.MP4",
+      "Ep11": "https://cloud.7so.top/f/K1VEh4/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%2011.MP4"
+    }
+  },
+  "國王排名 勇氣的寶箱": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/king01.jpeg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/L7V1hQ/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B101.MP4",
+      "Ep02": "https://cloud.7so.top/f/MwVXSz/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B102.MP4",
+      "Ep03": "https://cloud.7so.top/f/NL6jhj/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B103.MP4",
+      "Ep04": "https://cloud.7so.top/f/OM0oUv/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B104.MP4",
+      "Ep05": "https://cloud.7so.top/f/P7V9u3/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B105.MP4",
+      "Ep06": "https://cloud.7so.top/f/Qn8RCo/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B106.MP4",
+      "Ep07": "https://cloud.7so.top/f/ROVDS5/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B107.MP4",
+      "Ep08": "https://cloud.7so.top/f/VAVjug/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B108.mp4",
+      "Ep09": "https://cloud.7so.top/f/WL99FD/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B109.mp4",
+      "Ep10": "https://cloud.7so.top/f/XL9BHO/%E5%9C%8B%E7%8E%8B%E6%8E%92%E5%90%8D%20%E5%8B%87%E6%B0%A3%E7%9A%84%E5%AF%B6%E7%AE%B110.mp4"
+    }
+  },
   "男兒當入樽 THE FIRST SLAM DUNK (2022)": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/slamduck.jpg",
     "vod_remarks": "粵語",
@@ -122,11 +155,11 @@
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sharp.jpg",
     "vod_remarks": "日語／中字",
     "dogpan": {
-      "Ep01 开端的魔法": "",
-      "Ep02 草原的学堂": "",
-      "Ep03 达达山脉的测试": "",
-      "Ep04 卡伦的邂逅": "",
-      "Ep05 巨鳞龙的迷宫": "",
+      "Ep01 开端的魔法": "https://cloud.7so.top/f/p8jYHA/Witch.Hat.Atelier.S01E01.Episode.1.1080p.NF.WEB-DL.AAC.2.0.H.264-BlackTV.mkv",
+      "Ep02 草原的学堂": "https://cloud.7so.top/f/q7kjhX/Witch.Hat.Atelier.S01E02.Episode.2.1080p.NF.WEB-DL.AAC.2.0.H.264-BlackTV.mkv",
+      "Ep03 达达山脉的测试": "https://cloud.7so.top/f/r8lRS2/Witch.Hat.Atelier.S01E03.Episode.3.1080p.NF.WEB-DL.AAC.2.0.H.264-BlackTV.mkv",
+      "Ep04 卡伦的邂逅": "https://cloud.7so.top/f/vlplcA/Witch.Hat.Atelier.S01E04.Episode.4.1080p.NF.WEB-DL.AAC.2.0.H.264-BlackTV.mkv",
+      "Ep05 巨鳞龙的迷宫": "https://cloud.7so.top/f/wVq0ty/Witch.Hat.Atelier.S01E05.Episode.5.1080p.NF.WEB-DL.AAC.2.0.H.264-BlackTV.mkv",
       "Ep06 雨天的灯光": "",
       "Ep07 为了谁的魔法": ""
     }
