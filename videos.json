@@ -149,6 +149,14 @@
       "EP12 日比野卡夫卡": "https://dogpan.com/f/AD2vHE/%E6%80%AA%E7%8D%B88%E8%99%9F%2012.mkv"
     }
   },
+  "天氣之子": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sky.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "天氣之子 part 1": "https://cloud.7so.top/f/BNmKu8/%E5%A4%A9%E6%B0%A3%E4%B9%8B%E5%AD%90%2001.mkv",
+      "天氣之子 part 2": "https://cloud.7so.top/f/D1opc3/%E5%A4%A9%E6%B0%A3%E4%B9%8B%E5%AD%9002%20.mkv"
+    }
+  },
   "屁屁偵探：天才惡人屁屁亞蒂": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/PPTT.jpg",
     "vod_remarks": "粵語",
