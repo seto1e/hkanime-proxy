@@ -173,11 +173,23 @@
       "愉快動物餅大電影": "https://dogpan.com/f/Dkl8F3/Dream.Animals.the.Movie.2025.1080p.WEBRip.mkv"
     }
   },
-  "葬送的芙莉蓮 S1": {
+  "葬送的芙莉蓮 ": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/FrierenS1.jpg",
-    "vod_remarks": "更新到第1集(粵語)",
+    "vod_remarks": "更新到第13集(粵語)",
     "dogpan": {
-      "EP01 冒險結束": "https://dogpan.com/f/0RmBCm/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv"
+      "EP01 冒險結束": "https://cloud.7so.top/f/MwAZsz/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2001.mkv",
+      "EP02": "https://cloud.7so.top/f/NLBYFj/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2002.mkv",
+      "EP03": "https://cloud.7so.top/f/OMD8uv/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2003.mkv3",
+      "EP04": "https://cloud.7so.top/f/WL0mcD/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2004.mkv",
+      "EP05": "https://cloud.7so.top/f/XLlqfO/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2005.mkv",
+      "EP06": "https://cloud.7so.top/f/YWmqcA/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2006.mkv",
+      "EP07": "https://cloud.7so.top/f/ZYnXCQ/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2007.mkv",
+      "EP08": "https://cloud.7so.top/f/1WNphq/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2008.mkv",
+      "EP09": "https://cloud.7so.top/f/2xNXU8/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2009.mkv",
+      "EP10": "https://cloud.7so.top/f/3QXvT2/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2010.mkv",
+      "EP11": "https://cloud.7so.top/f/4Q3DUl/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2011.mkv",
+      "EP12": "https://cloud.7so.top/f/5Q4rc6/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2012.mkv",
+      "EP13": "https://cloud.7so.top/f/6XNjHy/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2013.mkv"
     }
   }
 }
