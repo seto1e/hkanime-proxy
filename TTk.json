@@ -58,16 +58,37 @@
       "秘境探險": "https://cloud.7so.top/f/0Y7jim/%E7%A7%98%E5%A2%83%E6%8E%A2%E9%9A%AA.mp4"
     }
   },
-  "A.I.創世者": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/AI.jpg",
-    "dogpan": {
-      "A.I.創世者": "https://dogpan.com/f/lYmWTX/A.I.%E5%89%B5%E4%B8%96%E8%80%85%20The%20Creator%202023.mkv"
-    }
-  },
   "奪寶奇兵5": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Indiana5.jpg",
     "dogpan": {
       "奪寶奇兵5": "https://dogpan.com/f/mZnzIW/%E5%A5%AA%E5%AF%B6%E5%A5%87%E5%85%B55.mp4"
+    }
+  },
+  "米高積遜": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/michael.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "米高積遜": "https://dogpan.com/f/Z6E7tQ/%E7%B1%B3%E9%AB%98%E7%A9%8D%E9%81%9C.mp4"
+    }
+  },
+  "玩命關頭X": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/x.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "玩命關頭X": "https://cloud.7so.top/f/gZ9RsG/%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%8510%E8%8B%B1%E8%AF%AD%E4%B8%AD%E5%AD%97.mp4"
+    }
+  },
+  "踏血尋梅": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Port_of_Call.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "踏血尋梅": "https://dogpan.com/f/YEDguA/%E8%B8%8F%E8%A1%80%E5%B0%8B%E6%A2%85%E7%B2%B5%E8%AA%9E%E7%89%88.mkv"
+    }
+  },
+  "A.I.創世者": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/AI.jpg",
+    "dogpan": {
+      "A.I.創世者": "https://dogpan.com/f/lYmWTX/A.I.%E5%89%B5%E4%B8%96%E8%80%85%20The%20Creator%202023.mkv"
     }
   },
   "祭屋出租": {
