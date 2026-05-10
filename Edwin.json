@@ -28,6 +28,20 @@
       "迷你兵團": "https://dogpan.com/f/XDBEHO/%E5%B0%8F%E9%BB%84%E4%BA%BA%E5%A4%A7%E7%9C%BC%E8%90%8C%EF%BC%9A%E7%A5%9E%E5%81%B7%E5%A5%B6%E7%88%B8+%E7%B2%A4%E8%AF%AD%E9%85%8D%E9%9F%B3.mkv"
     }
   },
+  "超級瑪利歐兄弟大電影": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Super_Mario_Movie_Poster.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "超級瑪利歐兄弟大電影": "https://dogpan.com/f/kRl0I5/%E8%B6%85%E7%B4%9A%E7%91%AA%E5%88%A9%E6%AD%90%E5%85%84%E5%BC%9F%E5%A4%A7%E9%9B%BB%E5%BD%B1.mp4"
+    }
+  },
+  "超級瑪利歐銀河電影版": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/The_Super_Mario_Galaxy_Movie_poster.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "超級瑪利歐銀河電影版": "https://cloud.7so.top/f/mOWLIW/%E8%B6%85%E7%B4%9A%E7%91%AA%E5%88%A9%E6%AD%90%E9%8A%80%E6%B2%B3%E9%9B%BB%E5%BD%B1%E7%89%88.mp4"
+    }
+  },
   "優獸大都會1": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Zootopia_hk.jpg",
     "vod_remarks": "粵語",
@@ -54,13 +68,6 @@
     "vod_remarks": "粵語",
     "dogpan": {
       "鴨仔也移民": "https://dogpan.com/f/NkRxIj/%E9%A3%9B%E9%B4%A8%E5%90%91%E5%89%8D%E6%B2%96%20Migration%20%282023%29%20%E9%B4%A8%E4%BB%94%E4%B9%9F%E7%A7%BB%E6%B0%91.mkv"
-    }
-  },
-  "超級瑪利歐兄弟大電影": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Super_Mario_Movie_Poster.jpg",
-    "vod_remarks": "粵語",
-    "dogpan": {
-      "超級瑪利歐兄弟大電影": "https://dogpan.com/f/kRl0I5/%E8%B6%85%E7%B4%9A%E7%91%AA%E5%88%A9%E6%AD%90%E5%85%84%E5%BC%9F%E5%A4%A7%E9%9B%BB%E5%BD%B1.mp4"
     }
   },
   "元素大都會": {
