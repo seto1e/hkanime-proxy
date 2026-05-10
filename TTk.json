@@ -60,6 +60,7 @@
   },
   "奪寶奇兵5": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Indiana5.jpg",
+    "vod_remarks": "英语 / 中字",
     "dogpan": {
       "奪寶奇兵5": "https://dogpan.com/f/mZnzIW/%E5%A5%AA%E5%AF%B6%E5%A5%87%E5%85%B55.mp4"
     }
@@ -94,6 +95,7 @@
   },
   "A.I.創世者": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/AI.jpg",
+    "vod_remarks": "英语 / 中字",
     "dogpan": {
       "A.I.創世者": "https://dogpan.com/f/lYmWTX/A.I.%E5%89%B5%E4%B8%96%E8%80%85%20The%20Creator%202023.mkv"
     }
