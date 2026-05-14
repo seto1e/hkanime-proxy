@@ -33,6 +33,42 @@
       "Ep10 特別篇 2": "https://cloud.7so.top/f/ZYQ0IQ/%E6%B0%91%E7%8E%8B%2010.mkv"
     }
   },
+  "民王R": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/manR.jpg",
+    "vod_remarks": "更新到 8 集",
+    "dogpan": {
+      "Ep01 總理與秘書": "",
+      "Ep02 總理與年輕人": "",
+      "Ep03 總理與小孩": "",
+      "Ep04 總理與老人": "",
+      "Ep05 總理與少年們": "",
+      "Ep06 總理與搞笑藝人": "",
+      "Ep07 總理與孕婦": "",
+      "Ep08 總理與 AI": ""
+    }
+  },
+  "茶煲阿四": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/tea.jpg",
+    "vod_remarks": "更新到第1 集",
+    "dogpan": {
+      "Ep01": "",
+      "Ep02": "",
+      "Ep03": "",
+      "Ep04": "",
+      "Ep05": "",
+      "Ep06": "",
+      "Ep07": "",
+      "Ep08": "",
+      "Ep09": "",
+      "Ep10": "",
+      "Ep11": "",
+      "Ep12": "",
+      "Ep13": "",
+      "Ep14": "",
+      "Ep15": "",
+      "Ep16": ""
+    }
+  },
   "哈利波特": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Harry.jpg",
     "vod_remarks": "粵語",
@@ -79,6 +115,13 @@
     "vod_remarks": "英语 / 中字",
     "dogpan": {
       "奪寶奇兵5": "https://dogpan.com/f/mZnzIW/%E5%A5%AA%E5%AF%B6%E5%A5%87%E5%85%B55.mp4"
+    }
+  },
+  "地心探險記 2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/earth.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "地心探險記 2 世外島": "https://cloud.7so.top/f/OMBVTv/%E5%9C%B0%E5%BF%83%E6%8E%A2%E9%9A%AA%E8%A8%982%E4%B8%96%E5%A4%96%E5%B3%B6%20.mp4"
     }
   },
   "穿著Prada的惡魔2": {
@@ -128,6 +171,44 @@
     "vod_remarks": "英语 / 中字",
     "dogpan": {
       "密弒遊戲2：勝者危亡": "https://cloud.7so.top/f/K1lES4/%E5%AF%86%E5%BC%92%E9%81%8A%E6%88%B22%EF%BC%9A%E5%8B%9D%E8%80%85%E5%8D%B1%E4%BA%A1.mp4"
+    }
+  },
+  "權力遊戲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/king01.jpg",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/GvqBtA/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-1.mp4",
+      "Ep02": "https://cloud.7so.top/f/Jyw4uK/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-2.mp4",
+      "Ep03": "",
+      "Ep04": "https://cloud.7so.top/f/K1xPf4/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-4.mp4",
+      "Ep05": "https://cloud.7so.top/f/L7yLTQ/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-5.mp4",
+      "Ep06": "https://cloud.7so.top/f/Mwz0iz/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-6.mp4",
+      "Ep07": "https://cloud.7so.top/f/NLAZsj/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-7.mp4",
+      "Ep08": "",
+      "Ep09": "",
+      "Ep10": ""
+    }
+  },
+  "我和殭屍有個約會": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date01.jpg",
+    "vod_remarks": "更新到第2集",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/D1n3S3/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP01.mp4",
+      "Ep02": "https://cloud.7so.top/f/E8onTp/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP02.mp4"
+    }
+  },
+  "我和殭屍有個約會 2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date02.jpg",
+    "vod_remarks": "更新到第1集",
+    "dogpan": {
+      "Ep01": "",
+      "Ep02": ""
+    }
+  },
+  "驅魔龍族馬小玲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date03.jpg",
+    "vod_remarks": "更新到第 1 集",
+    "dogpan": {
+      "Ep01": ""
     }
   }
 }
