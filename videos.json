@@ -193,6 +193,13 @@
       "男兒當入樽 電影版": "https://cloud.7so.top/f/oVP5cv/%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E7%94%B5%E5%BD%B1%E7%89%88%20The%20First%20Slam%20Dunk%20%5D.mkv"
     }
   },
+  "JOJO的奇妙冒險 - 飆馬野郎": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/jojo.jpg",
+    "vod_remarks": "日語／中字",
+    "dogpan": {
+      "JOJO的奇妙冒險 - 飆馬野郎": "https://cloud.7so.top/f/YWLyFA/JoJo.mp4"
+    }
+  },
   "尖帽子的魔法工房 (2026)": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sharp.jpg",
     "vod_remarks": "日語／中字",
@@ -204,6 +211,17 @@
       "Ep05 巨鳞龙的迷宫": "https://cloud.7so.top/f/wVq0ty/Witch.Hat.Atelier.S01E05.Episode.5.1080p.NF.WEB-DL.AAC.2.0.H.264-BlackTV.mkv",
       "Ep06 雨天的灯光": "https://cloud.7so.top/f/wVD4ty/Witch.Hat.Atelier.S01E06.Episode..1080p.NF.WEB-DL.AAC.2.0.H.264-BlackTV.mp4",
       "Ep07 为了谁的魔法": ""
+    }
+  },
+  "詐欺遊戲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/game.jpg",
+    "vod_remarks": "更新到第5集",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/QnzWio/01.mp4",
+      "Ep02": "https://cloud.7so.top/f/ROAgs5/02.mp4",
+      "Ep03": "https://cloud.7so.top/f/VAGPsg/03.mp4",
+      "Ep04": "https://cloud.7so.top/f/WLJLID/04.mp4",
+      "Ep05": "https://cloud.7so.top/f/XLKQSO/05.mp4"
     }
   },
   "怪獸8號": {
@@ -291,6 +309,13 @@
       "EP11 北方诸国的冬季": "https://cloud.7so.top/f/4Q3DUl/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2011.mkv",
       "EP12 真正的勇者": "https://cloud.7so.top/f/5Q4rc6/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2012.mkv",
       "EP13 同类厌恶": "https://cloud.7so.top/f/6XNjHy/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2013.mkv"
+    }
+  },
+  "黃泉使者": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/wongJ01.jpg",
+    "dogpan": {
+      "Ep01": "",
+      "Ep02": ""
     }
   }
 }
