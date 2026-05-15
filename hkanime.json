@@ -260,5 +260,23 @@
     "dogpan": {
       "潮性辦公室 舞台劇 2": "https://dogpan.com/f/rkv1H2/%E6%BD%AE%E6%80%A7%E8%BE%A6%E5%85%AC%E5%AE%A4%202.mp4"
     }
+  },
+  "挑機魔法師": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/mig.jpg",
+    "vod_remarks": "1-12集 (粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/WLGKuD/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP01.mp4",
+      "Ep02": "https://cloud.7so.top/f/XLJPCO/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP02.mp4",
+      "Ep03": "https://cloud.7so.top/f/YWKxCA/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP03.mp4",
+      "Ep04": "https://cloud.7so.top/f/ZYLDsQ/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP04.mp4",
+      "Ep05": "https://cloud.7so.top/f/1WynHq/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP05.mp4",
+      "Ep06": "https://cloud.7so.top/f/2x0ES8/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP06.mp4",
+      "Ep07": "https://cloud.7so.top/f/3QAPC2/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP07.mp4",
+      "Ep08": "https://cloud.7so.top/f/4QB3Fl/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP08.mp4",
+      "Ep09": "https://cloud.7so.top/f/5QDzH6/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP09.mp4",
+      "Ep10": "https://cloud.7so.top/f/6XEpSy/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP10.mp4",
+      "Ep11": "https://cloud.7so.top/f/71GxfZ/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP11.mp4",
+      "Ep12": "https://cloud.7so.top/f/81JnhY/%E6%8C%91%E6%A9%9F%E9%AD%94%E6%B3%95%E5%B8%AB%20EP12.mp4"
+    }
   }
 }
