@@ -91,20 +91,22 @@
       "Ep11": "https://cloud.7so.top/f/2xMEH8/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP11.rmvb"
     }
   },
-  "半澤直樹": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/half.jpg",
-    "vod_remarks": "1-10集(粵語)",
+  "窮小姐x富哥哥": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/rich.jpg",
+    "vod_remarks": "1-11集(粵語)",
     "dogpan": {
-      "Ep01": "https://cloud.7so.top/f/D1j3u3/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch01.rmvb",
-      "Ep02": "https://cloud.7so.top/f/oVzwcv/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch02.rmvb",
-      "Ep03": "https://cloud.7so.top/f/p8AJfA/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch03.rmvb",
-      "Ep04": "https://cloud.7so.top/f/q7BgUX/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch04.rmvb",
-      "Ep05": "https://cloud.7so.top/f/r8DPi2/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch05.rmvb",
-      "Ep06": "https://cloud.7so.top/f/vl0NsA/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch06.rmvb",
-      "Ep07": "https://cloud.7so.top/f/wVLPty/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch07.rmvb",
-      "Ep08": "https://cloud.7so.top/f/xnMZhx/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch08.rmvb",
-      "Ep09": "https://cloud.7so.top/f/yoNQtL/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch09.rmvb",
-      "Ep10": "https://cloud.7so.top/f/zvkPF4/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch10.rmvb"
+      "Ep01": "https://cloud.7so.top/f/E8j8cp/RICH%20MAN%20POOR%20WOMAN_01.mkv",
+      "Ep02": "https://cloud.7so.top/f/GvlRfA/RICH%20MAN%20POOR%20WOMAN_02.mkv",
+      "Ep03": "https://cloud.7so.top/f/JyoNUK/RICH%20MAN%20POOR%20WOMAN_03.mkv",
+      "Ep04": "https://cloud.7so.top/f/K1pQi4/RICH%20MAN%20POOR%20WOMAN_04.mkv",
+      "Ep05": "https://cloud.7so.top/f/L7qPhQ/RICH%20MAN%20POOR%20WOMAN_05.mkv",
+      "Ep06": "https://cloud.7so.top/f/MwrEtz/RICH%20MAN%20POOR%20WOMAN_06.mkv",
+      "Ep07": "https://cloud.7so.top/f/NLv7cj/RICH%20MAN%20POOR%20WOMAN_07.mkv",
+      "Ep08": "https://cloud.7so.top/f/OMw5cv/RICH%20MAN%20POOR%20WOMAN_08.mkv",
+      "Ep09": "https://cloud.7so.top/f/P7xru3/RICH%20MAN%20POOR%20WOMAN_09.mkv",
+      "Ep10": "https://cloud.7so.top/f/QnyjCo/RICH%20MAN%20POOR%20WOMAN_10.mkv",
+      "Ep11": "https://cloud.7so.top/f/ROzjh5/RICH%20MAN%20POOR%20WOMAN_11.mkv",
+      "Ep12": "https://cloud.7so.top/f/VAEZhg/RICH%20MAN%20POOR%20WOMAN_12%EF%BC%9A%E7%B7%A3%E8%81%9A%E7%B4%90%E7%B4%84.mkv"
     }
   },
   "信長協奏曲": {
@@ -123,6 +125,22 @@
       "Ep10": "https://cloud.7so.top/f/zvO3I4/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E10.mp4",
       "Ep11": "https://cloud.7so.top/f/ANZ5CE/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E11.mp4",
       "特別篇": "https://cloud.7so.top/f/BNZ4F8/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%20Movie.mp4"
+    }
+  },
+  "半澤直樹": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/half.jpg",
+    "vod_remarks": "1-10集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/D1j3u3/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch01.rmvb",
+      "Ep02": "https://cloud.7so.top/f/oVzwcv/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch02.rmvb",
+      "Ep03": "https://cloud.7so.top/f/p8AJfA/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch03.rmvb",
+      "Ep04": "https://cloud.7so.top/f/q7BgUX/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch04.rmvb",
+      "Ep05": "https://cloud.7so.top/f/r8DPi2/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch05.rmvb",
+      "Ep06": "https://cloud.7so.top/f/vl0NsA/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch06.rmvb",
+      "Ep07": "https://cloud.7so.top/f/wVLPty/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch07.rmvb",
+      "Ep08": "https://cloud.7so.top/f/xnMZhx/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch08.rmvb",
+      "Ep09": "https://cloud.7so.top/f/yoNQtL/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch09.rmvb",
+      "Ep10": "https://cloud.7so.top/f/zvkPF4/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch10.rmvb"
     }
   },
   "陸王": {
