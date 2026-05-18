@@ -1,585 +1,402 @@
-[
-  {
-    "name": "📺豆瓣",
-    "api": "https://movie.douban.com/j/search_subjects?page_limit=30",
-    "type": 2,
-    "searchable": false,
-    "categories": [
-      { "name": "电视剧", "url": "&type=tv&tag=热门&page_start={{page-1}}" },
-      { "name": "电影", "url": "&type=movie&tag=热门&page_start={{page-1}}" },
-      { "name": "国产剧", "url": "&type=tv&tag=国产剧&page_start={{page-1}}" },
-      { "name": "美剧", "url": "&type=tv&tag=美剧&page_start={{page-1}}" },
-      { "name": "韩剧", "url": "&type=tv&tag=韩剧&page_start={{page-1}}" },
-      { "name": "纪录片", "url": "&type=tv&tag=纪录片&page_start={{page-1}}" },
-      { "name": "豆瓣高分", "url": "&type=movie&tag=豆瓣高分&page_start={{page-1}}" },
-      { "name": "华语", "url": "&type=movie&tag=华语&page_start={{page-1}}" },
-      { "name": "欧美", "url": "&type=movie&tag=欧美&page_start={{page-1}}" },
-      { "name": "韩国", "url": "&type=movie&tag=韩国&page_start={{page-1}}" }
-    ],
-    "list": {
-      "list": "$.subjects",
-      "name": "$.title",
-      "tips": "$.episodes_info",
-      "rate": "$.rate",
-      "doubanId": "$.id",
-      "doubanUrl": "$.url",
-      "coverUrl": "$.cover",
-      "detailUrl": "$.url"
-    },
-    "detail": {
-      "meta": "#info@html"
+{
+  "求婚大作戰": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Love 01.jpg",
+    "vod_remarks": "1-11集+特別篇(粵語)",
+    "dogpan": {
+      "Ep01 去甲子園就能結婚嗎!?": "https://dogpan.com/f/9rPKh2/Operation%20Love%2001.rmvb",
+      "Ep02 買到咖啡牛奶就能結婚嗎!?": "https://dogpan.com/f/pYjRFA/Operation%20Love%2002.rmvb",
+      "Ep03 拿走座位表就能結婚嗎？": "https://dogpan.com/f/qxkAhX/Operation%20Love%2003.rmvb",
+      "Ep04 給她第二顆鈕釦就能結婚嗎？": "https://dogpan.com/f/rklMC2/Operation%20Love%2004.rmvb",
+      "Ep05 說明天再做的人是笨蛋嗎？": "https://dogpan.com/f/v2pDsA/Operation%20Love%2005.rmvb",
+      "Ep06 19歲的最後一天要與什麼告別？": "https://dogpan.com/f/wpq2Hy/Operation%20Love%2006.rmvb",
+      "Ep07 戀愛與煙火何時才會綻放？": "https://dogpan.com/f/xkrLIx/Operation%20Love%2007.rmvb",
+      "Ep08 除夕流的淚水是真心的嗎？": "https://dogpan.com/f/yPvktL/Operation%20Love%2008.rmvb",
+      "Ep09 最後的一刻要下什麼賭注呢？": "https://dogpan.com/f/zpw4T4/Operation%20Love%2009.rmvb",
+      "Ep10 最後的哈雷路亞機會": "https://dogpan.com/f/ADYriE/Operation%20Love%2010.rmvb",
+      "Ep11 淚水的告白能喚回奇蹟嗎？": "https://dogpan.com/f/BBYpT8/Operation%20Love%2011.rmvb",
+      "特別篇 能重返14年之戀永恆誓言的瞬間嗎？": "https://dogpan.com/f/DkV7f3/Operation%20Love%20SP.rmvb"
     }
   },
-  {
-    "name": "📺骚火",
-    "api": "https://saohuo.tv",
-    "type": 2,
-    "searchable": false,
-    "header": {
-        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-        "Accept-Language":"zh-CN,zh;q=0.9",
-        "Referer":"https://saohuo.tv"
-    },
-    "removeReferer": true,
-    "categories": [
-      { "name": "电影", "url": "/list/1-{{page}}.html" },
-      { "name": "电视剧", "url": "/list/2-{{page}}.html" },
-      { "name": "大陆剧", "url": "/list/20-{{page}}.html" },
-      { "name": "TVB", "url": "/list/21-{{page}}.html" },
-      { "name": "韩剧", "url": "/list/22-{{page}}.html" },
-      { "name": "美剧", "url": "/list/23-{{page}}.html" },
-      { "name": "日剧", "url": "/list/24-{{page}}.html" },
-      { "name": "英剧", "url": "/list/25-{{page}}.html" },
-      { "name": "台剧", "url": "/list/26-{{page}}.html" },
-      { "name": "其它剧", "url": "/list/27-{{page}}.html" },
-      { "name": "喜剧", "url": "/list/6-{{page}}.html" },
-      { "name": "爱情", "url": "/list/7-{{page}}.html" },
-      { "name": "恐怖", "url": "/list/8-{{page}}.html" },
-      { "name": "动作", "url": "/list/9-{{page}}.html" },
-      { "name": "科幻", "url": "/list/10-{{page}}.html" },
-      { "name": "战争", "url": "/list/11-{{page}}.html" },
-      { "name": "犯罪", "url": "/list/12-{{page}}.html" },
-      { "name": "动画", "url": "/list/13-{{page}}.html" },
-      { "name": "奇幻", "url": "/list/14-{{page}}.html" },
-      { "name": "剧情", "url": "/list/15-{{page}}.html" },
-      { "name": "冒险", "url": "/list/16-{{page}}.html" },
-      { "name": "悬疑", "url": "/list/17-{{page}}.html" },
-      { "name": "惊悚", "url": "/list/18-{{page}}.html" },
-      { "name": "其它", "url": "/list/19-{{page}}.html" }
-    ],
-    "search": {
-      "url": "/s----------.html?wd={{key}}",
-      "list": ".v_list .v_img",
-      "name": "a.0@title",
-      "tips": ".v_note@.text",
-      "coverUrl": "img.0@data-original",
-      "detailUrl": "a.0@href"
-    },
-    "detail": {
-      "meta": ".v_info_box > p@text"
-    },
-    "play": {
-      "list": "li.current a",
-      "reverse": true,
-      "name": "text",
-      "url": "href"
+  "民王": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/man.jpg",
+    "vod_remarks": "1-8集+特別篇1,2 (粵語)",
+    "dogpan": {
+      "Ep01 組閣": "https://cloud.7so.top/f/NLmZFj/MingWang.SY.EP01.mkv",
+      "Ep02 外交": "https://cloud.7so.top/f/OMnVIv/MingWang.SY.EP02.mkv",
+      "Ep03 政敵": "https://cloud.7so.top/f/P7Dmc3/MingWang.SY.EP03.mkv",
+      "Ep04 盟友": "https://cloud.7so.top/f/QnEWfo/MingWang.SY.EP04.mkv",
+      "Ep05 革命": "https://cloud.7so.top/f/ROGgh5/%E6%B0%91%E7%8E%8B%2005.mkv",
+      "Ep06 暗殺": "https://cloud.7so.top/f/VAMPSg/%E6%B0%91%E7%8E%8B%2006.mkv",
+      "Ep07 謀反": "https://cloud.7so.top/f/WLNLcD/%E6%B0%91%E7%8E%8B%2007.mkv",
+      "Ep08 民王": "https://cloud.7so.top/f/XLOQfO/%E6%B0%91%E7%8E%8B%2008.mkv",
+      "Ep09 特別篇 1": "https://cloud.7so.top/f/YWPyHA/%E6%B0%91%E7%8E%8B%2009.mkv",
+      "Ep10 特別篇 2": "https://cloud.7so.top/f/ZYQ0IQ/%E6%B0%91%E7%8E%8B%2010.mkv"
     }
   },
-  {
-    "name": "📺厂长",
-    "api": "https://www.cz0101.com",
-    "type": 2,
-    "header": {
-      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"
-    },
-    "removeReferer": true,
-    "categories": [
-      { "name": "电影", "url": "/zuixindianying/page/{{page}}" ,"url2":"/zuixindianying"},
-      { "name": "国产剧", "url": "/gcj/page/{{page}}" ,"url2":"/gcj"},
-      { "name": "美剧", "url": "/meijutt/page/{{page}}" ,"url2":"/meijutt"},
-      { "name": "韩剧", "url": "/hanjutv/page/{{page}}" ,"url2":"/hanjutv"},
-      { "name": "番剧", "url": "/fanju/page/{{page}}" ,"url2":"/fanju"},
-      { "name": "动漫", "url": "/dongmanjuchangban/page/{{page}}","url2":"/dongmanjuchangban" }
-    ],
-    "list": {
-      "list": ".bt_img.mi_ne_kd li",
-      "name": "h3.0@text",
-      "tips": ".jidi.0@text",
-      "coverUrl": "img.0@data-original",
-      "detailUrl": "a.0@href"
-    },
-    "detail": {
-      "meta": ".moviedteail_list@html"
-    },
-    "play": {
-      "list": ".paly_list_btn a",
-      "name": "text",
-      "url": "href"
+  "民王 R (2024)": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/manR.jpg",
+    "vod_remarks": "更新到 8 集(粵語)",
+    "dogpan": {
+      "Ep01 總理與秘書": "https://cloud.7so.top/f/ZYM0TQ/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP01.mp4",
+      "Ep02 總理與年輕人": "https://cloud.7so.top/f/1WZ9Iq/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP02.mp4",
+      "Ep03 總理與小孩": "https://cloud.7so.top/f/2xZgi8/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP03.mp4",
+      "Ep04 總理與老人": "https://cloud.7so.top/f/3Q8Yh2/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP04.mp4",
+      "Ep05 總理與少年們": "https://cloud.7so.top/f/4QZYil/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP05.mp4",
+      "Ep06 總理與搞笑藝人": "https://cloud.7so.top/f/5QZ3s6/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP06.mp4",
+      "Ep07 總理與孕婦": "https://cloud.7so.top/f/6X1GUy/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP07.mp4",
+      "Ep08 總理與 AI": "https://cloud.7so.top/f/71ZVUZ/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP08.mp4"
     }
   },
-  {
-    "name": "📺金牌",
-    "api": "https://www.hellorlgzf7sn.com",
-    "type": 2,
-    "searchable": true,
-    "categories": [
-      { "name": "电视剧", "url": "/vod/show/id/2/page/{{page}}" },
-      { "name": "电影", "url": "/vod/show/id/1/page/{{page}}" },
-      { "name": "动漫", "url": "/vod/show/id/4/page/{{page}}" },
-      { "name": "国产剧", "url": "/vod/show/id/2/type/14/page/{{page}}" },
-      { "name": "欧美剧", "url": "/vod/show/id/2/type/15/page/{{page}}" },
-      { "name": "港台剧", "url": "/vod/show/id/2/type/16/page/{{page}}" },
-      { "name": "日韩剧", "url": "/vod/show/id/2/type/62/page/{{page}}" },
-      { "name": "其它剧", "url": "/vod/show/id/2/type/68/page/{{page}}" },
-      { "name": "喜剧", "url": "/vod/show/id/1/type/22/page/{{page}}" },
-      { "name": "动作", "url": "/vod/show/id/1/type/23/page/{{page}}" },
-      { "name": "科幻", "url": "/vod/show/id/1/type/30/page/{{page}}" },
-      { "name": "爱情", "url": "/vod/show/id/1/type/26/page/{{page}}" },
-      { "name": "悬疑", "url": "/vod/show/id/1/type/27/page/{{page}}" },
-      { "name": "恐怖", "url": "/vod/show/id/1/type/36/page/{{page}}" },
-      { "name": "惊悚", "url": "/vod/show/id/1/type/34/page/{{page}}" },
-      { "name": "动画", "url": "/vod/show/id/1/type/33/page/{{page}}" },
-      { "name": "灾难", "url": "/vod/show/id/1/type/81/page/{{page}}" },
-      { "name": "剧情", "url": "/vod/show/id/1/type/37/page/{{page}}" }
-    ],
-    "search": {
-      "url": "/vod/search/{{key}}",
-      "list": "body@js:function getSearchList(html) { var a = substring(html, '\\\"result\\\":', 11, ']}', 1); a = substring(a, '\\\"list\\\":', 7); return a; } getSearchList(__result);",
-      "name": "$.vodName",
-      "tips": "$.vodRemarks",
-      "coverUrl": "$.vodPic",
-      "detailUrl": "/detail/{{$.vodId}}",
-      "rate": "$.vodDoubanScore"
-    },
-    "detail": {
-      "meta": ".director,.item-top@html"
-    },
-    "list": {
-      "list": "body@js:substring(__result,'\\\"list\\\":',7,']}',1);",
-      "name": "$.vodName",
-      "tips": "$.vodRemarks",
-      "coverUrl": "$.vodPic",
-      "detailUrl": "/detail/{{$.vodId}}",
-      "rate": "$.vodDoubanScore"
-    },
-    "toc": {
-      "list": "body@js:function getPlayList(html) { var vodId = substring(html,'\\\"vodId\\\":',8,','); var script = substring(html,'episodeList',13,']',1); script = script.replaceAll('null',vodId); return script; }; getPlayList(__result)",
-      "name": "name",
-      "url": "/vod/play/{{$.playUrl}}/1/{{$.nid}}"
+  "茶煲阿四": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/tea.jpg",
+    "vod_remarks": "更新到第21 集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/jZrVUR/01.mkv",
+      "Ep02": "https://cloud.7so.top/f/k8vlT5/02.mkv",
+      "Ep03": "https://cloud.7so.top/f/71RxuZ/03.mkv",
+      "Ep04": "https://cloud.7so.top/f/81VnCY/04.mkv",
+      "Ep05": "https://cloud.7so.top/f/91WwF2/05.mkv",
+      "Ep06": "https://cloud.7so.top/f/0YKzim/06.mkv",
+      "Ep07": "https://cloud.7so.top/f/gZ0ouG/07.mkv",
+      "Ep08": "https://cloud.7so.top/f/jZ11CR/08.mkv",
+      "Ep09": "https://cloud.7so.top/f/k813T5/09.mkv",
+      "Ep10": "https://cloud.7so.top/f/lx1nCX/10.mkv",
+      "Ep11": "https://cloud.7so.top/f/mO5JfW/11.mkv",
+      "Ep12": "https://cloud.7so.top/f/nx1wHm/12.mkv",
+      "Ep13": "https://cloud.7so.top/f/oV1wcv/13.mkv",
+      "Ep14": "https://cloud.7so.top/f/p81JiA/14.mkv",
+      "Ep15": "https://cloud.7so.top/f/q71ghX/15.mkv",
+      "Ep16": "https://cloud.7so.top/f/r81Pt2/16.mkv",
+      "Ep17": "https://cloud.7so.top/f/vl1NuA/17.mkv",
+      "Ep18": "https://cloud.7so.top/f/wV1Pty/18.mkv",
+      "Ep19": "https://cloud.7so.top/f/xngZux/19.mkv",
+      "Ep20": "https://cloud.7so.top/f/yojQCL/20.mkv",
+      "Ep21": "https://cloud.7so.top/f/zv3PI4/21.mkv"
     }
   },
-  {
-    "name": "📺奇优",
-    "type": 2,
-    "api": "http://www.qiyoudy4.com",
-    "header": {
-      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"
-    },
-    "removeReferer": true,
-    "injectJs": {
-      "start": "Object.defineProperty(window.navigator, 'platform', {value: 'iPhone', writable: false});"
-    },
-    "categories": [
-      { "url": "/list/1_{{page}}.html", "name": "电影" },
-      { "url": "/list/2_{{page}}.html", "name": "电视剧" },
-      { "url": "/list/3_{{page}}.html", "name": "动漫" },
-      { "url": "/list/4_{{page}}.html", "name": "综艺" }
-    ],
-    "detail": {
-      "intro": ".detail-content@text",
-      "author": ".data5 a.0@text",
-      "category": ".data2.0@text"
-    },
-    "search": {
-      "list": ".stui-vodlist__thumb",
-      "name": "title",
-      "detailUrl": "href",
-      "coverUrl": "data-original",
-      "tips": ".pic-text@text",
-      "method": "POST",
-      "post": "searchword={{key}}",
-      "url": "/search.php"
-    },
-    "play": {
-      "list": ".stui-content__playlist.0@a",
-      "name": "text",
-      "url": "href"
-    },
-    "searchable": true,
-    "discoverable": true
-  },
-  { "name": "📺优质", "api": "https://api.yzzy-api.com/inc/apijson.php" },
-  { "name": "📺如意", "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8", "discoverable": false },
-  { "name": "📺红牛", "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/" },
-  { "name": "📺豪华", "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/" },
-  { "name": "📺暴风", "api": "https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8/" },
-  { "name": "📺飘零", "api": "https://p2100.net/api.php/provide/vod/from/ikm3u8/" },
-  { "name": "📺清风", "api": "http://sspa8.top:8100/php/清风.php" },
-  { "name": "📺卧龙", "api": "https://collect.wolongzyw.com/api.php/provide/vod/" },
-  { "name": "📺影探", "api": "https://catbox.n13.club/18/影探影视.php" },
-  { "name": "📺速播", "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/" },
-  { "name": "📺独播", "api": "http://bob2.hkt.net.cn/miraplay/dbo.php" },
-  { "name": "📺360", "api": "https://360zyzz.com/api.php/provide/vod/" },
-  { "name": "📺淘片", "api": "https://www.taopianzy.com/cjapi/mc/vod/json.html" },
-  { "name": "📺电影天堂", "api": "http://dyttzy2.tv/api.php/provide/vod/" },
-  { "name": "📺无水", "api": "https://api.wsyzy.net/api.php/provide/vod/" },
-  { "name": "📺蛋蛋", "api": "https://ddmf.net/api.php/provide/vod/" },
-  { "name": "📺猫眼",  "api": "https://api.maoyanapi.top/api.php/provide/vod/" },
-  { "name": "📺极速", "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/" },
-  { "name": "📺豆瓣", "api": "https://caiji.dbzy5.com/api.php/provide/vod/" },
-  { "name": "📺TVBOX", "api": "https://dy.7772888.xyz/api.php/tvbox" },
-  { "name": "📺新浪", "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8" },
-  { "name": "📺百度", "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/" },
-  { "name": "📺金鹰", "api": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/" },
-  { "name": "📺光速", "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/" },
-  { "name": "📺索尼", "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/" },
-  { "name": "📺CK", "api": "https://ckzy.me/api.php/provide/vod/" },
-  { "name": "📺天涯",  "api": "https://tyyszyapi.com/api.php/provide/vod/" },
-  { "name": "📺人人",  "api": "http://jiduo666.dpdns.org/rrsp.php" },
-  { "name": "📺荐片",  "api": "http://zhangqun1818.serv00.net/jianpian1.php" },
-  { "name": "📺奇艺", "api": "https://iqiyizyapi.com/api.php/provide/vod/" },
-  { "name": "📺魔都", "api": "https://www.mdzyapi.com/api.php/provide/vod/" },
-  { "name": "📺茅台", "api": "https://caiji.maotaizy.cc/api.php/provide/vod/" },
-  { "name": "📺量子", "api": "https://cj.lziapi.com/api.php/provide/vod/" },
-  { "name": "📺最大", "api": "https://api.zuidapi.com/api.php/provide/vod/" },
-  { "name": "📺优酷", "api": "https://api.ukuapi88.com/api.php/provide/vod/" },
-  { "name": "📺旺旺", "api": "https://ww.tyyszy5.com/api.php/provide/vod/" },
-  { "name": "📺无尽", "api": "https://api.wujinapi.me/api.php/provide/vod/" },
-  { "name": "📺漫道", "api": "https://www.mandao.cc/api.php/provide/vod/" },
-  { "name": "📺闪电",  "api": "https://xsd.sdzyapi.com/api.php/provide/vod/" },
-  { "name": "📺非凡", "api": "https://cj.ffzyapi.com/api.php/provide/vod/" },
-  { "name": "📺牛牛", "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/", "searchable": false },
-  { "name": "📺鸭鸭", "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/", "searchable": false },
-  { "name": "📺樱花", "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/from/yhm3u8/", "searchable": false },
-  { "name": "📺快车", "api": "https://caiji.kuaichezy.org/api.php/provide/vod/from/kcm3u8/", "searchable": false },
-  { "name": "📺虎牙", "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/", "searchable": false },
-  {
-    "name": "📙猫眼看书",
-    "type": 10,
-    "api": "http://api.lemiyigou.com",
-    "key": "api.lemiyigou.com",
-    "header": {
-      "client-device": "2d37f6b5b6b2605373092c3dc65a3b39",
-      "client-brand": "Redmi",
-      "client-version": "2.3.0",
-      "client-name": "app.maoyankanshu.novel",
-      "client-source": "android",
-      "Authorization": "bearereyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9hcGkuanhndHp4Yy5jb21cL2F1dGhcL3RoaXJkIiwiaWF0IjoxNjgzODkxNjUyLCJleHAiOjE3NzcyMDM2NTIsIm5iZiI6MTY4Mzg5MTY1MiwianRpIjoiR2JxWmI4bGZkbTVLYzBIViIsInN1YiI6Njg3ODYyLCJwcnYiOiJhMWNiMDM3MTgwMjk2YzZhMTkzOGVmMzBiNDM3OTQ2NzJkZDAxNmM1In0.mMxaC2SVyZKyjC6rdUqFVv5d9w_X36o0AdKD7szvE_Q",
-      "Referer": "http://api.lemiyigou.com"
-    },
-    "categories": [
-      { "url": "/module/rank?type=1&channel=1&page={{page}}", "name": "必读榜" },
-      { "url": "/module/rank?type=5&channel=1&page={{page}}", "name": "潜力榜" },
-      { "url": "/module/rank?type=2&channel=1&page={{page}}", "name": "完本榜" },
-      { "url": "/module/rank?type=3&channel=1&page={{page}}", "name": "更新榜" },
-      { "url": "/module/rank?type=4&channel=1&page={{page}}", "name": "搜索榜" },
-      { "url": "/module/rank?type=6&channel=1&page={{page}}", "name": "评论榜" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=lejRej", "name": "玄幻" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=nel5aK", "name": "武侠" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=mbk5ez", "name": "都市" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=vbmOeY", "name": "仙侠" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=penRe7", "name": "军事" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=xbojag", "name": "历史" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=mep2bM", "name": "游戏" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=zbq2dp", "name": "科幻" },
-      { "url": "/novel?sort=1&page={{page}}&categoryId=YerEdO", "name": "轻小说" }
-    ],
-    "detail": {
-      "tocUrl": "/novel/{{$..novelId}}/chapters?readNum=1",
-      "intro": "$..summary",
-      "category": "{{$.data.categoryNames[*].className}},{{$.data.tagNames[*].tagName}}",
-      "coverUrl": "$..cover",
-      "tips": "$..lastChapter.chapterName"
-    },
-    "content": {
-      "content": "$.content##一秒记住.*供精彩阅读。|7017k"
-    },
-    "list": {
-      "list": "$.data[*]",
-      "name": "$.novelName",
-      "author": "$.authorName",
-      "detailUrl": "/novel/{{$.novelId}}?isSearch=1",
-      "intro": "$.summary",
-      "coverUrl": "$.cover"
-    },
-    "search": {
-      "list": "$.data[*]",
-      "name": "$.novelName",
-      "author": "$.authorName",
-      "detailUrl": "/novel/{{$.novelId}}?isSearch=1",
-      "intro": "$.summary",
-      "last": "",
-      "coverUrl": "$.cover",
-      "url": "search?page=1&keyword={{key}}"
-    },
-    "toc": {
-      "list": "$.data.list[*]",
-      "name": "$.chapterName",
-      "url": "$.path@js:decodeAES(result,'f041c49714d39908','0123456789abcdef')"
-    },
-    "searchable": true,
-    "discoverable": true
-  },
-  {
-    "name": "📙免费读",
-    "type": 10,
-    "api": "https://www.mianfeidu.com",
-    "categories": [
-      { "url": "/all/id/43.html?page={{page}}", "name": "📙小说" },
-      { "url": "/all/id/47.html?page={{page}}", "name": "历史演义" },
-      { "url": "/all/id/48.html?page={{page}}", "name": "神魔幻想" },
-      { "url": "/all/id/49.html?page={{page}}", "name": "侠义公案" },
-      { "url": "/all/id/50.html?page={{page}}", "name": "才子佳人" },
-      { "url": "/all/id/51.html?page={{page}}", "name": "世情小说" },
-      { "url": "/all/id/52.html?page={{page}}", "name": "文言笔记" },
-      { "url": "/all/id/92.html?page={{page}}", "name": "英雄传奇" },
-      { "url": "/all/id/94.html?page={{page}}", "name": "讽刺小说" },
-      { "url": "/all/id/66.html?page={{page}}", "name": "📙典籍" },
-      { "url": "/all/id/68.html?page={{page}}", "name": "儒家经典" },
-      { "url": "/all/id/69.html?page={{page}}", "name": "道家经典" },
-      { "url": "/all/id/70.html?page={{page}}", "name": "佛教经典" },
-      { "url": "/all/id/107.html?page={{page}}", "name": "易学典籍" },
-      { "url": "/all/id/65.html?page={{page}}", "name": "📙史传" },
-      { "url": "/all/id/71.html?page={{page}}", "name": "二十四史" },
-      { "url": "/all/id/72.html?page={{page}}", "name": "野史笔记" },
-      { "url": "/all/id/108.html?page={{page}}", "name": "传记方志" },
-      { "url": "/all/id/113.html?page={{page}}", "name": "编年纪传" },
-      { "url": "/all/id/67.html?page={{page}}", "name": "📙百家" },
-      { "url": "/all/id/87.html?page={{page}}", "name": "文化艺术" },
-      { "url": "/all/id/88.html?page={{page}}", "name": "医学方技" },
-      { "url": "/all/id/89.html?page={{page}}", "name": "天文算经" },
-      { "url": "/all/id/91.html?page={{page}}", "name": "诸子百家" },
-      { "url": "/all/id/96.html?page={{page}}", "name": "阴阳术数" },
-      { "url": "/all/id/97.html?page={{page}}", "name": "农工百技" },
-      { "url": "/all/id/64.html?page={{page}}", "name": "📙诗文" },
-      { "url": "/all/id/81.html?page={{page}}", "name": "诗词歌赋" },
-      { "url": "/all/id/82.html?page={{page}}", "name": "词文别集" },
-      { "url": "/all/id/101.html?page={{page}}", "name": "诗话词话" },
-      { "url": "/all/id/111.html?page={{page}}", "name": "文论文平" }
-    ],
-    "detail": {
-      "intro": ".brief_text.0@text",
-      "category": "head meta[property='og:novel:category']@content",
-      "tips": "head meta[property='og:novel:status']@content"
-    },
-    "content": {
-      "content": ".read-content p!0@text"
-    },
-    "list": {
-      "list": ".listboxw dl",
-      "name": "a.1@text",
-      "author": "a.2@text",
-      "detailUrl": "a.0@href",
-      "coverUrl": "https://www.mianfeidu.com{{img.0@data-original}}"
-    },
-    "search": {
-      "list": ".secd-rank-list",
-      "name": "a.1@text",
-      "author": "a.2@text",
-      "detailUrl": "a.0@href",
-      "coverUrl": "https://www.mianfeidu.com{{img.0@data-original}}",
-      "url": "/search.html?keyword={{key}}"
-    },
-    "toc": {
-      "list": ".cate-list a",
-      "name": ".chapter_name@text",
-      "url": "href"
-    },
-    "searchable": true,
-    "discoverable": true
-  },
-  {
-    "name": "📙顶点小说",
-    "type": 10,
-    "api": "http://m.23uswx.org",
-    "categories": [
-      { "url": "/xclass/0/{{page}}.html", "name": "全部" },
-      { "url": "/xclass/1/{{page}}.html", "name": "玄幻" },
-      { "url": "/xclass/2/{{page}}.html", "name": "修真" },
-      { "url": "/xclass/3/{{page}}.html", "name": "都市" },
-      { "url": "/xclass/4/{{page}}.html", "name": "穿越" },
-      { "url": "/xclass/5/{{page}}.html", "name": "网游" },
-      { "url": "/xclass/6/{{page}}.html", "name": "科幻" }
-    ],
-    "detail": {
-      "intro": ".review.0@text",
-      "tips": "head meta[property='og:novel:latest_chapter_name']@content",
-      "category": "head meta[property='og:novel:category']@content",
-      "tocUrl": ".recommend h2:last-child a.0@href"
-    },
-    "content": {
-      "content": "#chaptercontent@html##最新网址：m\\.23uswx\\.org|『加入书签，方便阅读』",
-      "nextUrl": "下一页@href"
-    },
-    "search": {
-      "list": ".hot_sale",
-      "name": ".title.0@text",
-      "author": ".author.0@text##作者：",
-      "detailUrl": "a.0@href",
-      "coverUrl": "img.0@data-original",
-      "url": "/s.php",
-      "method": "POST",
-      "post": "keyword={{key}}&t=1"
-    },
-    "toc": {
-      "list": "#chapterlist a!0",
-      "name": "text",
-      "url": "href"
-    },
-    "searchable": true,
-    "discoverable": true
-  },
-  {
-    "name": "🎨看漫画",
-    "type": 12,
-    "api": "https://m.kanman.com",
-    "categories": [
-      { "name": "人气", "url": "/api/getsortlist/?comic_sort=&orderby=click&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "更新", "url": "/api/getsortlist/?comic_sort=&orderby=date&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "评分", "url": "/api/getsortlist/?comic_sort=&orderby=score&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "收藏", "url": "/api/getsortlist/?comic_sort=&orderby=shoucang&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "推理", "url": "/api/getsortlist/?comic_sort=tuili&orderby=&search_type=&search_key=&page={{page}}&size=48" },
-      { "name": "冒险", "url": "/api/getsortlist/?comic_sort=maoxian&orderby=&search_type=&search_key=&page={{page}}&size=48" }
-    ],
-    "detail": {
-      "category": "[property=\"og:novel:category\"]@content",
-      "tocUrl": "/api/getchapterlist?product_id=1&productname=kmh&platformname=wap&comic_id={{$.comic_id}}"
-    },
-    "content": {
-      "content": "$.data.current_chapter.chapter_img_list"
-    },
-    "list": {
-      "list": "$.data.data",
-      "author": "$.comic_author",
-      "detailUrl": "/{{$.comic_id}}/",
-      "tips": "$.latest_cartoon_topic_name",
-      "coverUrl": "https://image.yqmh.com/mh/{{$.comic_id}}.jpg-300x400.webp",
-      "name": "$.comic_name",
-      "params": "{\"comic_id\":{{$.comic_id}}}"
-    },
-    "search": {
-      "author": "$.cartoon_author_list_name",
-      "list": "$.data",
-      "detailUrl": "/{{$.comic_id}}/",
-      "coverUrl": "https://image.yqmh.com/mh/{{$.comic_id}}.jpg-300x400.webp",
-      "intro": "$.cartoon_desc",
-      "category": "$.comic_type##[a-zA-Z]|\\|",
-      "name": "$.comic_name",
-      "params": "{\"comic_id\":{{$.comic_id}}}",
-      "url": "/api/serachcomic/?product_id=1&productname=kmh&platformname=wap&serachKey={{key}}&topNumber=10"
-    },
-    "toc": {
-      "list": "$.data",
-      "name": "$.chapter_name",
-      "reverse": true,
-      "url": "/api/getchapterinfov2?product_id=1&productname=kmh&platformname=wap&comic_id={{$.comic_id}}&chapter_newid={{$.chapter_newid}}&isWebp=1&quality=low"
+  "僱傭妻子": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/wife.jpg",
+    "vod_remarks": "1-11集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/OMK5tv/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP01.rmvb",
+      "Ep02": "https://cloud.7so.top/f/P7Lri3/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP02.rmvb",
+      "Ep03": "https://cloud.7so.top/f/QnMjio/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP03.rmvb",
+      "Ep04": "https://cloud.7so.top/f/RONjH5/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP04.rmvb",
+      "Ep05": "https://cloud.7so.top/f/VARZHg/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP05.rmvb",
+      "Ep06": "https://cloud.7so.top/f/WLVKsD/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP06.rmvb",
+      "Ep07": "https://cloud.7so.top/f/XLWPtO/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP07.rmvb",
+      "Ep08": "https://cloud.7so.top/f/YW8xFA/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP08.rmvb",
+      "Ep09": "https://cloud.7so.top/f/ZY1DCQ/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP09.rmvb",
+      "Ep10": "https://cloud.7so.top/f/1WLnIq/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP10.rmvb",
+      "Ep11": "https://cloud.7so.top/f/2xMEH8/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP11.rmvb"
     }
   },
-  {
-    "name": "🎨动漫之家",
-    "type": 12,
-    "api": "https://www.idmzj.com/api/v1",
-    "key": "www.idmzj.com",
-    "categories": [
-      { "name": "更新", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=0" },
-      { "name": "人气", "url": "/comic1/filter?sortType=1&page={{page}}&size=20&audience=0&theme=0" },
-      { "name": "少年", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=3262&theme=0" },
-      { "name": "少女", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=3263&theme=0" },
-      { "name": "青年", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=3264&theme=0" },
-      { "name": "冒险", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=1" },
-      { "name": "搞笑", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=2" },
-      { "name": "格斗", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=3" },
-      { "name": "科幻", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=4" },
-      { "name": "爱情", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=5" },
-      { "name": "侦探", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=6" },
-      { "name": "竞技", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=7" },
-      { "name": "魔法", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=8" },
-      { "name": "校园", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=9" },
-      { "name": "百合", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=11" },
-      { "name": "耽美", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=13" },
-      { "name": "历史", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=14" },
-      { "name": "战争", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=15" },
-      { "name": "宅系", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=16" },
-      { "name": "治愈", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=17" },
-      { "name": "仙侠", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=18" },
-      { "name": "武侠", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=19" },
-      { "name": "职场", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=20" },
-      { "name": "神鬼", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=21" },
-      { "name": "奇幻", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=22" },
-      { "name": "生活", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=23" },
-      { "name": "其它", "url": "/comic1/filter?sortType=0&page={{page}}&size=20&audience=0&theme=24" }
-    ],
-    "detail": {
-      "intro": "$.data.comicInfo.description",
-      "category": "{{$.data.comicInfo.status}}/{{$.data.comicInfo.types}}"
-    },
-    "content": {
-      "content": "$.page"
-    },
-    "list": {
-      "list": "$.data.comicList[*]",
-      "name": "$.name",
-      "author": "$.authors",
-      "detailUrl": "/comic1/comic/detail?app_name=dmzj&comic_py={{$.comic_py}}",
-      "coverUrl": "$.cover",
-      "tips": "$.last_update_chapter_name",
-      "params": "{\"comic_id\":{{$.id}}}"
-    },
-    "search": {
-      "list": "$",
-      "name": "$.title",
-      "author": "$.authors",
-      "detailUrl": "/comic1/comic/detail?app_name=dmzj&comic_py={{$.comic_py}}",
-      "coverUrl": "$.cover",
-      "url": "https://www.idmzj.com/npi/search/fuzzyWithLevel/0/{{key}}.json?type=0&con={{key}}",
-      "tips": "$.last_name",
-      "params": "{\"comic_id\":{{$.id}}}"
-    },
-    "toc": {
-      "list": "$.data.comicInfo.chapterList[0].data",
-      "name": "$.chapter_title",
-      "reverse": true,
-      "url": "http://api.dmzj.com/dynamic/comicread/{{$.comic_id}}/{{$.chapter_id}}.json"
-    },
-    "searchable": true,
-    "discoverable": true
+  "窮小姐x富哥哥": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/rich.jpg",
+    "vod_remarks": "1-11集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/E8j8cp/RICH%20MAN%20POOR%20WOMAN_01.mkv",
+      "Ep02": "https://cloud.7so.top/f/GvlRfA/RICH%20MAN%20POOR%20WOMAN_02.mkv",
+      "Ep03": "https://cloud.7so.top/f/JyoNUK/RICH%20MAN%20POOR%20WOMAN_03.mkv",
+      "Ep04": "https://cloud.7so.top/f/K1pQi4/RICH%20MAN%20POOR%20WOMAN_04.mkv",
+      "Ep05": "https://cloud.7so.top/f/L7qPhQ/RICH%20MAN%20POOR%20WOMAN_05.mkv",
+      "Ep06": "https://cloud.7so.top/f/MwrEtz/RICH%20MAN%20POOR%20WOMAN_06.mkv",
+      "Ep07": "https://cloud.7so.top/f/NLv7cj/RICH%20MAN%20POOR%20WOMAN_07.mkv",
+      "Ep08": "https://cloud.7so.top/f/OMw5cv/RICH%20MAN%20POOR%20WOMAN_08.mkv",
+      "Ep09": "https://cloud.7so.top/f/P7xru3/RICH%20MAN%20POOR%20WOMAN_09.mkv",
+      "Ep10": "https://cloud.7so.top/f/QnyjCo/RICH%20MAN%20POOR%20WOMAN_10.mkv",
+      "Ep11": "https://cloud.7so.top/f/ROzjh5/RICH%20MAN%20POOR%20WOMAN_11.mkv",
+      "Ep12": "https://cloud.7so.top/f/VAEZhg/RICH%20MAN%20POOR%20WOMAN_12%EF%BC%9A%E7%B7%A3%E8%81%9A%E7%B4%90%E7%B4%84.mkv"
+    }
   },
-  {
-    "name": "🎧人人听",
-    "type": 11,
-    "api": "https://api.yituwenhua.com",
-    "header": {
-      "Referer": "https://renrenting.leytolyy.wwww",
-      "User-Agent": "renrenting.leytolyy/1.2 (Mozilla/5.0 (Linux; Android 9; MIX 2S Build/PKQ1.180729.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36)"
-    },
-    "categories": [
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=百家讲坛", "name": "百家讲坛" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=有声书", "name": "有声书" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=历史", "name": "历史" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=评书", "name": "评书" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=小说", "name": "小说" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=音乐", "name": "音乐" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=个人成长", "name": "个人成长" },
-      { "url": "/api/json/v1/MultiSearch?fromLy=tag&apiLy=xmly&pageNum={{page}}&pageSize=30&keyword=健康养生", "name": "健康养生" }
-    ],
-    "detail": {},
-    "search": {
-      "list": "$.data",
-      "name": "$.novelName",
-      "detailUrl": "/api/json/v1/albums_browse_search?album_id={{$.novelId}}",
-      "coverUrl": "$.coverImageUrl",
-      "tips": "$.latestChapter",
-      "author": "$.author",
-      "category": "$.categoryName",
-      "intro": "$.description",
-      "url": "/api/json/v1/MultiSearch?fromLy=title&apiLy=xmly&pageNum=1&pageSize=30&keyword={{key}}"
-    },
-    "toc": {
-      "list": "$.data",
-      "name": "$.chapterName",
-      "playUrl": "$.playUrl"
-    },
-    "searchable": true,
-    "discoverable": true
+  "信長協奏曲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/shun01.jpg",
+    "vod_remarks": "1-11集+特別篇(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/nxykim/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E01.mp4",
+      "Ep02": "https://cloud.7so.top/f/oVzghv/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E02.mp4",
+      "Ep03": "https://cloud.7so.top/f/p8AWiA/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E03.mp4",
+      "Ep04": "https://cloud.7so.top/f/q7BEfX/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E04.mp4",
+      "Ep05": "https://cloud.7so.top/f/r8Drt2/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E05.mp4",
+      "Ep06": "https://cloud.7so.top/f/vl0BuA/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E06.mp4",
+      "Ep07": "https://cloud.7so.top/f/wVL4Cy/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E07.mp4",
+      "Ep08": "https://cloud.7so.top/f/xnMMsx/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E08.mp4",
+      "Ep09": "https://cloud.7so.top/f/yoNjuL/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E09.mp4",
+      "Ep10": "https://cloud.7so.top/f/zvO3I4/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E10.mp4",
+      "Ep11": "https://cloud.7so.top/f/ANZ5CE/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2.E11.mp4",
+      "特別篇": "https://cloud.7so.top/f/BNZ4F8/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%20Movie.mp4"
+    }
+  },
+  "女王的教室": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Queen.jpg",
+    "vod_remarks": "1-11集+特別篇1,2 (粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/k8EQc5/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A401.rmvb",
+      "Ep02": "https://cloud.7so.top/f/lxGYfX/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A402.rmvb",
+      "Ep03": "https://cloud.7so.top/f/mOJwFW/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A403.rmvb",
+      "Ep04": "https://cloud.7so.top/f/nxKrim/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A404.rmvb",
+      "Ep05": "https://cloud.7so.top/f/oVLVcv/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A405.rmvb",
+      "Ep06": "https://cloud.7so.top/f/p8MZtA/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A406.rmvb",
+      "Ep07": "https://cloud.7so.top/f/q7NluX/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A407.rmvb",
+      "Ep08": "https://cloud.7so.top/f/r8O9C2/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A408.rmvb",
+      "Ep09": "https://cloud.7so.top/f/vlVjTA/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A409.rmvb",
+      "Ep10": "https://cloud.7so.top/f/wVWEty/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A410.rmvb",
+      "Ep11": "https://cloud.7so.top/f/xnXoIx/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A411.rmvb",
+      "特別編 1": "https://cloud.7so.top/f/yoYJIL/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A4Sp1.rmvb",
+      "特別編 2": "https://cloud.7so.top/f/zvZ9u4/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A4Sp2.rmvb"
+    }
+  },
+  "半澤直樹": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/half.jpg",
+    "vod_remarks": "1-10集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/D1j3u3/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch01.rmvb",
+      "Ep02": "https://cloud.7so.top/f/oVzwcv/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch02.rmvb",
+      "Ep03": "https://cloud.7so.top/f/p8AJfA/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch03.rmvb",
+      "Ep04": "https://cloud.7so.top/f/q7BgUX/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch04.rmvb",
+      "Ep05": "https://cloud.7so.top/f/r8DPi2/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch05.rmvb",
+      "Ep06": "https://cloud.7so.top/f/vl0NsA/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch06.rmvb",
+      "Ep07": "https://cloud.7so.top/f/wVLPty/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch07.rmvb",
+      "Ep08": "https://cloud.7so.top/f/xnMZhx/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch08.rmvb",
+      "Ep09": "https://cloud.7so.top/f/yoNQtL/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch09.rmvb",
+      "Ep10": "https://cloud.7so.top/f/zvkPF4/%E5%8D%8A%E6%BE%A4%E7%9B%B4%E6%A8%B9%20Ch10.rmvb"
+    }
+  },
+  "律政狂人 1": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/High.jpg",
+    "vod_remarks": "1-12集(粵語)",
+    "dogpan": {
+      "Ep01-Ep02": "https://cloud.7so.top/f/jZ31iR/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BA%20Ch01+02.rmvb",
+      "Ep03-Ep04": "https://cloud.7so.top/f/k833c5/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BA%20Ch03+04.rmvb",
+      "Ep05-Ep06": "https://cloud.7so.top/f/lx3nHX/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BA%20Ch05+06.rmvb",
+      "Ep07-Ep08": "https://cloud.7so.top/f/mO3JFW/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BA%20Ch07+08.rmvb",
+      "Ep09-Ep10": "https://cloud.7so.top/f/nx3wSm/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BA%20Ch09+10.rmvb",
+      "Ep11-Ep12": "https://cloud.7so.top/f/oV5whv/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BA%20Ch11.rmvb"
+    }
+  },
+  "律政狂人2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/High2.jpg",
+    "vod_remarks": "1-10集 (粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/3Q5WC2/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2001.mkv",
+      "Ep02": "https://cloud.7so.top/f/4Q7MFl/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2002.mkv",
+      "Ep03": "https://cloud.7so.top/f/5Q5OH6/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2003.rmvb",
+      "Ep04": "https://cloud.7so.top/f/6X53Sy/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2004.rmvb",
+      "Ep05": "https://cloud.7so.top/f/715EFZ/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2005.mkv",
+      "Ep06": "https://cloud.7so.top/f/815pHY/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2006.mkv",
+      "Ep07": "https://cloud.7so.top/f/915lI2/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2007.mkv",
+      "Ep08": "https://cloud.7so.top/f/0Y64cm/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2008.rmvb",
+      "Ep09": "https://cloud.7so.top/f/gZgBhG/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2009.mkv",
+      "Ep10": "https://cloud.7so.top/f/jZl7iR/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-10%E5%AE%8C.rmvb"
+    }
+  },
+  "最強名醫 第 2 季": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Doctors2.jpg",
+    "vod_remarks": "1-9集 +0集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/814psY/0%20-%20%E6%9C%80%E5%BC%B7%E3%81%AE%E5%90%8D%E5%8C%BBSpecial.mkv",
+      "Ep02": "https://cloud.7so.top/f/914lt2/1%20-%20%E6%A5%B5%E7%A7%98%E3%82%AA%E3%83%9A%E3%81%AF2%E5%84%84%E5%86%86%EF%BC%81%EF%BC%9F.mkv",
+      "Ep03": "https://cloud.7so.top/f/0YQ4Sm/3%20-%20%E6%81%AF%E5%AD%90%E3%81%8C%E9%87%8D%E4%BD%93%E3%81%A7%E7%B7%8A%E6%80%A5%E3%82%AA%E3%83%9A%EF%BC%81.mkv",
+      "Ep04": "https://cloud.7so.top/f/gZzBTG/4%20-%20%E8%A1%9D%E6%92%83%E5%91%8A%E7%99%BD.mkv",
+      "Ep05": "https://cloud.7so.top/f/jZD7UR/5%20-%20%E4%BB%8A%E5%A4%9C%E3%80%81%E3%82%AF%E3%83%BC%E3%83%87%E3%82%BF%E3%83%BC%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8B%EF%BC%81.mkv",
+      "Ep06": "https://cloud.7so.top/f/k8qQh5/6%20-%20%E6%89%8B%E8%A1%93%E6%8B%92%E5%90%A6%E3%81%AE%E6%82%A3%E8%80%85%E3%81%AE%E8%AC%8E.mkv",
+      "Ep07": "https://cloud.7so.top/f/lxrYiX/7%20-%20%E4%BD%99%E5%91%BD%E5%8D%8A%E5%B9%B4%E3%81%AE%E6%82%A3%E8%80%85%E3%82%92%E6%95%91%E3%81%86%E5%BF%85%E6%AE%BA%E6%8A%80.mkv",
+      "Ep08": "https://cloud.7so.top/f/mOvwfW/8%20-%20%E8%BC%B8%E8%A1%80%E4%B8%8D%E5%8F%AF%E8%83%BD%EF%BC%81%EF%BC%9F%E6%96%B0%E3%83%81%E3%83%BC%E3%83%A0%E3%81%8C%E6%8C%91%E3%82%80.mkv",
+      "Ep09": "https://cloud.7so.top/f/nxwrtm/9%20%28%E7%B5%82%29%20-%20%E5%89%8D%E4%BB%A3%E6%9C%AA%E8%81%9E%E3%81%AE%E5%90%88%E5%90%8C%E3%82%AA%E3%83%9A.mkv",
+      "Ep0": "https://cloud.7so.top/f/814psY/0%20-%20%E6%9C%80%E5%BC%B7%E3%81%AE%E5%90%8D%E5%8C%BBSpecial.mkv"
+    }
+  },
+  "陸王": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/66.jpg",
+    "vod_remarks": "1-10集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/ANpDtE/%E9%99%B8%E7%8E%8B.EP01.mp4",
+      "Ep02": "https://cloud.7so.top/f/BNqgu8/%E9%99%B8%E7%8E%8B.EP02.mp4",
+      "Ep03": "https://cloud.7so.top/f/D1v9s3/%E9%99%B8%E7%8E%8B%20EP03.mp4",
+      "Ep04": "https://cloud.7so.top/f/E8w8Tp/%E9%99%B8%E7%8E%8B%20EP04.mp4",
+      "Ep05": "https://cloud.7so.top/f/Gv0RUA/%E9%99%B8%E7%8E%8B%20EP05.mp4",
+      "Ep06": "https://cloud.7so.top/f/JyBNSK/%E9%99%B8%E7%8E%8B%20EP06.mp4",
+      "Ep07": "https://cloud.7so.top/f/K1DQf4/%E9%99%B8%E7%8E%8B%20EP07.mp4",
+      "Ep08": "https://cloud.7so.top/f/L7EPUQ/%E9%99%B8%E7%8E%8B%20EP08.mp4",
+      "Ep09": "https://cloud.7so.top/f/MwGEiz/%E9%99%B8%E7%8E%8B%20EP09.mp4",
+      "Ep10": "https://cloud.7so.top/f/NLJ7sj/%E9%99%B8%E7%8E%8B%20EP10.mp4"
+    }
+  },
+  "高校一姐美咲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/school.jpg",
+    "vod_remarks": "1-10集 (粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/OM4DHv/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9001.mkv",
+      "Ep02": "https://cloud.7so.top/f/ROxyh5/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9002.mkv",
+      "Ep03": "https://cloud.7so.top/f/VABqhg/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9003.mkv",
+      "Ep04": "https://cloud.7so.top/f/QnwrCo/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9004.mkv",
+      "Ep05": "https://cloud.7so.top/f/WLDycD/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9005.mkv",
+      "Ep06": "https://cloud.7so.top/f/XLEOfO/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9006.mkv",
+      "Ep07": "https://cloud.7so.top/f/YWGLsA/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9007.mkv",
+      "Ep08": "https://cloud.7so.top/f/ZYJ1sQ/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9008.mkv",
+      "Ep09": "https://cloud.7so.top/f/1W8yuq/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9009.mkv",
+      "Ep10": "https://cloud.7so.top/f/2x55S8/%E9%AB%98%E6%A0%A1%E4%B8%80%E5%A7%9010.mkv"
+    }
+  },
+  "哈利波特": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Harry.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "哈利波特 1：神秘的魔法石": "https://cloud.7so.top/f/2xQXt8/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B91%E2%80%94%E7%A5%9E%E7%A7%98%E7%9A%84%E9%AD%94%E6%B3%95%E7%9F%B3Uhd.Blu-Ray.Hevc.Dts-Hd.Ma.7.1.m4v.mp4",
+      "哈利波特 2：消失的密室": "https://cloud.7so.top/f/3QPvC2/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B92%E2%80%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%AF%86%E5%AE%A4.Uhd.Blu-Ray.Cee.2160P.Hevc.Dtsx.7.1.m4v.mp4",
+      "哈利波特 3：阿茲卡班的逃犯": "https://cloud.7so.top/f/4QPDFl/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B93%E2%80%94%E9%98%BF%E8%8C%B2%E5%8D%A1%E7%8F%AD%E7%9A%84%E9%80%83%E7%8A%AF.Uhd.Blu-Ray.2160P.Hevc.Dtsx.7.1.m4v.mp4",
+      "哈利波特 4：火盃的考驗": "https://cloud.7so.top/f/5QXrH6/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B94%E2%80%94%E7%81%AB%E7%9B%83%E7%9A%84%E8%80%83%E9%A9%97.Uhd.Blu-Ray.2160P.Hevc.Dtsx.7.1.m4v.mp4",
+      "哈利波特 5：鳳凰會的密令": "https://cloud.7so.top/f/6X4jCy/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B95%E2%80%94%E9%B3%B3%E5%87%B0%E6%9C%83%E7%9A%84%E5%AF%86%E4%BB%A4.Uhd.Blu-Ray.Hevc.Dts-Hd.Ma.7.1.m4v.mp4",
+      "哈利波特 6：混血王子的背叛": "https://cloud.7so.top/f/7122TZ/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B96%E2%80%94%E6%B7%B7%E8%A1%80%E7%8E%8B%E5%AD%90%E7%9A%84%E8%83%8C%E5%8F%9B.Uhd.Blu-Ray.Cee.2160P.Hevc.Dtsx.7.1.m4v.mp4",
+      "哈利波特 7：死神的聖物 Ⅰ": "https://cloud.7so.top/f/810NUY/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E6%AD%BB%E7%A5%9E%E7%9A%84%E8%81%96%E7%89%A9%E2%85%A0.Uhd.Blu-Ray.Hevc.Dts-Hd.Ma.7.1.m4v.mp4",
+      "哈利波特 7：死神的聖物 Ⅱ": "https://cloud.7so.top/f/91PEc2/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%EF%BC%9A%E6%AD%BB%E7%A5%9E%E7%9A%84%E8%81%96%E7%89%A9%E2%85%A1.Uhd.Blu-Ray.Hevc.Dts-Hd.Ma.7.1.m4v.mp4"
+    }
+  },
+  "魔戒三部曲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/ring.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "魔戒首部曲：魔戒現身": "https://cloud.7so.top/f/7102CZ/%E9%AD%94%E6%88%92%E9%A6%96%E9%83%A8%E6%9B%B2%20%E9%AD%94%E6%88%92%E7%8F%BE%E8%BA%AB%20%E6%98%8E%E7%8F%A0%E5%8F%B0.mp4",
+      "魔戒二部曲：雙城奇謀": "https://cloud.7so.top/f/81NNFY/%E9%AD%94%E6%88%92%E4%BA%8C%E9%83%A8%E6%9B%B2%20%E9%9B%99%E5%9F%8E%E5%A5%87%E8%AC%80%20%E6%98%8E%E7%8F%A0%E5%8F%B0.mp4",
+      "魔戒三部曲：王者再臨": "https://cloud.7so.top/f/91NEH2/%E9%AD%94%E6%88%92%E4%B8%89%E9%83%A8%E6%9B%B2%20%E7%8E%8B%E8%80%85%E5%86%8D%E8%87%A8%20%E6%98%8E%E7%8F%A0%E5%8F%B0.mp4"
+    }
+  },
+  "魔盜王系列電影": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/pirates.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "魔盜王: 決戰鬼盜船 (2003)": "https://cloud.7so.top/f/gZEqIG/%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%971%EF%BC%9A%E9%BB%91%E7%8F%8D%E7%8F%A0%E5%8F%B7%E7%9A%84%E8%AF%85%E5%92%92%28%E7%B2%A4%E8%AF%AD%E6%97%A0%E5%AD%97%E5%B9%95%29%282003%29%E7%A5%9E%E9%AC%BC%E5%A5%87%E8%88%AA%EF%BC%9A%E9%AC%BC%E7%9B%97%E8%88%B9%E9%AD%94%E5%92%92%28%E5%8F%B0%29%E9%AD%94%E7%9B%97%E7%8E%8B%EF%BC%9A%E5%86%B3%E6%88%98%E9%AC%BC%E7%9B%97%E8%88%B9.rmvb",
+      "魔盜王: 決戰魔盜王（2006）": "https://cloud.7so.top/f/jZKjSR/%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%972%EF%BC%9A%E5%86%B3%E6%88%98%E9%AD%94%E7%9B%9C%E7%8E%8B%28%E6%B8%AF%29%28%E7%B2%A4%E8%AF%AD%E6%97%A0%E5%AD%97%E5%B9%95%29%282006%29%E7%A5%9E%E9%AC%BC%E5%A5%87%E8%88%AA2%28%E5%8F%B0%29%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%972%EF%BC%9A%E4%BA%A1%E7%81%B5%E5%AE%9D%E8%97%8F%20%20Pirates%202.rmvb",
+      "魔盜王: 魔盜王終極之戰（2007）": "https://cloud.7so.top/f/k8Lnu5/%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%973%EF%BC%9A%E9%AD%94%E7%9B%9C%E7%8E%8B%E7%BB%88%E6%9E%81%E4%B9%8B%E6%88%98%28%E6%B8%AF%29%28%E7%B2%A4%E8%AF%AD%E4%B8%AD%E5%AD%97%29%282007%29%E7%A5%9E%E9%AC%BC%E5%A5%87%E8%88%AA%EF%BC%9A%E4%B8%96%E7%95%8C%E7%9A%84%E5%B0%BD%E5%A4%B4%28%E5%8F%B0%29%20%20%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%973%EF%BC%9A%E6%AD%BB%E4%BA%A1%E8%8D%A3%E8%AA%89%20%20Pirates%203.rmvb",
+      "魔盜王: 魔盜狂潮（2011）": "https://cloud.7so.top/f/lxg4SX/%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%974%EF%BC%9A%E9%AD%94%E7%9B%97%E7%8B%82%E6%BD%AE%28%E6%B8%AF%29%28%E7%B2%A4%E8%AF%AD%E4%B8%AD%E5%AD%97%29%282011%29%E7%A5%9E%E9%AC%BC%E5%A5%87%E8%88%AA%EF%BC%9A%E5%B9%BD%E7%81%B5%E6%B5%B7%28%E5%8F%B0%29%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%974%EF%BC%9A%E9%99%8C%E7%94%9F%E7%9A%84%E6%BD%AE%E6%B1%90%20Pirates%204.mkv",
+      "魔盜王: 惡靈啟航（2017）": "--"
+    }
+  },
+  "破地獄": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/broken.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "破地獄": "https://cloud.7so.top/f/gZ3ohG/%E7%A0%B4%E5%9C%B0%E7%8D%84.mp4"
+    }
+  },
+  "秘境探險": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/bay.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "秘境探險": "https://cloud.7so.top/f/0Y7jim/%E7%A7%98%E5%A2%83%E6%8E%A2%E9%9A%AA.mp4"
+    }
+  },
+  "奪寶奇兵5": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Indiana5.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "奪寶奇兵5": "https://dogpan.com/f/mZnzIW/%E5%A5%AA%E5%AF%B6%E5%A5%87%E5%85%B55.mp4"
+    }
+  },
+  "地心探險記 2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/earth.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "地心探險記 2 世外島": "https://cloud.7so.top/f/OMBVTv/%E5%9C%B0%E5%BF%83%E6%8E%A2%E9%9A%AA%E8%A8%982%E4%B8%96%E5%A4%96%E5%B3%B6%20.mp4"
+    }
+  },
+  "穿著Prada的惡魔2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/prada2.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "穿著Prada的惡魔2": "https://cloud.7so.top/f/nxWnCm/%E7%A9%BF%E8%91%97Prada%E7%9A%84%E6%83%A1%E9%AD%942.mp4"
+    }
+  },
+  "仙樂飄飄處處聞": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sound.jpg",
+    "dogpan": {
+      "仙樂飄飄處處聞": "https://cloud.7so.top/f/0Yxzcm/%E4%BB%99%E6%A8%82%E9%A3%84%E9%A3%84%E8%99%95%E8%99%95%E8%81%9E.mp4"
+    }
+  },
+  "米高積遜": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/michael.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "米高積遜": "https://dogpan.com/f/Z6E7tQ/%E7%B1%B3%E9%AB%98%E7%A9%8D%E9%81%9C.mp4"
+    }
+  },
+  "玩命關頭X": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/x.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "玩命關頭X": "https://cloud.7so.top/f/gZ9RsG/%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%8510%E8%8B%B1%E8%AF%AD%E4%B8%AD%E5%AD%97.mp4"
+    }
+  },
+  "踏血尋梅": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Port_of_Call.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "踏血尋梅": "https://dogpan.com/f/YEDguA/%E8%B8%8F%E8%A1%80%E5%B0%8B%E6%A2%85%E7%B2%B5%E8%AA%9E%E7%89%88.mkv"
+    }
+  },
+  "A.I.創世者": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/AI.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "A.I.創世者": "https://dogpan.com/f/lYmWTX/A.I.%E5%89%B5%E4%B8%96%E8%80%85%20The%20Creator%202023.mkv"
+    }
+  },
+  "祭屋出租": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/house01.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "祭屋出租": "https://dogpan.com/f/n5o0um/%E7%A5%AD%E5%B1%8B%E5%87%BA%E7%A7%9F.2023.HD1080P.AAC.H264.CHS.BT%E4%B8%96%E7%95%8C%E7%BD%91.%5Bwww.btsj6.com%5D.mp4"
+    }
+  },
+  "密弒遊戲2：勝者危亡": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/escape2.jpg",
+    "vod_remarks": "英语 / 中字",
+    "dogpan": {
+      "密弒遊戲2：勝者危亡": "https://cloud.7so.top/f/K1lES4/%E5%AF%86%E5%BC%92%E9%81%8A%E6%88%B22%EF%BC%9A%E5%8B%9D%E8%80%85%E5%8D%B1%E4%BA%A1.mp4"
+    }
+  },
+  "權力遊戲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/king01.jpg",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/GvqBtA/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-1.mp4",
+      "Ep02": "https://cloud.7so.top/f/Jyw4uK/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-2.mp4",
+      "Ep03": "",
+      "Ep04": "https://cloud.7so.top/f/K1xPf4/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-4.mp4",
+      "Ep05": "https://cloud.7so.top/f/L7yLTQ/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-5.mp4",
+      "Ep06": "https://cloud.7so.top/f/Mwz0iz/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-6.mp4",
+      "Ep07": "https://cloud.7so.top/f/NLAZsj/%E6%AC%8A%E5%8A%9B%E9%81%8A%E6%88%B21-7.mp4",
+      "Ep08": "",
+      "Ep09": "",
+      "Ep10": ""
+    }
+  },
+  "我和殭屍有個約會": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date01.jpg",
+    "vod_remarks": "更新到第2集",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/D1n3S3/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP01.mp4",
+      "Ep02": "https://cloud.7so.top/f/E8onTp/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP02.mp4"
+    }
+  },
+  "我和殭屍有個約會 2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date02.jpg",
+    "vod_remarks": "更新到第1集",
+    "dogpan": {
+      "Ep01": "",
+      "Ep02": ""
+    }
+  },
+  "驅魔龍族馬小玲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date03.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "驅魔龍族馬小玲": "https://cloud.7so.top/f/3QNPh2/%E9%A9%85%E9%AD%94%E9%BE%8D%E6%97%8F%E9%A6%AC%E5%B0%8F%E7%8E%B2.mp4"
+    }
+  },
+  "賭博默示錄": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/m6.jpg",
+    "dogpan": {
+      "賭博默示錄": "https://cloud.7so.top/f/L742uQ/%E8%B3%AD%E5%8D%9A%E9%BB%98%E7%A4%BA%E9%8C%841.mp4"
+    }
   }
-]
+}
