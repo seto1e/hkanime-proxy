@@ -119,6 +119,23 @@
       "特別編 2": "https://cloud.7so.top/f/zvZ9u4/%E5%A5%B3%E7%8E%8B%E6%95%99%E5%AE%A4Sp2.rmvb"
     }
   },
+  "貓待": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/catman.jpg",
+    "vod_remarks": "1-11集 (粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/oVxnTv/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP01.mp4",
+      "Ep02": "https://cloud.7so.top/f/5QYOc6/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP02.mp4",
+      "Ep03": "https://cloud.7so.top/f/6XZ3Hy/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP03.mp4",
+      "Ep04": "https://cloud.7so.top/f/714EiZ/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP04.mp4",
+      "Ep05": "https://cloud.7so.top/f/4QXMUl/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP05.mp4",
+      "Ep06": "https://cloud.7so.top/f/p8yntA/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP06.mp4",
+      "Ep07": "https://cloud.7so.top/f/q7z5CX/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP07.mp4",
+      "Ep08": "https://cloud.7so.top/f/r8ANC2/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP08.mp4",
+      "Ep09": "https://cloud.7so.top/f/vlGzhA/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP09.mp4",
+      "Ep10": "https://cloud.7so.top/f/wVJliy/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP10.mp4",
+      "Ep11": "https://cloud.7so.top/f/xnKwIx/%E3%80%90viutv.cc%E3%80%91%E8%B2%93%E4%BE%8D%20EP11.mp4"
+    }
+  },
   "半澤直樹": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/half.jpg",
     "vod_remarks": "1-10集(粵語)",
@@ -161,6 +178,20 @@
       "Ep08": "https://cloud.7so.top/f/0Y64cm/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2008.rmvb",
       "Ep09": "https://cloud.7so.top/f/gZgBhG/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-%2009.mkv",
       "Ep10": "https://cloud.7so.top/f/jZl7iR/%E5%BE%8B%E6%94%BF%E7%8B%82%E4%BA%BAII%20-10%E5%AE%8C.rmvb"
+    }
+  },
+  "最強名醫 第 1 季": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Doctors.jpg",
+    "vod_remarks": "1-8集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/yoLyIL/1%20-%20%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%82%AA%E3%83%9A%E3%81%AF3500%E4%B8%87%E5%86%86.mkv",
+      "Ep02": "https://cloud.7so.top/f/zvMwu4/2%20-%20%E5%A4%9C%E9%96%93%E6%95%91%E6%80%A5%E3%81%AF3%E5%80%8D%E5%84%B2%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88.mkv",
+      "Ep03": "https://cloud.7so.top/f/AN3EUE/3%20-%20%E3%82%AA%E3%83%9A%E5%A4%A7%E6%88%90%E5%8A%9F%E3%81%AA%E3%82%89%E6%9C%89%E5%90%8D%E4%BA%BA.mkv",
+      "Ep04": "https://cloud.7so.top/f/BN3Mc8/4%20-%20%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%81%AE%E6%89%8B%E8%A1%93%E4%BB%A3%E8%AA%B0%E3%81%8C%E6%94%AF%E6%89%95%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B.mkv",
+      "Ep05": "https://cloud.7so.top/f/D13Df3/5%20-%20%E3%83%8A%E3%83%BC%E3%82%B9%E9%81%94%E3%81%AE%E5%8F%8D%E4%B9%B1.mkv",
+      "Ep06": "https://cloud.7so.top/f/E83Mhp/6%20-%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%A4%96%E7%A7%91%E5%8C%BB100%E4%BA%BA%E3%81%AB%E9%81%B8%E3%81%B0%E3%82%8C%E3%81%9F%E3%81%84.mkv",
+      "Ep07": "https://cloud.7so.top/f/Gv3qSA/7%20-%20%E5%A4%96%E7%A7%91%E5%8C%BB%E3%81%8C%E7%99%8C%E3%81%AB%E5%80%92%E3%82%8C%E3%82%8B.mkv",
+      "Ep08": "https://cloud.7so.top/f/Jy3puK/8%20%28%E7%B5%82%29%20-%20500%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E5%91%BD%E3%82%92%E9%81%8B%E3%81%B611%E6%99%82%E9%96%93%E3%81%AE%E8%B6%85%E7%B5%B6%E3%82%AA%E3%83%9A%E3%81%8C%E3%80%81%E4%BB%8A%E5%A7%8B%E3%81%BE%E3%82%8B%EF%BC%81.mkv"
     }
   },
   "最強名醫 第 2 季": {
