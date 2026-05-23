@@ -142,5 +142,19 @@
     "dogpan": {
       "反斗奇兵迷你Show：薯假包換": "https://cloud.7so.top/f/Mw46cz/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%E8%BF%B7%E4%BD%A0Show%EF%BC%9A%E8%96%AF%E5%81%87%E5%8C%85%E6%8F%9B.mkv"
     }
+  },
+  "美食風球 1": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/food01.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "美食風球 1": "https://cloud.7so.top/f/yo0rhL/%E7%BE%8E%E9%A3%9F%E9%A2%A8%E7%90%83%2001.mkv"
+    }
+  },
+  "美食風球 2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/food02.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "美食風球 2": "https://cloud.7so.top/f/ANw6fE/%E7%BE%8E%E9%A3%9F%E9%A2%A8%E7%90%83%2002.mkv"
+    }
   }
 }
