@@ -67,7 +67,7 @@
   "超能路人甲": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/super.jpg",
     "dogpan": {
-      "Ep01": "",
+      "Ep01": "https://cloud.7so.top/f/GvDYiA/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B201.mp4",
       "Ep02": "",
       "Ep03": "",
       "Ep04": "",
@@ -239,5 +239,17 @@
     "dogpan": {
       "賭博默示錄": "https://cloud.7so.top/f/L742uQ/%E8%B3%AD%E5%8D%9A%E9%BB%98%E7%A4%BA%E9%8C%841.mp4"
     }
+  },
+  "賭博默示錄 2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/m7.jpg",
+    "dogpan": {}
+  },
+  "賭博默示錄 3": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/m8.jpg",
+    "dogpan": {}
+  },
+  "全知讀者視角": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/books.jpg",
+    "dogpan": {}
   }
 }
