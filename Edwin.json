@@ -83,5 +83,64 @@
     "dogpan": {
       "元素大都會": "https://dogpan.com/f/L9R6IQ/%E5%85%83%E7%B4%A0%E5%A4%A7%E9%83%BD%E6%9C%83.mkv"
     }
+  },
+  "反斗奇兵": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys1.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "反斗奇兵": "https://cloud.7so.top/f/oVMDTv/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%2001.rmvb"
+    }
+  },
+  "反斗奇兵 2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys2.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "反斗奇兵 2": "https://cloud.7so.top/f/p8NGHA/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%2002.rmvb"
+    }
+  },
+  "反斗奇兵 3": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys3.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "反斗奇兵 3": "https://cloud.7so.top/f/r8PyS2/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%2003.mkv"
+    }
+  },
+  "反斗奇兵 4": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys4.jpg",
+    "dogpan": {}
+  },
+  "反斗奇兵 5": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys5.jpg",
+    "dogpan": {}
+  },
+  "反斗奇兵：迷失時空": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys10.jpg",
+    "dogpan": {
+      "反斗奇兵：迷失時空": "https://cloud.7so.top/f/NL4yIj/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%20Time%20forget.mkv"
+    }
+  },
+  "反斗奇兵 ：驚魂夜": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys6.jpg",
+    "dogpan": {
+      "反斗奇兵 - 驚魂夜": "https://cloud.7so.top/f/q7OPcX/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%E4%B9%8B%E9%A9%9A%E9%AD%82%E5%A4%9C.mkv"
+    }
+  },
+  "反斗奇兵迷你Show：夏威夷假期": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys7.jpg",
+    "dogpan": {
+      "反斗奇兵迷你Show：夏威夷假期": "https://cloud.7so.top/f/vlNqcA/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%E8%BF%B7%E4%BD%A0Show%EF%BC%9A%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%81%87%E6%9C%9F.mkv"
+    }
+  },
+  "反斗奇兵迷你Show：泡泡龍大英雄": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys8.jpg",
+    "dogpan": {
+      "反斗奇兵迷你Show：泡泡龍大英雄": "https://cloud.7so.top/f/wVOpiy/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%E8%BF%B7%E4%BD%A0Show%EF%BC%9A%E6%B3%A1%E6%B3%A1%E9%BE%8D%E5%A4%A7%E8%8B%B1%E9%9B%84.mkv"
+    }
+  },
+  "反斗奇兵迷你Show：薯假包換": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys9.jpg",
+    "dogpan": {
+      "反斗奇兵迷你Show：薯假包換": "https://cloud.7so.top/f/Mw46cz/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%E8%BF%B7%E4%BD%A0Show%EF%BC%9A%E8%96%AF%E5%81%87%E5%8C%85%E6%8F%9B.mkv"
+    }
   }
 }
