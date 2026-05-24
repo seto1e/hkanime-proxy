@@ -251,5 +251,23 @@
   "全知讀者視角": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/books.jpg",
     "dogpan": {}
+  },
+  "真人快打II": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/real.jpg",
+    "dogpan": {
+      "真人快打II": ""
+    }
+  },
+  "星球大戰: 曼達洛人與古古": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/gogo2.jpg",
+    "dogpan": {
+      "曼達洛人與古古": ""
+    }
+  },
+  "湯姆·克蘭西之傑克·萊恩：幽影暗戰": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/jack.jpg",
+    "dogpan": {
+      "湯姆·克蘭西之傑克·萊恩：幽影暗戰": ""
+    }
   }
 }
