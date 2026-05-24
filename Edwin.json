@@ -107,7 +107,9 @@
   },
   "反斗奇兵 4": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys4.jpg",
-    "dogpan": {}
+    "dogpan": {
+      "反斗奇兵 4": "https://cloud.7so.top/f/2x3lC8/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5%204.mkv"
+    }
   },
   "反斗奇兵 5": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys5.jpg",
