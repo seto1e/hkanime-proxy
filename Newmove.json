@@ -1,4 +1,11 @@
 {
+  "後室": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/backdoor.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "後室": "https://cloud.7so.top/f/K1lES4/%E5%AF%86%E5%BC%92%E9%81%8A%E6%88%B22%EF%BC%9A%E5%8B%9D%E8%80%85%E5%8D%B1%E4%BA%A1.mp4"
+    }
+  },
   "屍速禁區": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/CC.jpg",
     "vod_remarks": "中字",
@@ -32,19 +39,6 @@
     "vod_remarks": "英语 / 中字",
     "dogpan": {
       "穿著Prada的惡魔2": "https://cloud.7so.top/f/nxWnCm/%E7%A9%BF%E8%91%97Prada%E7%9A%84%E6%83%A1%E9%AD%942.mp4"
-    }
-  },
-  "超能路人甲": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/super.jpg",
-    "dogpan": {
-      "Ep01": "https://cloud.7so.top/f/GvDYiA/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B201.mp4",
-      "Ep02": "https://cloud.7so.top/f/JyJEuK/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B202.mp4",
-      "Ep03": "https://cloud.7so.top/f/L7LnfQ/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B203.mp4",
-      "Ep04": "https://cloud.7so.top/f/K105H4/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B204.mp4",
-      "Ep05": "https://cloud.7so.top/f/MwMNsz/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B205.mp4",
-      "Ep06": "https://cloud.7so.top/f/NLNWsj/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B206.mp4",
-      "Ep07": "https://cloud.7so.top/f/OMO9uv/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B207.mp4",
-      "Ep08": "https://cloud.7so.top/f/P7PKt3/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B208.mp4"
     }
   },
   "米高積遜": {
