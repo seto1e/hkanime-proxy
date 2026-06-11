@@ -30,21 +30,21 @@
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/teach.jpg",
     "vod_remarks": "中字",
     "dogpan": {
-      "Ep01": "",
+      "Ep01": "https://cloud.7so.top/f/vQgEiA/tech01.mp4",
       "Ep02": "",
       "Ep03": "",
-      "Ep04": "",
-      "Ep05": "",
+      "Ep04": "https://cloud.7so.top/f/w0jQUy/tech04.mp4",
+      "Ep05": "https://cloud.7so.top/f/x6Gpsx/tech05.mp4",
       "Ep06": "",
       "Ep07": "",
-      "Ep08": "",
-      "Ep09": "",
-      "Ep10": ""
+      "Ep08": "https://cloud.7so.top/f/yw8ZCL/tech08.mp4",
+      "Ep09": "https://cloud.7so.top/f/z6mRu4/tech09.mp4",
+      "Ep10": "https://cloud.7so.top/f/A6nyCE/tech10.mp4"
     }
   },
   "茶煲阿四": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/tea.jpg",
-    "vod_remarks": "更新到第21 集(粵語)",
+    "vod_remarks": "第1-21 集(粵語)",
     "dogpan": {
       "Ep01": "https://cloud.7so.top/f/jZrVUR/01.mkv",
       "Ep02": "https://cloud.7so.top/f/k8vlT5/02.mkv",
@@ -67,6 +67,15 @@
       "Ep19": "https://cloud.7so.top/f/xngZux/19.mkv",
       "Ep20": "https://cloud.7so.top/f/yojQCL/20.mkv",
       "Ep21": "https://cloud.7so.top/f/zv3PI4/21.mkv"
+    }
+  },
+  "COURT": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/court.jpg",
+    "vod_remarks": "第1-12 集(粵語)",
+    "dogpan": {
+      "Ep01-Ep05": "https://cloud.7so.top/f/DqRpH3/%E3%80%8ACourt%21%E3%80%8B01~05.m4v",
+      "Ep06-Ep10": "https://cloud.7so.top/f/Eq9OIp/%E3%80%8ACourt%21%E3%80%8B06~10.m4v",
+      "Ep11-Ep12": "https://cloud.7so.top/f/GR56UA/Court%21%2011~12%E5%AE%8C.m4v"
     }
   },
   "來生不做香港人": {
