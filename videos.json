@@ -1,5 +1,5 @@
 {
-  "尖帽子的魔法工房": {
+  "魔法帽的工房": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sharp.jpg",
     "vod_remarks": "更新到第10集(日語-中字)",
     "dogpan": {
@@ -20,7 +20,7 @@
   },
   "一拳超人": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/onepunch.jpg",
-    "vod_remarks": "更新到第10集(粵語)",
+    "vod_remarks": "第1-36集(粵語)",
     "dogpan": {
       "Ep01 最強的男人": "https://cloud.7so.top/f/pZgPUA/%5Bjibaketa%5DOne-Punch%20Man%20-%2001%20%28BD%201920x1080%20x264%20AACx2%20PGS+SRT%20ViuTV%20CHT%29.mkv",
       "Ep02 孤傲的生化人": "https://cloud.7so.top/f/qQjmcX/%5Bjibaketa%5DOne-Punch%20Man%20-%2002%20%28BD%201920x1080%20x264%20AACx2%20PGS+SRT%20ViuTV%20CHT%29.mkv",
@@ -60,9 +60,27 @@
       "S3 Ep12 究極的生命體": "https://cloud.7so.top/f/6WRjhy/%5Bjibaketa%5DOne%20Punch%20Man%20S3%20-%2012%20END%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20MUSE%20CHT%29%20%281%29.mkv"
     }
   },
+  "鏈鋸人": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/leen.jpg",
+    "vod_remarks": "1-12集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/36Qvs2/%5Bjibaketa%5DChainsaw%20Man%20-%2001%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep02": "https://cloud.7so.top/f/46QDtl/%5Bjibaketa%5DChainsaw%20Man%20-%2002%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep03": "https://cloud.7so.top/f/k28nu5/%5Bjibaketa%5DChainsaw%20Man%20-%2003%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep04": "https://cloud.7so.top/f/lRx4iX/%5Bjibaketa%5DChainsaw%20Man%20-%2004%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep05": "https://cloud.7so.top/f/57Qri6/%5Bjibaketa%5DChainsaw%20Man%20-%2005%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep06": "https://cloud.7so.top/f/6WXjsy/%5Bjibaketa%5DChainsaw%20Man%20-%2006%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep07": "https://cloud.7so.top/f/7912iZ/%5Bjibaketa%5DChainsaw%20Man%20-%2007%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep08": "https://cloud.7so.top/f/831NFY/%5Bjibaketa%5DChainsaw%20Man%20-%2008%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep09": "https://cloud.7so.top/f/991Et2/%5Bjibaketa%5DChainsaw%20Man%20-%2009%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep10": "https://cloud.7so.top/f/08YjSm/%5Bjibaketa%5DChainsaw%20Man%20-%2010%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep11": "https://cloud.7so.top/f/gpZqTG/%5Bjibaketa%5DChainsaw%20Man%20-%2011%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv",
+      "Ep12": "https://cloud.7so.top/f/jYZjsR/%5Bjibaketa%5DChainsaw%20Man%20-%2012%20END%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20Ani-One%20CHT%29.mkv"
+    }
+  },
   "SPY×FAMILY": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/spy.jpg",
-    "vod_remarks": "更新到第50集(粵語)",
+    "vod_remarks": "第1-50集(粵語)",
     "dogpan": {
       "Ep01 行動代號〈梟〉": "https://cloud.7so.top/f/qQxmTX/Spy%20x%20Family%20-%2001.mkv",
       "Ep02 找好扮演妻子的人吧": "https://cloud.7so.top/f/r2kot2/Spy%20x%20Family%20-%2002.mkv",
@@ -125,7 +143,7 @@
   },
   "香格里拉·開拓異境～糞作獵手挑戰神作": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/hong.jpg",
-    "vod_remarks": "粵語",
+    "vod_remarks": "1-25集(粵語)",
     "dogpan": {
       "Ep01 你是為了什麼而玩遊戲？": "https://cloud.7so.top/f/r86AH2/%5Bjibaketa%5DShangri-La%20Frontier%20-%2001%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20MUSE%20CHT%29.mkv",
       "Ep02 特異之人": "https://cloud.7so.top/f/vlkEFA/%5Bjibaketa%5DShangri-La%20Frontier%20-%2002%20%28WEB%201920x1080%20AVC%20AACx2%20SRT%20MUSE%20CHT%29.mkv",
@@ -156,7 +174,7 @@
   },
   "我獨自升級": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/only02.jpg",
-    "vod_remarks": "粵語",
+    "vod_remarks": "1-12集(粵語)",
     "dogpan": {
       "Ep01 我已经习惯了": "https://cloud.7so.top/f/oVl5hv/%5BFHD%E6%97%A5%E6%9C%AC%E5%8B%95%E7%95%AB%5D%20%E6%88%91%E7%8D%A8%E8%87%AA%E5%8D%87%E7%B4%9A%20%28%E7%B2%B5%E8%AA%9E%E7%89%88%29%20S01E01%20%E6%88%91%E5%B7%B2%E7%B6%93%E7%BF%92%E6%85%A3%E4%BA%86.mkv",
       "Ep02 如果再给我一次机会": "https://cloud.7so.top/f/p8m0SA/%5BFHD%E6%97%A5%E6%9C%AC%E5%8B%95%E7%95%AB%5D%20%E6%88%91%E7%8D%A8%E8%87%AA%E5%8D%87%E7%B4%9A%20%28%E7%B2%B5%E8%AA%9E%E7%89%88%29%20S01E02%20%E5%A6%82%E6%9E%9C%E8%83%BD%E5%86%8D%E7%B5%A6%E4%B8%80%E6%AC%A1%E6%A9%9F%E6%9C%83.mkv",
@@ -174,7 +192,7 @@
   },
   "怪獸8號": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/No8.jpg",
-    "vod_remarks": "更新到第12集(粵語)",
+    "vod_remarks": "第1-12集(粵語)",
     "dogpan": {
       "EP01 變成怪獸的男人": "https://dogpan.com/f/BB2Vh8/%E6%80%AA%E7%8D%B88%E8%99%9F%2001.mkv",
       "EP02 打倒怪獸的怪獸": "https://dogpan.com/f/Dk2Gi3/%E6%80%AA%E7%8D%B88%E8%99%9F%2002.mkv",
