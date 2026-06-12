@@ -279,6 +279,9 @@
   },
   "全知讀者視角": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/books.jpg",
-    "dogpan": {}
+    "vod_remarks": "中字",
+    "dogpan": {
+      "全知讀者視角": "https://cloud.7so.top/f/x662Ix/%E5%85%A8%E7%9F%A5%E8%A6%96%E8%A7%92.mp4"
+    }
   }
 }
