@@ -1,6 +1,7 @@
 {
   "超能路人甲": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/super.jpg",
+    "vod_remarks": "1-8集(中字)",
     "dogpan": {
       "Ep01": "https://cloud.7so.top/f/GvDYiA/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B201.mp4",
       "Ep02": "https://cloud.7so.top/f/JyJEuK/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B202.mp4",
@@ -12,25 +13,9 @@
       "Ep08": "https://cloud.7so.top/f/P7PKt3/%E8%B6%85%E8%83%BD%E8%B7%AF%E4%BA%BA%E7%94%B208.mp4"
     }
   },
-  "菜鳥伙房兵": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/bing.jpeg",
-    "vod_remarks": "中字",
-    "dogpan": {
-      "Ep01": "https://cloud.7so.top/f/qQQjuX/%E4%BC%99%E6%88%BF%E5%85%B501.mp4",
-      "Ep02": "https://cloud.7so.top/f/ywwXhL/%E4%BC%99%E6%88%BF%E5%85%B502.mp4",
-      "Ep03": "https://cloud.7so.top/f/z66nT4/%E4%BC%99%E6%88%BF%E5%85%B503.mp4",
-      "Ep04": "https://cloud.7so.top/f/A66QUE/%E4%BC%99%E6%88%BF%E5%85%B504.mp4",
-      "Ep05": "https://cloud.7so.top/f/Brr1F8/%E4%BC%99%E6%88%BF%E5%85%B505.mp4",
-      "Ep06": "https://cloud.7so.top/f/DqqJI3/%E4%BC%99%E6%88%BF%E5%85%B506.mp4",
-      "Ep07": "https://cloud.7so.top/f/EqqGSp/%E4%BC%99%E6%88%BF%E5%85%B507.mp4",
-      "Ep08": "",
-      "Ep09": "",
-      "Ep10": ""
-    }
-  },
   "鐵拳教育": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/teach.jpg",
-    "vod_remarks": "中字",
+    "vod_remarks": "1-10集(中字)",
     "dogpan": {
       "Ep01": "https://cloud.7so.top/f/vQgEiA/tech01.mp4",
       "Ep02": "https://cloud.7so.top/f/LZ87uQ/tech02.mp4",
@@ -42,6 +27,22 @@
       "Ep08": "https://cloud.7so.top/f/yw8ZCL/tech08.mp4",
       "Ep09": "https://cloud.7so.top/f/z6mRu4/tech09.mp4",
       "Ep10": "https://cloud.7so.top/f/A6nyCE/tech10.mp4"
+    }
+  },
+  "菜鳥伙房兵": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/bing.jpeg",
+    "vod_remarks": "1-10集(中字)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/qQQjuX/%E4%BC%99%E6%88%BF%E5%85%B501.mp4",
+      "Ep02": "https://cloud.7so.top/f/ywwXhL/%E4%BC%99%E6%88%BF%E5%85%B502.mp4",
+      "Ep03": "https://cloud.7so.top/f/z66nT4/%E4%BC%99%E6%88%BF%E5%85%B503.mp4",
+      "Ep04": "https://cloud.7so.top/f/A66QUE/%E4%BC%99%E6%88%BF%E5%85%B504.mp4",
+      "Ep05": "https://cloud.7so.top/f/Brr1F8/%E4%BC%99%E6%88%BF%E5%85%B505.mp4",
+      "Ep06": "https://cloud.7so.top/f/DqqJI3/%E4%BC%99%E6%88%BF%E5%85%B506.mp4",
+      "Ep07": "https://cloud.7so.top/f/EqqGSp/%E4%BC%99%E6%88%BF%E5%85%B507.mp4",
+      "Ep08": "https://cloud.7so.top/f/GRRziA/%E4%BC%99%E6%88%BF%E5%85%B508.mp4",
+      "Ep09": "https://cloud.7so.top/f/J88WhK/%E4%BC%99%E6%88%BF%E5%85%B509.mp4",
+      "Ep10": "https://cloud.7so.top/f/K88Ei4/%E4%BC%99%E6%88%BF%E5%85%B510.mp4"
     }
   },
   "茶煲阿四": {
@@ -113,7 +114,7 @@
   },
   "哈利波特": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Harry.jpg",
-    "vod_remarks": "粵語",
+    "vod_remarks": "1-8集(粵語)",
     "dogpan": {
       "哈利波特 1：神秘的魔法石": "https://cloud.7so.top/f/2xQXt8/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B91%E2%80%94%E7%A5%9E%E7%A7%98%E7%9A%84%E9%AD%94%E6%B3%95%E7%9F%B3Uhd.Blu-Ray.Hevc.Dts-Hd.Ma.7.1.m4v.mp4",
       "哈利波特 2：消失的密室": "https://cloud.7so.top/f/3QPvC2/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B92%E2%80%94%E6%B6%88%E5%A4%B1%E7%9A%84%E5%AF%86%E5%AE%A4.Uhd.Blu-Ray.Cee.2160P.Hevc.Dtsx.7.1.m4v.mp4",
@@ -127,7 +128,7 @@
   },
   "魔戒三部曲": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/ring.jpg",
-    "vod_remarks": "粵語",
+    "vod_remarks": "1-3 集粵語",
     "dogpan": {
       "魔戒首部曲：魔戒現身": "https://cloud.7so.top/f/7102CZ/%E9%AD%94%E6%88%92%E9%A6%96%E9%83%A8%E6%9B%B2%20%E9%AD%94%E6%88%92%E7%8F%BE%E8%BA%AB%20%E6%98%8E%E7%8F%A0%E5%8F%B0.mp4",
       "魔戒二部曲：雙城奇謀": "https://cloud.7so.top/f/81NNFY/%E9%AD%94%E6%88%92%E4%BA%8C%E9%83%A8%E6%9B%B2%20%E9%9B%99%E5%9F%8E%E5%A5%87%E8%AC%80%20%E6%98%8E%E7%8F%A0%E5%8F%B0.mp4",
@@ -175,6 +176,7 @@
   },
   "仙樂飄飄處處聞": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sound.jpg",
+    "vod_remarks": "中字",
     "dogpan": {
       "仙樂飄飄處處聞": "https://cloud.7so.top/f/0Yxzcm/%E4%BB%99%E6%A8%82%E9%A3%84%E9%A3%84%E8%99%95%E8%99%95%E8%81%9E.mp4"
     }
@@ -236,31 +238,6 @@
       "Ep10": ""
     }
   },
-  "我和殭屍有個約會": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date01.jpg",
-    "vod_remarks": "更新到第2集",
-    "dogpan": {
-      "Ep01": "https://cloud.7so.top/f/D1n3S3/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP01.mp4",
-      "Ep02": "https://cloud.7so.top/f/E8onTp/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP02.mp4",
-      "Ep03": "https://cloud.7so.top/f/WL3ZID/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP03.mp4",
-      "Ep04": "https://cloud.7so.top/f/XL83SO/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP04.mp4"
-    }
-  },
-  "我和殭屍有個約會 2": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date02.jpg",
-    "vod_remarks": "更新到第1集",
-    "dogpan": {
-      "Ep01": "",
-      "Ep02": ""
-    }
-  },
-  "驅魔龍族馬小玲": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date03.jpg",
-    "vod_remarks": "粵語",
-    "dogpan": {
-      "驅魔龍族馬小玲": "https://cloud.7so.top/f/3QNPh2/%E9%A9%85%E9%AD%94%E9%BE%8D%E6%97%8F%E9%A6%AC%E5%B0%8F%E7%8E%B2.mp4"
-    }
-  },
   "賭博默示錄": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/m6.jpg",
     "dogpan": {
@@ -284,6 +261,31 @@
     "vod_remarks": "中字",
     "dogpan": {
       "全知讀者視角": "https://cloud.7so.top/f/x662Ix/%E5%85%A8%E7%9F%A5%E8%A6%96%E8%A7%92.mp4"
+    }
+  },
+  "我和殭屍有個約會": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date01.jpg",
+    "vod_remarks": "更新到第2集",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/D1n3S3/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP01.mp4",
+      "Ep02": "https://cloud.7so.top/f/E8onTp/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP02.mp4",
+      "Ep03": "https://cloud.7so.top/f/WL3ZID/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP03.mp4",
+      "Ep04": "https://cloud.7so.top/f/XL83SO/%E3%80%90%E6%88%91%E5%92%8C%E6%AE%AD%E5%B1%8D%E6%9C%89%E5%80%8B%E7%B4%84%E6%9C%831%E3%80%91EP04.mp4"
+    }
+  },
+  "我和殭屍有個約會 2": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date02.jpg",
+    "vod_remarks": "更新到第1集",
+    "dogpan": {
+      "Ep01": "",
+      "Ep02": ""
+    }
+  },
+  "驅魔龍族馬小玲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Date03.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "驅魔龍族馬小玲": "https://cloud.7so.top/f/3QNPh2/%E9%A9%85%E9%AD%94%E9%BE%8D%E6%97%8F%E9%A6%AC%E5%B0%8F%E7%8E%B2.mp4"
     }
   }
 }
