@@ -1,4 +1,16 @@
 {
+  "格鬥實況": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/flight.jpg",
+    "vod_remarks": "1-6集 / 中字",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/oZyRsv/%E6%A0%BC%E9%AC%A5%E5%AF%A6%E6%B3%8101.mp4",
+      "Ep02": "https://cloud.7so.top/f/pZ2YtA/02.mp4",
+      "Ep03": "https://cloud.7so.top/f/qQZjUX/03.mp4",
+      "Ep04": "https://cloud.7so.top/f/r29RU2/04.mp4",
+      "Ep05": "https://cloud.7so.top/f/vQZlfA/05.mp4",
+      "Ep06": "https://cloud.7so.top/f/w0r0Hy/06.mp4"
+    }
+  },
   "重生～最後的英雄": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Re.jpg",
     "vod_remarks": "1-8集 / 中字",
@@ -16,18 +28,17 @@
   },
   "一點點超能力": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/superone.jpg",
-    "vod_remarks": "中字",
+    "vod_remarks": "1-9集 / 中字",
     "dogpan": {
-      "Ep01": "",
-      "Ep02": "",
-      "Ep03": "",
-      "Ep04": "",
-      "Ep05": "",
-      "Ep06": "",
-      "Ep07": "",
-      "Ep08": "",
-      "Ep09": "",
-      "Ep10": ""
+      "Ep01": "https://cloud.7so.top/f/x612sx/%E4%B8%80%E9%BB%9E01.mp4",
+      "Ep02": "https://cloud.7so.top/f/ywXXuL/02.mp4",
+      "Ep03": "https://cloud.7so.top/f/z6Xnu4/03.mp4",
+      "Ep04": "https://cloud.7so.top/f/A61QCE/04.mp4",
+      "Ep05": "https://cloud.7so.top/f/Br61I8/05.mp4",
+      "Ep06": "https://cloud.7so.top/f/Dq8JU3/06.mp4",
+      "Ep07": "https://cloud.7so.top/f/oZy7Iv/07.mp4",
+      "Ep08": "https://cloud.7so.top/f/pZ2BSA/08.mp4",
+      "Ep09": "https://cloud.7so.top/f/qQZLSX/09.mp4"
     }
   },
   "求婚大作戰": {
@@ -121,7 +132,7 @@
   },
   "民王 R (2024)": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/manR.jpg",
-    "vod_remarks": "更新到 8 集(粵語)",
+    "vod_remarks": "1- 8 集(粵語)",
     "dogpan": {
       "Ep01 總理與秘書": "https://cloud.7so.top/f/ZYM0TQ/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP01.mp4",
       "Ep02 總理與年輕人": "https://cloud.7so.top/f/1WZ9Iq/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP02.mp4",
@@ -131,6 +142,24 @@
       "Ep06 總理與搞笑藝人": "https://cloud.7so.top/f/5QZ3s6/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP06.mp4",
       "Ep07 總理與孕婦": "https://cloud.7so.top/f/6X1GUy/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP07.mp4",
       "Ep08 總理與 AI": "https://cloud.7so.top/f/71ZVUZ/TVBOXNOW%20ViuTV%20%E6%B0%91%E7%8E%8BR%20EP08.mp4"
+    }
+  },
+  "窮小姐x富哥哥": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/rich.jpg",
+    "vod_remarks": "1-12集(粵語)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/E8j8cp/RICH%20MAN%20POOR%20WOMAN_01.mkv",
+      "Ep02": "https://cloud.7so.top/f/GvlRfA/RICH%20MAN%20POOR%20WOMAN_02.mkv",
+      "Ep03": "https://cloud.7so.top/f/JyoNUK/RICH%20MAN%20POOR%20WOMAN_03.mkv",
+      "Ep04": "https://cloud.7so.top/f/K1pQi4/RICH%20MAN%20POOR%20WOMAN_04.mkv",
+      "Ep05": "https://cloud.7so.top/f/L7qPhQ/RICH%20MAN%20POOR%20WOMAN_05.mkv",
+      "Ep06": "https://cloud.7so.top/f/MwrEtz/RICH%20MAN%20POOR%20WOMAN_06.mkv",
+      "Ep07": "https://cloud.7so.top/f/NLv7cj/RICH%20MAN%20POOR%20WOMAN_07.mkv",
+      "Ep08": "https://cloud.7so.top/f/OMw5cv/RICH%20MAN%20POOR%20WOMAN_08.mkv",
+      "Ep09": "https://cloud.7so.top/f/P7xru3/RICH%20MAN%20POOR%20WOMAN_09.mkv",
+      "Ep10": "https://cloud.7so.top/f/QnyjCo/RICH%20MAN%20POOR%20WOMAN_10.mkv",
+      "Ep11": "https://cloud.7so.top/f/ROzjh5/RICH%20MAN%20POOR%20WOMAN_11.mkv",
+      "Ep12": "https://cloud.7so.top/f/VAEZhg/RICH%20MAN%20POOR%20WOMAN_12%EF%BC%9A%E7%B7%A3%E8%81%9A%E7%B4%90%E7%B4%84.mkv"
     }
   },
   "僱傭妻子": {
@@ -148,24 +177,6 @@
       "Ep09": "https://cloud.7so.top/f/ZY1DCQ/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP09.rmvb",
       "Ep10": "https://cloud.7so.top/f/1WLnIq/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP10.rmvb",
       "Ep11": "https://cloud.7so.top/f/2xMEH8/%E5%83%B1%E5%82%AD%E5%A6%BB%E5%AD%90%20EP11.rmvb"
-    }
-  },
-  "窮小姐x富哥哥": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/rich.jpg",
-    "vod_remarks": "1-11集(粵語)",
-    "dogpan": {
-      "Ep01": "https://cloud.7so.top/f/E8j8cp/RICH%20MAN%20POOR%20WOMAN_01.mkv",
-      "Ep02": "https://cloud.7so.top/f/GvlRfA/RICH%20MAN%20POOR%20WOMAN_02.mkv",
-      "Ep03": "https://cloud.7so.top/f/JyoNUK/RICH%20MAN%20POOR%20WOMAN_03.mkv",
-      "Ep04": "https://cloud.7so.top/f/K1pQi4/RICH%20MAN%20POOR%20WOMAN_04.mkv",
-      "Ep05": "https://cloud.7so.top/f/L7qPhQ/RICH%20MAN%20POOR%20WOMAN_05.mkv",
-      "Ep06": "https://cloud.7so.top/f/MwrEtz/RICH%20MAN%20POOR%20WOMAN_06.mkv",
-      "Ep07": "https://cloud.7so.top/f/NLv7cj/RICH%20MAN%20POOR%20WOMAN_07.mkv",
-      "Ep08": "https://cloud.7so.top/f/OMw5cv/RICH%20MAN%20POOR%20WOMAN_08.mkv",
-      "Ep09": "https://cloud.7so.top/f/P7xru3/RICH%20MAN%20POOR%20WOMAN_09.mkv",
-      "Ep10": "https://cloud.7so.top/f/QnyjCo/RICH%20MAN%20POOR%20WOMAN_10.mkv",
-      "Ep11": "https://cloud.7so.top/f/ROzjh5/RICH%20MAN%20POOR%20WOMAN_11.mkv",
-      "Ep12": "https://cloud.7so.top/f/VAEZhg/RICH%20MAN%20POOR%20WOMAN_12%EF%BC%9A%E7%B7%A3%E8%81%9A%E7%B4%90%E7%B4%84.mkv"
     }
   },
   "信長協奏曲": {
