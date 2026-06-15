@@ -1,4 +1,20 @@
 {
+  "殺手青春": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Kill blue.jpg",
+    "vod_remarks": "更新到09集(日語/中字)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/NOYjFj/KILL%20BLUE%2001.mkv",
+      "Ep02": "https://cloud.7so.top/f/OgPotv/KILL%20BLUE%2002.mp4",
+      "Ep03": "https://cloud.7so.top/f/GRMzCA/KILL%20BLUE%2003.mp4",
+      "Ep04": "https://cloud.7so.top/f/J8NWsK/KILL%20BLUE%2004.mp4",
+      "Ep05": "https://cloud.7so.top/f/K8LEt4/KILL%20BLUE%2005.mp4",
+      "Ep06": "https://cloud.7so.top/f/LZv1sQ/KILL%20BLUE%2006.mp4",
+      "Ep07": "https://cloud.7so.top/f/MZJXtz/KILL%20BLUE%2007.mp4",
+      "Ep08": "https://cloud.7so.top/f/Pjz9c3/KILL%20BLUE%2008.mp4",
+      "Ep09": "https://cloud.7so.top/f/Qk6Rco/KILL%20BLUE%2009.mp4",
+      "Ep10": ""
+    }
+  },
   "魔法帽的工房": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sharp.jpg",
     "vod_remarks": "更新到11集(日語/中字)",
@@ -16,6 +32,20 @@
       "Ep11 蛇背洞窟的试炼": "https://cloud.7so.top/f/w000iy/%5BFeibanyama%5D%20Witch%20Hat%20Atelier%20S01E11%20%5BCR%20WebRip%201080p%20HEVC%20AAC%20Multi-Audio%20Multi-Subs%5D.mkv",
       "Ep12": "",
       "Ep13": ""
+    }
+  },
+  "詐欺遊戲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/game.jpg",
+    "vod_remarks": "更新到第5集",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/QnzWio/01.mp4",
+      "Ep02": "https://cloud.7so.top/f/ROAgs5/02.mp4",
+      "Ep03": "https://cloud.7so.top/f/VAGPsg/03.mp4",
+      "Ep04": "https://cloud.7so.top/f/WLJLID/04.mp4",
+      "Ep05": "https://cloud.7so.top/f/XLKQSO/05.mp4",
+      "Ep06": "",
+      "Ep07": "",
+      "Ep08": ""
     }
   },
   "一拳超人": {
@@ -344,17 +374,6 @@
     "vod_remarks": "日語／中字",
     "dogpan": {
       "JOJO的奇妙冒險 - 飆馬野郎": "https://cloud.7so.top/f/YWLyFA/JoJo.mp4"
-    }
-  },
-  "詐欺遊戲": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/game.jpg",
-    "vod_remarks": "更新到第5集",
-    "dogpan": {
-      "Ep01": "https://cloud.7so.top/f/QnzWio/01.mp4",
-      "Ep02": "https://cloud.7so.top/f/ROAgs5/02.mp4",
-      "Ep03": "https://cloud.7so.top/f/VAGPsg/03.mp4",
-      "Ep04": "https://cloud.7so.top/f/WLJLID/04.mp4",
-      "Ep05": "https://cloud.7so.top/f/XLKQSO/05.mp4"
     }
   },
   "天氣之子": {
