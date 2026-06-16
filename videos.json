@@ -1,4 +1,22 @@
 {
+  "雞鬥士": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/chen.jpg",
+    "vod_remarks": "1-12集(日語/中字)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/LZPkcQ/index.mp4",
+      "Ep02": "https://cloud.7so.top/f/MZ9zfz/index.mp4",
+      "Ep03": "https://cloud.7so.top/f/NO8wfj/index.mp4",
+      "Ep04": "https://cloud.7so.top/f/OgZKhv/index.mp4",
+      "Ep05": "https://cloud.7so.top/f/PjYxh3/index.mp4",
+      "Ep06": "https://cloud.7so.top/f/QkOwCo/index.mp4",
+      "Ep07": "https://cloud.7so.top/f/RlL9F5/index.mp4",
+      "Ep08": "https://cloud.7so.top/f/VvN3Hg/index.mp4",
+      "Ep09": "https://cloud.7so.top/f/WP8MTD/index.mp4",
+      "Ep10": "https://cloud.7so.top/f/XQMZSO/index.mp4",
+      "Ep11": "https://cloud.7so.top/f/Y7MztA/index.mp4",
+      "Ep12": "https://cloud.7so.top/f/Z8WktQ/index.mp4"
+    }
+  },
   "殺手青春": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Kill blue.jpg",
     "vod_remarks": "更新到10集(日語/中字)",
@@ -32,6 +50,17 @@
       "Ep11 蛇背洞窟的试炼": "https://cloud.7so.top/f/w000iy/%5BFeibanyama%5D%20Witch%20Hat%20Atelier%20S01E11%20%5BCR%20WebRip%201080p%20HEVC%20AAC%20Multi-Audio%20Multi-Subs%5D.mkv",
       "Ep12 羅摩儂的影子": "https://cloud.7so.top/f/GR9NSA/Witch.Hat.Atelier.S01E12.1080p.NF.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv",
       "Ep13 被禁止的魔法": ""
+    }
+  },
+  "最弱技能《果實大師》": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/appleman.jpg",
+    "vod_remarks": "更新到第5集",
+    "dogpan": {
+      "Ep01": "",
+      "Ep02": "",
+      "Ep03": "",
+      "Ep04": "",
+      "Ep05": ""
     }
   },
   "詐欺遊戲": {
