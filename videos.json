@@ -1,7 +1,7 @@
 {
   "殺手青春": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/Kill blue.jpg",
-    "vod_remarks": "更新到09集(日語/中字)",
+    "vod_remarks": "更新到10集(日語/中字)",
     "dogpan": {
       "Ep01": "https://cloud.7so.top/f/NOYjFj/KILL%20BLUE%2001.mkv",
       "Ep02": "https://cloud.7so.top/f/OgPotv/KILL%20BLUE%2002.mp4",
@@ -12,7 +12,7 @@
       "Ep07": "https://cloud.7so.top/f/MZJXtz/KILL%20BLUE%2007.mp4",
       "Ep08": "https://cloud.7so.top/f/Pjz9c3/KILL%20BLUE%2008.mp4",
       "Ep09": "https://cloud.7so.top/f/Qk6Rco/KILL%20BLUE%2009.mp4",
-      "Ep10": ""
+      "Ep10": "https://cloud.7so.top/f/z6XEs4/KILL%20BLUE%2010.mp4"
     }
   },
   "魔法帽的工房": {
@@ -46,7 +46,25 @@
       "Ep06": "https://cloud.7so.top/f/WPQ9uD/%5BNekomoe%20kissaten%5D%5BLIAR%20GAME%5D%5B06%5D%5B1080p%5D%5BJPTC%5D.mp4",
       "Ep07": "https://cloud.7so.top/f/XQrBuO/%5BNekomoe%20kissaten%5D%5BLIAR%20GAME%5D%5B07%5D%5B1080p%5D%5BJPTC%5D.mp4",
       "Ep08": "https://cloud.7so.top/f/RlPDh5/%5BNekomoe%20kissaten%5D%5BLIAR%20GAME%5D%5B08%5D%5B1080p%5D%5BJPTC%5D.mp4",
-      "Ep09": "https://cloud.7so.top/f/Vv7jUg/%5BNekomoe%20kissaten%5D%5BLIAR%20GAME%5D%5B09%5D%5B1080p%5D%5BJPTC%5D%281%29.mp4"
+      "Ep09": "https://cloud.7so.top/f/Vv7jUg/%5BNekomoe%20kissaten%5D%5BLIAR%20GAME%5D%5B09%5D%5B1080p%5D%5BJPTC%5D%281%29.mp4",
+      "Ep10": "https://cloud.7so.top/f/r297i2/%5BNekomoe%20kissaten%5D%5BLIAR%20GAME%5D%5B10%5D%5B1080p%5D%5BJPTC%5D.mp4"
+    }
+  },
+  "黃泉使者": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/wongJ01.jpg",
+    "vod_remarks": "更新到第11集",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/BNwVF8/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2001%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
+      "Ep02": "https://cloud.7so.top/f/D1yGi3/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2002%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
+      "Ep03": "https://cloud.7so.top/f/E8zAsp/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2003%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
+      "Ep04": "https://cloud.7so.top/f/GvBGCA/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2004%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
+      "Ep05": "https://cloud.7so.top/f/Jy0VUK/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2005%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
+      "Ep06": "https://cloud.7so.top/f/BNxPh8/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2006%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
+      "Ep07": "https://cloud.7so.top/f/D1z8t3/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2007%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
+      "Ep08": "https://cloud.7so.top/f/vQZxUA/%5Borion%20origin%5D%20Yomi%20no%20Tsugai%20%5B08%5D%20%5B1080p%5D%20%5BH265%20AAC%5D%20%5BCHT_JPN%5D.mp4",
+      "Ep09": "https://cloud.7so.top/f/Og8Kcv/%5Borion%20origin%5D%20Yomi%20no%20Tsugai%20%5B09%5D%20%5B1080p%5D%20%5BH265%20AAC%5D%20%5BCHT_JPN%5D.mp4",
+      "Ep10": "https://cloud.7so.top/f/PjQxc3/%5Borion%20origin%5D%20Yomi%20no%20Tsugai%20%5B10%5D%20%5B1080p%5D%20%5BH265%20AAC%5D%20%5BCHT_JPN%5D.mp4",
+      "Ep11": "https://cloud.7so.top/f/w0rxCy/%5BLoliHouse%5D%20Yomi%20no%20Tsugai%20-%2011%20%5BWebRip%201080p%20HEVC-10bit%20AAC%20ASSx2%5D.mkv"
     }
   },
   "一拳超人": {
@@ -444,19 +462,6 @@
       "EP11 北方诸国的冬季": "https://cloud.7so.top/f/4Q3DUl/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2011.mkv",
       "EP12 真正的勇者": "https://cloud.7so.top/f/5Q4rc6/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2012.mkv",
       "EP13 同类厌恶": "https://cloud.7so.top/f/6XNjHy/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE%2013.mkv"
-    }
-  },
-  "黃泉使者": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/wongJ01.jpg",
-    "vod_remarks": "更新到第5集",
-    "dogpan": {
-      "Ep01": "https://cloud.7so.top/f/BNwVF8/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2001%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
-      "Ep02": "https://cloud.7so.top/f/D1yGi3/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2002%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
-      "Ep03": "https://cloud.7so.top/f/E8zAsp/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2003%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
-      "Ep04": "https://cloud.7so.top/f/GvBGCA/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2004%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
-      "Ep05": "https://cloud.7so.top/f/Jy0VUK/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2005%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
-      "Ep06": "https://cloud.7so.top/f/BNxPh8/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2006%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
-      "Ep07": "https://cloud.7so.top/f/D1z8t3/%5BANi%5D%20%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85%20-%2007%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4"
     }
   }
 }
