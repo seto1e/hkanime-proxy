@@ -98,6 +98,13 @@
       "元素大都會": "https://dogpan.com/f/L9R6IQ/%E5%85%83%E7%B4%A0%E5%A4%A7%E9%83%BD%E6%9C%83.mkv"
     }
   },
+  "光年正傳": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/light.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "光年正傳": "https://cloud.7so.top/f/Rl19h5/%E5%85%89%E5%B9%B4%E6%AD%A3%E5%82%B3%20Lightyear%20%E5%B7%B4%E6%96%AF%E5%85%89%E5%B9%B42022.mkv"
+    }
+  },
   "反斗奇兵": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys1.jpg",
     "vod_remarks": "粵語",
@@ -176,6 +183,20 @@
     "vod_remarks": "粵語",
     "dogpan": {
       "美食風球 2": "https://cloud.7so.top/f/ANw6fE/%E7%BE%8E%E9%A3%9F%E9%A2%A8%E7%90%83%2002.mkv"
+    }
+  },
+  "怪獸公司": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/monsters.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "怪獸公司": "https://cloud.7so.top/f/zvRvT4/%E6%80%AA%E7%8D%B8%E5%85%AC%E5%8F%B8%2001.mkv"
+    }
+  },
+  "怪獸大學": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/monsters02.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "怪獸大學": "https://cloud.7so.top/f/XQDDtO/%E6%80%AA%E7%8D%B8%E5%A4%A7%E5%AD%B8%2002.mkv"
     }
   }
 }
