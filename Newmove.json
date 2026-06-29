@@ -159,5 +159,20 @@
     "dogpan": {
       "米高積遜": "https://dogpan.com/f/Z6E7tQ/%E7%B1%B3%E9%AB%98%E7%A9%8D%E9%81%9C.mp4"
     }
+  },
+  "第三類接觸": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/ufo1.jpg",
+    "dogpan": {
+      "第三類接觸": "https://cloud.7so.top/f/GRWACA/%E7%AC%AC%E4%B8%89%E9%A1%9E%E6%8E%A5%E8%A7%B8.mp4"
+    }
+  },
+  "神的遊戲": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/gods.jpg",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/J8WAIK/0d252136-0a57-43af-85ff-170195608ba4.mov",
+      "Ep02": "https://cloud.7so.top/f/K89kS4/54168daf-b9a1-4a45-8cc6-f954269b2ae2.mov",
+      "Ep03": "https://cloud.7so.top/f/LZW2cQ/d35960bb-afbb-4ac8-9edf-1f21737c9c64.mov",
+      "Ep04": ""
+    }
   }
 }
