@@ -1,4 +1,16 @@
 {
+  "金特務：本色回歸": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/kimman.jpg",
+    "vod_remarks": "更新到第6集 (中字)",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/28A2f8/01index.mp4",
+      "Ep02": "https://cloud.7so.top/f/16zQIq/02index.mp4",
+      "Ep03": "https://cloud.7so.top/f/Z8DmUQ/03index.mp4",
+      "Ep04": "https://cloud.7so.top/f/Y7BVCA/04index.mp4",
+      "Ep05": "https://cloud.7so.top/f/XQA7uO/05index.mp4",
+      "Ep06": "https://cloud.7so.top/f/WPz8hD/%2006ndex.mp4"
+    }
+  },
   "超能路人甲": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/super.jpg",
     "vod_remarks": "1-8集(中字)",
@@ -142,14 +154,7 @@
       "Ep22": "https://cloud.7so.top/f/z6nEF4/ChengHTT.Y.720.EP22.mp4",
       "Ep23": "https://cloud.7so.top/f/A6mxHE/ChengHTT.Y.720.EP23.mp4",
       "Ep24": "https://cloud.7so.top/f/BrnjF8/ChengHTT.Y.720.EP24.mp4",
-      "Ep25": "https://cloud.7so.top/f/Dq0oU3/ChengHTT.Y.720.EP25.mp4",
-      "Ep26": "",
-      "Ep27": "",
-      "Ep28": "",
-      "Ep29": "",
-      "Ep30": "",
-      "Ep31": "",
-      "Ep32": ""
+      "Ep25": "https://cloud.7so.top/f/Dq0oU3/ChengHTT.Y.720.EP25.mp4"
     }
   },
   "哈利波特": {
