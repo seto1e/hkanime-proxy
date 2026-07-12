@@ -1,4 +1,11 @@
 {
+  "功夫女足": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/kofu.jpg",
+    "vod_remarks": "中字(搶先版)",
+    "dogpan": {
+      "功夫女足": "https://cloud.7so.top/f/RlrPs5/index.mp4"
+    }
+  },
   "迷你兵團與大怪獸": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/minionsM.jpg",
     "vod_remarks": "中字(搶先版)",
@@ -18,6 +25,20 @@
     "vod_remarks": "中字",
     "dogpan": {
       "福爾摩斯小姐3": "https://cloud.7so.top/f/w0yESy/Enola.Holmes.3.2026.1080p.WEBRip.mkv"
+    }
+  },
+  "火遮眼": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/fireeye.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "火遮眼": "https://cloud.7so.top/f/QkqkCo/index.mp4"
+    }
+  },
+  "宗師葉問": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/ipman.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "宗師葉問": "https://cloud.7so.top/f/VvyQCg/index.mp4"
     }
   },
   "綿羊偵探團": {
@@ -222,6 +243,13 @@
       "Ep02": "https://cloud.7so.top/f/LZW2cQ/d35960bb-afbb-4ac8-9edf-1f21737c9c64.mov",
       "Ep03": "https://cloud.7so.top/f/J8WAIK/0d252136-0a57-43af-85ff-170195608ba4.mov",
       "Ep04": ""
+    }
+  },
+  "超級學校霸王": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/supershool.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "超級學校霸王": "https://cloud.7so.top/f/LZ1qIQ/%E8%B6%85%E7%B4%9A%E5%AD%B8%E6%A0%A1%E9%9C%B8%E7%8E%8B.mp4"
     }
   }
 }
