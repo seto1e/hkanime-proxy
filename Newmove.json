@@ -1,4 +1,11 @@
 {
+  " 魔海奇緣 真人版": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/msea.jpg",
+    "vod_remarks": "中字(搶先版)",
+    "dogpan": {
+      "魔海奇緣 真人版": "https://yun.7so.top/f/DqA8s3/index.mp4"
+    }
+  },
   "功夫女足": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/kofu.jpg",
     "vod_remarks": "中字(搶先版)",
@@ -25,6 +32,13 @@
     "vod_remarks": "中字",
     "dogpan": {
       "福爾摩斯小姐3": "https://yun.7so.top/f/Z8omfQ/E3.mkv"
+    }
+  },
+  "乘嚇": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/passenger.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "乘嚇": "https://yun.7so.top/f/EqBPtp/index.mp4"
     }
   },
   "火遮眼": {
