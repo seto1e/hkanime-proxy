@@ -1,7 +1,7 @@
 {
   "金特務：本色回歸": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/kimman.jpg",
-    "vod_remarks": "更新到第8集 (中字)",
+    "vod_remarks": "第1-10集 (中字)",
     "dogpan": {
       "Ep01": "https://cloud.7so.top/f/28A2f8/01index.mp4",
       "Ep02": "https://cloud.7so.top/f/16zQIq/02index.mp4",
@@ -10,7 +10,9 @@
       "Ep05": "https://cloud.7so.top/f/XQA7uO/05index.mp4",
       "Ep06": "https://cloud.7so.top/f/WPz8hD/%2006ndex.mp4",
       "Ep07": "https://yun.7so.top/f/A6x6SE/07index.mp4",
-      "Ep08": "https://yun.7so.top/f/BryPF8/08ndex.mp4"
+      "Ep08": "https://yun.7so.top/f/BryPF8/08ndex.mp4",
+      "Ep09": "https://yun.7so.top/f/vQpDcA/09index.mp4",
+      "Ep10": "https://yun.7so.top/f/w0q2iy/10index.mp4"
     }
   },
   "超能路人甲": {
@@ -130,7 +132,7 @@
   },
   "成何體統": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sing.jpg",
-    "vod_remarks": "更新到第25集(粵語)",
+    "vod_remarks": "第1-25集(粵語)",
     "dogpan": {
       "Ep01": "https://cloud.7so.top/f/Y75zhA/ChengHTT.Y.720.EP01.mp4",
       "Ep02": "https://cloud.7so.top/f/Z80kiQ/ChengHTT.Y.720.EP02.mp4",
