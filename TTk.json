@@ -1,14 +1,40 @@
 {
-  "格鬥實況": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/flight.jpg",
-    "vod_remarks": "1-6集 / 中字",
+  "GTO  第二季": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/GTO2.jpg",
+    "vod_remarks": "更新中",
     "dogpan": {
-      "Ep01": "https://cloud.7so.top/f/oZyRsv/%E6%A0%BC%E9%AC%A5%E5%AF%A6%E6%B3%8101.mp4",
-      "Ep02": "https://cloud.7so.top/f/pZ2YtA/02.mp4",
-      "Ep03": "https://cloud.7so.top/f/qQZjUX/03.mp4",
-      "Ep04": "https://cloud.7so.top/f/r29RU2/04.mp4",
-      "Ep05": "https://cloud.7so.top/f/vQZlfA/05.mp4",
-      "Ep06": "https://cloud.7so.top/f/w0r0Hy/06.mp4"
+      "Ep01": "",
+      "Ep02": ""
+    }
+  },
+  "氣體人第一號": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/airman.jpg",
+    "vod_remarks": "更新中",
+    "dogpan": {
+      "Ep01": "",
+      "Ep02": "",
+      "Ep03": "",
+      "Ep04": "",
+      "Ep05": "",
+      "Ep06": "",
+      "Ep07": "",
+      "Ep08": ""
+    }
+  },
+  "聰明鎮": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/smart1.jpg",
+    "vod_remarks": "更新中",
+    "dogpan": {
+      "Ep01": "",
+      "Ep02": "",
+      "Ep03": "",
+      "Ep04": "",
+      "Ep05": "",
+      "Ep06": "",
+      "Ep07": "",
+      "Ep08": "",
+      "Ep09": "",
+      "Ep10": ""
     }
   },
   "重生～最後的英雄": {
@@ -24,6 +50,18 @@
       "Ep07": "https://cloud.7so.top/f/6W8muy/%5BFHD%E6%97%A5%E5%8A%87%5D%20%E9%87%8D%E7%94%9F%EF%BD%9E%E6%9C%80%E5%BE%8C%E7%9A%84%E8%8B%B1%E9%9B%84%EF%BD%9E%20S01E07.mkv",
       "Ep08": "https://cloud.7so.top/f/793DhZ/%5BFHD%E6%97%A5%E5%8A%87%5D%20%E9%87%8D%E7%94%9F%EF%BD%9E%E6%9C%80%E5%BE%8C%E7%9A%84%E8%8B%B1%E9%9B%84%EF%BD%9E%20S01E08.mkv",
       "Ep09": "https://cloud.7so.top/f/mqOxUW/%E9%87%8D%E7%94%9F%EF%BD%9E%E6%9C%80%E5%BE%8C%E7%9A%84%E8%8B%B1%E9%9B%84%EF%BD%9E%20S01E09.mkv"
+    }
+  },
+  "格鬥實況": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/flight.jpg",
+    "vod_remarks": "1-6集 / 中字",
+    "dogpan": {
+      "Ep01": "https://cloud.7so.top/f/oZyRsv/%E6%A0%BC%E9%AC%A5%E5%AF%A6%E6%B3%8101.mp4",
+      "Ep02": "https://cloud.7so.top/f/pZ2YtA/02.mp4",
+      "Ep03": "https://cloud.7so.top/f/qQZjUX/03.mp4",
+      "Ep04": "https://cloud.7so.top/f/r29RU2/04.mp4",
+      "Ep05": "https://cloud.7so.top/f/vQZlfA/05.mp4",
+      "Ep06": "https://cloud.7so.top/f/w0r0Hy/06.mp4"
     }
   },
   "一點點超能力": {
