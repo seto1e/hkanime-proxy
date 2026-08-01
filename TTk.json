@@ -1,7 +1,7 @@
 {
   "GTO  第二季": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/GTO2.jpg",
-    "vod_remarks": "更新中",
+    "vod_remarks": "更新到第2集 / 中字",
     "dogpan": {
       "Ep01": "",
       "Ep02": ""
@@ -9,32 +9,16 @@
   },
   "氣體人第一號": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/airman.jpg",
-    "vod_remarks": "更新中",
+    "vod_remarks": "1-8集 / 中字",
     "dogpan": {
-      "Ep01": "",
-      "Ep02": "",
-      "Ep03": "",
-      "Ep04": "",
-      "Ep05": "",
-      "Ep06": "",
-      "Ep07": "",
-      "Ep08": ""
-    }
-  },
-  "聰明鎮": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/smart1.jpg",
-    "vod_remarks": "更新中",
-    "dogpan": {
-      "Ep01": "",
-      "Ep02": "",
-      "Ep03": "",
-      "Ep04": "",
-      "Ep05": "",
-      "Ep06": "",
-      "Ep07": "",
-      "Ep08": "",
-      "Ep09": "",
-      "Ep10": ""
+      "Ep01": "https://yun.7so.top/f/x6WLux/01index.mp4",
+      "Ep02": "https://yun.7so.top/f/ywWkfL/02index.mp4",
+      "Ep03": "https://yun.7so.top/f/z6g4F4/03index.mp4",
+      "Ep04": "https://yun.7so.top/f/A6ErHE/04index.mp4",
+      "Ep05": "https://yun.7so.top/f/BrGpT8/05index.mp4",
+      "Ep06": "https://yun.7so.top/f/DqK7F3/06index.mp4",
+      "Ep07": "https://yun.7so.top/f/oZW0cv/07index.mp4",
+      "Ep08": "https://yun.7so.top/f/pZWPfA/08index.mp4"
     }
   },
   "重生～最後的英雄": {
