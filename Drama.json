@@ -3,28 +3,16 @@
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/momo1.jpg",
     "vod_remarks": "更新中",
     "dogpan": {
-      "Ep01": "",
-      "Ep02": "",
-      "Ep03": "",
-      "Ep04": ""
+      "Ep01": "https://yun.7so.top/f/vQ6piA/01index.mp4",
+      "Ep02": "https://yun.7so.top/f/w066ty/02index.mp4",
+      "Ep03": "https://yun.7so.top/f/x6W0ux/03index.mp4",
+      "Ep04": "https://yun.7so.top/f/ywWBUL/04index.mp4",
+      "Ep05": "",
+      "Ep06": ""
     }
   },
   "鬼迷東宮": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/eastpalace.jpg",
-    "vod_remarks": "更新中",
-    "dogpan": {
-      "Ep01": "",
-      "Ep02": "",
-      "Ep03": "",
-      "Ep04": "",
-      "Ep05": "",
-      "Ep06": "",
-      "Ep07": "",
-      "Ep08": ""
-    }
-  },
-  "聰明鎮": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/smart1.jpg",
     "vod_remarks": "更新中",
     "dogpan": {
       "Ep01": "",
