@@ -56,12 +56,13 @@
   },
   "世界最強後衛": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/stong.jpg",
-    "vod_remarks": "更新到第04集 (日語/中字)",
+    "vod_remarks": "更新到第05集 (日語/中字)",
     "dogpan": {
       "Ep01": "https://cloud.7so.top/f/r251i2/%5BLoliHouse%5D%20Sekai%20Saikyou%20no%20Kouei%20-%2001%20%5BWebRip%201080p%20HEVC-10bit%20AAC%20SRTx2%5D.mkv",
       "Ep02": "https://yun.7so.top/f/K8R5i4/%5BLoliHouse%5D%20Sekai%20Saikyou%20no%20Kouei%20-%2002%20%5BWebRip%201080p%20HEVC-10bit%20AAC%20SRTx2%5D.mkv",
       "Ep03": "https://yun.7so.top/f/BrYpI8/%5BLoliHouse%5D%20Sekai%20Saikyou%20no%20Kouei%20-%2003%20%5BWebRip%201080p%20HEVC-10bit%20AAC%20SRTx2%5D.mkv",
-      "Ep04": "https://yun.7so.top/f/DqV7u3/%5BLoliHouse%5D%20Sekai%20Saikyou%20no%20Kouei%20-%2004%20%5BWebRip%201080p%20HEVC-10bit%20AAC%20SRTx2%5D.mkv"
+      "Ep04": "https://yun.7so.top/f/DqV7u3/%5BLoliHouse%5D%20Sekai%20Saikyou%20no%20Kouei%20-%2004%20%5BWebRip%201080p%20HEVC-10bit%20AAC%20SRTx2%5D.mkv",
+      "Ep05": "https://yun.7so.top/f/WPEOID/%5BLoliHouse%5D%20Sekai%20Saikyou%20no%20Kouei%20-%2005%20%5BWebRip%201080p%20HEVC-10bit%20AAC%20SRTx2%5D.mkv"
     }
   },
   "地獄模式-喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙": {
@@ -85,6 +86,30 @@
       "Ep15": "https://yun.7so.top/f/LZRnhQ/%5BANi%5D%20%E5%9C%B0%E7%8D%84%E6%A8%A1%E5%BC%8F%20%EF%BD%9E%E5%96%9C%E6%AD%A1%E6%8C%91%E6%88%B0%E7%89%B9%E6%AE%8A%E6%88%90%E5%B0%B1%E7%9A%84%E7%8E%A9%E5%AE%B6%E5%9C%A8%E5%BB%A2%E8%A8%AD%E5%AE%9A%E7%9A%84%E7%95%B0%E4%B8%96%E7%95%8C%E6%88%90%E7%82%BA%E7%84%A1%E9%9B%99%EF%BD%9E%202nd%20Season%20-%2015%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
       "Ep16": "https://yun.7so.top/f/EqV2Cp/%5BANi%5D%20%E5%9C%B0%E7%8D%84%E6%A8%A1%E5%BC%8F%20%EF%BD%9E%E5%96%9C%E6%AD%A1%E6%8C%91%E6%88%B0%E7%89%B9%E6%AE%8A%E6%88%90%E5%B0%B1%E7%9A%84%E7%8E%A9%E5%AE%B6%E5%9C%A8%E5%BB%A2%E8%A8%AD%E5%AE%9A%E7%9A%84%E7%95%B0%E4%B8%96%E7%95%8C%E6%88%90%E7%82%BA%E7%84%A1%E9%9B%99%EF%BD%9E%202nd%20Season%20-%2016%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4",
       "Ep17": "https://yun.7so.top/f/pZWRHA/%5BANi%5D%20%E5%9C%B0%E7%8D%84%E6%A8%A1%E5%BC%8F%20%EF%BD%9E%E5%96%9C%E6%AD%A1%E6%8C%91%E6%88%B0%E7%89%B9%E6%AE%8A%E6%88%90%E5%B0%B1%E7%9A%84%E7%8E%A9%E5%AE%B6%E5%9C%A8%E5%BB%A2%E8%A8%AD%E5%AE%9A%E7%9A%84%E7%95%B0%E4%B8%96%E7%95%8C%E6%88%90%E7%82%BA%E7%84%A1%E9%9B%99%EF%BD%9E%202nd%20Season%20-%2017%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4"
+    }
+  },
+  "Rilakkuma (短篇電視動畫)": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/LiLi3.jpg",
+    "vod_remarks": "更新到第18集",
+    "dogpan": {
+      "Ep01": "https://yun.7so.top/f/XQGDIO/Li%20-%2001%20.mp4",
+      "Ep02": "https://yun.7so.top/f/Y7J6sA/Li%20-%2002%20.mp4",
+      "Ep03": "https://yun.7so.top/f/Z8KVtQ/Li%20-%2003.mp4",
+      "Ep04": "https://yun.7so.top/f/16oWcq/Li%20-%2004.mp4",
+      "Ep05": "https://yun.7so.top/f/28p8C8/Li%20-%2005.mp4",
+      "Ep06": "https://yun.7so.top/f/36qyh2/Li%20-%2006.mp4",
+      "Ep07": "https://yun.7so.top/f/6Wwmiy/Li%20-%2007%20.mp4",
+      "Ep08": "https://yun.7so.top/f/83yBHY/Li%20-%2008%20.mp4",
+      "Ep09": "https://yun.7so.top/f/46rLil/Li%20-%2009.mp4",
+      "Ep10": "https://yun.7so.top/f/99zOu2/Li%20-%2010.mp4",
+      "Ep11": "https://yun.7so.top/f/57vWI6/Li%20-%2011.mp4",
+      "Ep12": "https://yun.7so.top/f/08nEfm/Li%20-%2012.mp4",
+      "Ep13": "https://yun.7so.top/f/gpqMhG/Li%20-%2013.mp4",
+      "Ep14": "https://yun.7so.top/f/jYwJcR/Li%20-%2014.mp4",
+      "Ep15": "https://yun.7so.top/f/k2xjT5/Li%20-%2015.mp4",
+      "Ep16": "https://yun.7so.top/f/lRy0iX/Li%20-%2016.mp4",
+      "Ep17": "https://yun.7so.top/f/79xDsZ/Li%20-%2017.mp4",
+      "Ep18": "https://yun.7so.top/f/mqz6HW/Li%20-%2018.mp4"
     }
   },
   "雞鬥士": {
@@ -645,30 +670,6 @@
     "dogpan": {
       "街頭霸王0 上集": "https://cloud.7so.top/f/OgX3hv/%E8%A1%97%E9%A0%AD%E9%9C%B8%E7%8E%8B0%E4%B8%8A%E9%9B%86.mp4",
       "街頭霸王0 下集": "https://cloud.7so.top/f/PjKBs3/%E8%A1%97%E9%A0%AD%E9%9C%B8%E7%8E%8B0%E4%B8%8B%E9%9B%86.mp4"
-    }
-  },
-  "Rilakkuma (短篇電視動畫)": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/LiLi3.jpg",
-    "vod_remarks": "更新到第18集",
-    "dogpan": {
-      "Ep01": "",
-      "Ep02": "",
-      "Ep03": "",
-      "Ep04": "",
-      "Ep05": "",
-      "Ep06": "",
-      "Ep07": "",
-      "Ep08": "",
-      "Ep09": "",
-      "Ep10": "",
-      "Ep11": "",
-      "Ep12": "",
-      "Ep13": "",
-      "Ep14": "",
-      "Ep15": "",
-      "Ep16": "",
-      "Ep17": "",
-      "Ep18": ""
     }
   }
 }
