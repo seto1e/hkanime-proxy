@@ -13,11 +13,15 @@
   },
   "日落下的彩虹": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/sunrain.jpg",
-    "vod_remarks": "更新到第3集",
+    "vod_remarks": "更新到第7集",
     "dogpan": {
       "Ep01": "https://yun.7so.top/f/A6EkHE/01index.mp4",
       "Ep02": "https://yun.7so.top/f/A6LkSE/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9%20%E7%AC%AC2%E9%9B%86%20%E7%B7%9A%E4%B8%8A%E7%9C%8B%20%281%29.mp4",
-      "Ep03": "https://yun.7so.top/f/BrMZI8/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9%20%E7%AC%AC3%E9%9B%86%20%E7%B7%9A%E4%B8%8A%E7%9C%8B.mp4"
+      "Ep03": "https://yun.7so.top/f/BrMZI8/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9%20%E7%AC%AC3%E9%9B%86%20%E7%B7%9A%E4%B8%8A%E7%9C%8B.mp4",
+      "Ep04": "https://yun.7so.top/f/K8jZH4/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9%20%E7%AC%AC4%E9%9B%86%20%E7%B7%9A%E4%B8%8A%E7%9C%8B.mp4",
+      "Ep05": "https://yun.7so.top/f/LZk7TQ/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9%20%E7%AC%AC5%E9%9B%86%20%E7%B7%9A%E4%B8%8A%E7%9C%8B.mp4",
+      "Ep06": "https://yun.7so.top/f/MZlZUz/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9%20%E7%AC%AC6%E9%9B%86%20%E7%B7%9A%E4%B8%8A%E7%9C%8B.mp4",
+      "Ep07": "https://yun.7so.top/f/NOmYhj/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9%20%E7%AC%AC7%E9%9B%86%20%E7%B7%9A%E4%B8%8A%E7%9C%8B.mp4"
     }
   },
   "鬼迷東宮": {
