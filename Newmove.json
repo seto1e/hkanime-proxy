@@ -1,4 +1,18 @@
 {
+  "惡魔之口": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/mouth.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "惡魔之口": "https://yun.7so.top/f/08kjim/index.mp4"
+    }
+  },
+  "世外": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/wou.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "世外": "https://yun.7so.top/f/gpjqsG/index.mp4"
+    }
+  },
   "蜘蛛侠：英雄重生": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/spiderman.jpg",
     "vod_remarks": "中字(搶先版)",
