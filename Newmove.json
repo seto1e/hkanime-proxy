@@ -1,4 +1,32 @@
 {
+  "迷你兵團與大怪獸": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/minionsM.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "迷你兵團與大怪獸": "https://yun.7so.top/f/ywNXiL/index.mp4"
+    }
+  },
+  "反斗奇兵 5": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys5.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "反斗奇兵 5": "https://yun.7so.top/f/z6Ons4/05index.mp4"
+    }
+  },
+  "後室": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/backdoor.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "後室": "https://yun.7so.top/f/r24AU2/index.mp4"
+    }
+  },
+  "屍速禁區": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/CC.jpg",
+    "vod_remarks": "中字",
+    "dogpan": {
+      "屍速禁區": "https://yun.7so.top/f/A6ZQtE/index.mp4"
+    }
+  },
   "鬼玩人:煉獄": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/EVL.jpg",
     "vod_remarks": "中字",
@@ -74,20 +102,6 @@
     "vod_remarks": "中字(搶先版)",
     "dogpan": {
       "功夫女足": "https://cloud.7so.top/f/RlrPs5/index.mp4"
-    }
-  },
-  "迷你兵團與大怪獸": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/minionsM.jpg",
-    "vod_remarks": "中字(搶先版)",
-    "dogpan": {
-      "迷你兵團與大怪獸": "https://cloud.7so.top/f/BrE9I8/%E5%B0%8F%E9%BB%83%E4%BA%BA%E8%88%87%E5%A4%A7%E6%80%AA%E7%8D%B8.mp4"
-    }
-  },
-  "反斗奇兵 5": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys5.jpg",
-    "vod_remarks": "中字(搶先版)",
-    "dogpan": {
-      "反斗奇兵 5": "https://cloud.7so.top/f/K8mQH4/%E7%8E%A9%E5%85%B7%E7%B8%BD%E5%8B%95%E5%93%A15.mp4"
     }
   },
   "福爾摩斯小姐3": {
@@ -223,13 +237,6 @@
       "重返重生": "https://cloud.7so.top/f/vQQlFA/%E9%87%8D%E8%BF%94%E9%87%8D%E7%94%9F.mp4"
     }
   },
-  "後室": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/backdoor.jpg",
-    "vod_remarks": "中字",
-    "dogpan": {
-      "後室": "https://yun.7so.top/f/r24AU2/index.mp4"
-    }
-  },
   "驚天神偷團": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/tin.jpg",
     "vod_remarks": "中字",
@@ -263,13 +270,6 @@
     "vod_remarks": "中字",
     "dogpan": {
       "ONE IN A MILLION": "https://cloud.7so.top/f/BrR4I8/One.In.A.Mill10n.2025.1080p.WEBRip.mkv"
-    }
-  },
-  "屍速禁區": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/CC.jpg",
-    "vod_remarks": "中字",
-    "dogpan": {
-      "屍速禁區": "https://cloud.7so.top/f/oVMrcv/%E7%A6%81%E4%BD%93.mp4"
     }
   },
   "真人快打II": {
