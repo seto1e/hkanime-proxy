@@ -1,4 +1,12 @@
 {
+  "反斗奇兵 5": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys5.jpg",
+    "vod_remarks": "粵語",
+    "dogpan": {
+      "粵語": "https://yun.7so.top/f/qQNEIX/Toy.Story.5.2026.1080p.WEBRip.3Audio.mkv",
+      "英语": "https://yun.7so.top/f/z6Ons4/05index.mp4"
+    }
+  },
   "末世橡樹街": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/End OAK.jpg",
     "vod_remarks": "中字(HD)",
@@ -89,13 +97,6 @@
     "dogpan": {
       "迷你兵團與大怪獸 (new)": "https://yun.7so.top/f/46BECl/index.mp4",
       "迷你兵團 (old) 粵語": "https://yun.7so.top/f/ywNXiL/index.mp4"
-    }
-  },
-  "反斗奇兵 5": {
-    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys5.jpg",
-    "vod_remarks": "中字",
-    "dogpan": {
-      "反斗奇兵 5": "https://yun.7so.top/f/z6Ons4/05index.mp4"
     }
   },
   "後室": {
