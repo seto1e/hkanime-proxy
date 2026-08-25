@@ -1,4 +1,11 @@
 {
+  "夜王": {
+    "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/YW.jpg",
+    "vod_remarks": "粵語(HD)",
+    "dogpan": {
+      "夜王": "https://yun.7so.top/f/28Lgi8/Night.King.2026.1080p.WEBRip.mkv"
+    }
+  },
   "反斗奇兵 5": {
     "vod_pic": "https://raw.githubusercontent.com/seto1e/hkanime-proxy/main/toys5.jpg",
     "vod_remarks": "粵語",
